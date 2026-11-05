@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Secrets and credentials (never commit)
+.env
+*.env
+*token*
+*secret*
+*.pem
+*.key
+
+# Models and caches (re-downloaded on each pod)
+models/
+.cache/
+hf_cache/
+*.safetensors
+*.bin
+*.gguf
+
+# Raw data (pulled from Hugging Face at runtime)
+data/raw/
+
+# OS
+.DS_Store
+Thumbs.db
