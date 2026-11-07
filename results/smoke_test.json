@@ -1,0 +1,67 @@
+{
+  "model": "Qwen/Qwen3.5-4B",
+  "gold_answer": "C",
+  "prompt_tail": "Answer with only the letter of the correct option.\n\nDeficiency of which vitamin causes scurvy?\nA. Vitamin A\nB. Vitamin B12\nC. Vitamin C\nD. Vitamin D<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\n",
+  "token_probability": {
+    "raw": {
+      "A": 6.602923622080092e-05,
+      "B": 1.8917692910274075e-05,
+      "C": 0.9995916887909935,
+      "D": 0.0002959225062935338
+    },
+    "letter_mass": 0.9999725582264181,
+    "normalized": {
+      "A": 6.603104822987583e-05,
+      "B": 1.891821205956599e-05,
+      "C": 0.9996191201125558,
+      "D": 0.0002959306271548001
+    },
+    "top_tokens": [
+      [
+        "C",
+        0.9996
+      ],
+      [
+        "D",
+        0.0003
+      ],
+      [
+        "A",
+        0.0001
+      ],
+      [
+        "B",
+        0.0
+      ],
+      [
+        "<|im_end|>",
+        0.0
+      ],
+      [
+        "<think>",
+        0.0
+      ],
+      [
+        " C",
+        0.0
+      ],
+      [
+        "c",
+        0.0
+      ],
+      [
+        "(C",
+        0.0
+      ],
+      [
+        "The",
+        0.0
+      ]
+    ]
+  },
+  "verbalized": {
+    "text": "Answer and Confidence (0-100): C, 100%",
+    "parsed_letter": "C",
+    "parsed_confidence": 100
+  }
+}
