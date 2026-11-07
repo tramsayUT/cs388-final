@@ -36,7 +36,7 @@ TRUNCATED_NO_ANSWER: str = "truncated_no_answer"
 LOW_MASS_THRESHOLD: float = 0.5
 
 VERBAL_PATTERN = re.compile(
-    r"(?<![A-Za-z])\(?([ABCD])\)?(?![A-Za-z])\s*[,:;\-]?\s*(\d{1,3}(?:\.\d+)?)\s*%?"
+    r"(?<![A-Za-z])[\(\[]?([ABCD])[\)\]]?(?![A-Za-z])\s*[,:;\-]?\s*\[?(\d{1,3}(?:\.\d+)?)\]?\s*%?"
 )
 ANSWER_PATTERN = re.compile(r"answer\s*(?:is)?\s*[:\-]?\s*\**\(?([ABCD])\)?\**(?![A-Za-z])", re.IGNORECASE)
 
@@ -276,6 +276,9 @@ def self_test() -> list[str]:
         "D, 150%": (3, None, CONFIDENCE_OUT_OF_RANGE),
         "I am not sure about this question.": (None, None, NO_MATCH),
         "Answer and Confidence (0-100): B, 85% (because A is wrong, 90)": (1, 0.85, OK),
+        "Answer and Confidence (0-100): B, [100]%": (1, 1.0, OK),
+        "Answer and Confidence (0-100): [C], [75]%": (2, 0.75, OK),
+        "Answer and Confidence (0-100): [Missing Image], 0%": (None, None, NO_MATCH),
     }
     for text, (answer, confidence, status) in cases.items():
         parsed = parse_verbalized(text)

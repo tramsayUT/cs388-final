@@ -32,7 +32,7 @@ TOKEN_PROB_SETTINGS: dict[str, Any] = {"max_tokens": 1, "temperature": 0.0, "log
 VERBAL_SETTINGS: dict[str, Any] = {"max_tokens": 40, "temperature": 0.0}
 REASONING_SETTINGS: dict[str, Any] = {
     "n": 10,
-    "max_tokens": 256,
+    "max_tokens": 512,
     "temperature": 0.7,
     "top_p": 1.0,
     "seed": 388,

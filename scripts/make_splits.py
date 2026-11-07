@@ -2,11 +2,13 @@
 
 Steps:
   1. Load the MedMCQA validation split from Hugging Face.
-  2. Drop the 244 cross-referencing questions (data/splits/excluded_cross_reference_ids.csv)
-     and the 2 questions with subject "Unknown".
+  2. Drop the 244 cross-referencing questions (data/splits/excluded_cross_reference_ids.csv),
+     the 2 questions with subject "Unknown", and questions that refer to an
+     image or figure missing from the dataset (written to
+     data/splits/excluded_image_ids.csv).
   3. Label each question with its training stage (pre-clinical, para-clinical,
      clinical, dental) and its correct answer letter.
-  4. Split into ~1,000 calibration / ~2,937 test questions, stratified by
+  4. Split into 1,000 calibration / ~2,909 test questions, stratified by
      individual subject, with a fixed random seed.
   5. Validate the split and write a summary.
 
@@ -17,6 +19,7 @@ Outputs (IDs and labels only; no question text):
 """
 
 import logging
+import re
 import sys
 from pathlib import Path
 
@@ -30,17 +33,25 @@ logger = logging.getLogger(__name__)
 DATASET_ID: str = "openlifescienceai/medmcqa"
 SPLIT: str = "validation"
 EXCLUDED_PATH: Path = Path("data/splits/excluded_cross_reference_ids.csv")
+IMAGE_EXCLUDED_PATH: Path = Path("data/splits/excluded_image_ids.csv")
 CALIBRATION_PATH: Path = Path("data/splits/calibration.csv")
 TEST_PATH: Path = Path("data/splits/test.csv")
 SUMMARY_PATH: Path = Path("results/split_summary.md")
 
-EXPECTED_POOL_SIZE: int = 3937
+EXPECTED_POOL_SIZE: int = 3909
 CALIBRATION_SIZE: int = 1000
 RANDOM_SEED: int = 388
 DROP_SUBJECTS: set[str] = {"Unknown"}
 LETTERS: list[str] = ["A", "B", "C", "D"]
 OUTPUT_COLUMNS: list[str] = ["id", "subject_name", "stage", "choice_type", "answer"]
 MAX_SHARE_GAP_PCT: float = 2.0
+
+# Question stems that depend on an image, figure, or table not included in MedMCQA.
+IMAGE_PATTERN = re.compile(
+    r"\b(?:image|picture|photo(?:graph)?|figure|diagram|shown (?:below|here|above)|given below|marked|labell?ed|"
+    r"identify the (?:structure|lesion|instrument|organism|condition))\b",
+    re.IGNORECASE,
+)
 
 STAGE_BY_SUBJECT: dict[str, str] = {
     "Anatomy": "pre-clinical",
@@ -98,13 +109,17 @@ def apply_exclusions(df: pd.DataFrame) -> pd.DataFrame:
         raise FileNotFoundError(f"Exclusion list not found: {EXCLUDED_PATH} (run data_checks.py first)")
     excluded_ids = set(pd.read_csv(EXCLUDED_PATH)["id"])
     pool = df[~df["id"].isin(excluded_ids) & ~df["subject_name"].isin(DROP_SUBJECTS)].copy()
+    image_mask = pool["question"].astype(str).str.contains(IMAGE_PATTERN)
+    IMAGE_EXCLUDED_PATH.parent.mkdir(parents=True, exist_ok=True)
+    pool.loc[image_mask, ["id"]].to_csv(IMAGE_EXCLUDED_PATH, index=False)
     logger.info(
-        "Pool: %d rows (removed %d cross-referencing, %d dropped-subject)",
-        len(pool),
+        "Pool: %d rows (removed %d cross-referencing, %d dropped-subject, %d image-dependent)",
+        int((~image_mask).sum()),
         int(df["id"].isin(excluded_ids).sum()),
         int(df["subject_name"].isin(DROP_SUBJECTS).sum()),
+        int(image_mask.sum()),
     )
-    return pool
+    return pool[~image_mask]
 
 
 def add_labels(pool: pd.DataFrame) -> pd.DataFrame:
