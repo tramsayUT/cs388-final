@@ -1,0 +1,2910 @@
+id,subject_name,stage,choice_type,answer
+0009b2fd-7e72-4ed0-b486-92ccb24e43f3,Microbiology,para-clinical,single,A
+004aab8b-a6e3-408f-a255-6824b132d97c,Forensic Medicine,para-clinical,single,B
+00667233-3ef5-4759-bac2-850f41c6cdfc,Dental,dental,single,A
+006fea5f-8d1c-489b-9ea6-1028a64484ab,Forensic Medicine,para-clinical,single,C
+007d53f1-6364-4482-b62e-5b51134a222c,Social & Preventive Medicine,para-clinical,single,D
+00b68a41-476c-4506-9961-35e03dd44243,Biochemistry,pre-clinical,single,D
+01024fa5-94ba-4fa4-b322-6e9733f3553f,Dental,dental,single,A
+0113e4a7-b3a0-43f7-a30f-4e144fbac764,Pathology,para-clinical,multi,D
+0129977e-f5cf-4025-b727-dbf1a4d99c14,Physiology,pre-clinical,single,A
+0138bb1a-4772-4450-9dc8-9b8a626df007,Dental,dental,single,A
+01473bdc-5f91-40c0-a4e0-976ffd9e12f3,Biochemistry,pre-clinical,single,C
+0150cd44-7abc-4723-8a8a-c17de3f20004,Physiology,pre-clinical,single,D
+015438df-2f7d-4298-9da3-f15b1fcef278,Dental,dental,multi,A
+01568e8b-f7f3-45bf-b1e0-3927e972d06c,Dental,dental,single,A
+01731260-fa5c-45ae-bbf3-5aed1b1cb9b9,Dental,dental,single,B
+018e350b-8675-4b2d-99a2-eba98fe07f31,Pediatrics,clinical,multi,B
+0190a0f3-416a-4d56-a172-7738b023fd28,Pharmacology,para-clinical,multi,C
+0190dc62-5b1a-48f7-b0c2-f91fb0fd66e7,Social & Preventive Medicine,para-clinical,multi,D
+01aad4a6-fa51-4a6e-817c-bfb1b4e05caa,Dental,dental,multi,A
+01b1ae45-1e78-43e1-bc18-a13e07539645,Dental,dental,multi,C
+01b445b9-8c7f-4cb1-b14c-d766cd4483dd,Dental,dental,single,A
+01c2e93f-70e6-417c-b779-c037ee975bff,Physiology,pre-clinical,single,C
+01dc74dc-0e66-44a9-a4c2-7594d49b8c88,Dental,dental,single,B
+0209aeca-8c86-4341-afbf-d702a7f4f47c,Dental,dental,single,B
+025ee5f8-15fa-4b65-9e0a-755ae8e2d304,Dental,dental,single,D
+02a06bac-14e5-4bf2-a085-9d14305cd460,Dental,dental,single,A
+02b5fc8b-8dd7-4de9-84b8-ea71c32aac57,Skin,clinical,multi,D
+02b97bc8-316d-45fb-b372-606a62db2218,Pediatrics,clinical,multi,D
+02d36d4b-a89c-4756-b20a-51cb7c392eec,Pathology,para-clinical,single,B
+02e841ba-5ecf-4f3b-974e-e1a077bcae5a,Social & Preventive Medicine,para-clinical,single,B
+02f27add-bf4d-4155-81aa-8f537546ceda,Microbiology,para-clinical,single,C
+031499f6-c4ae-423c-8cef-b0b992ed9bf0,Dental,dental,single,B
+031bf440-dc4a-4278-8ab5-1237ab831337,Dental,dental,multi,C
+035a6e66-f990-4d45-abd9-9855059b027a,Medicine,clinical,single,C
+0383dfdc-42eb-43db-9fc1-34779d337f2e,Social & Preventive Medicine,para-clinical,single,C
+03b86472-e565-4e69-bd54-d84383824de1,Microbiology,para-clinical,single,A
+03c11d83-2266-4c72-89f9-fa2615c10ae2,Anatomy,pre-clinical,single,C
+03d8e823-bd18-40d1-bdb2-b67cb77fa0e8,Pathology,para-clinical,multi,B
+03e82f18-dc4c-4005-b865-18e67f1114ff,Pathology,para-clinical,single,B
+03ecd4a2-40fa-4d0d-af2e-f6c7abbf98eb,Dental,dental,multi,A
+03efd4d9-076b-48c8-b17e-f13e3c87fd6e,Pathology,para-clinical,multi,B
+040b2ed8-9b17-4749-8191-2fcc6ead4f73,Pharmacology,para-clinical,single,A
+040be818-df88-4fad-959a-96d3cc4ee9f1,Pathology,para-clinical,single,C
+0447b9a2-22ec-449c-8a23-a52c28ac6b34,Pathology,para-clinical,single,A
+0449cf80-87b3-4345-8c80-f007398c4fab,Anatomy,pre-clinical,multi,D
+044e8f11-ca21-4220-9ddc-0fca648ed401,Forensic Medicine,para-clinical,single,B
+044eb6e0-ca6d-44bb-8294-c858f9d68de0,Dental,dental,single,A
+0489f20c-a0ce-4251-9eec-e8d5e691a49e,Medicine,clinical,single,B
+04b5defc-1a24-4b6f-b647-4f87f2f82fe0,Anatomy,pre-clinical,single,B
+04c3b35b-a3b2-41a1-b540-12a59137a97c,Medicine,clinical,single,A
+04c8a800-af32-40fb-b60e-45d64d189679,Dental,dental,single,D
+04cefc6e-2c16-4a6a-bf0e-7d6c66e416d6,Pathology,para-clinical,multi,A
+04d3c89a-f5aa-4cb2-8b65-870d81f04d56,Physiology,pre-clinical,single,D
+04e13397-4705-42d1-acbf-06e59fd3c4ee,Pathology,para-clinical,single,C
+04f192d7-760b-468b-a895-658b0efeb566,ENT,clinical,single,A
+0538f9f4-4dfd-45b8-af71-b9378965104b,Dental,dental,single,C
+0545a2b0-b535-46ee-843b-a8adf5c97c40,Surgery,clinical,single,A
+05863ba7-3f7b-48eb-a74b-7cd2598065b4,Pathology,para-clinical,single,A
+05984a75-d9af-4a87-8ac5-824576bf0d9f,Social & Preventive Medicine,para-clinical,multi,A
+059b7c1c-bc8d-499d-ba18-42f173fc6501,Medicine,clinical,single,D
+059d6968-3cf3-49e4-a30c-c15b1f3b3308,Pathology,para-clinical,multi,A
+05ae5b1d-15cd-4035-99a7-d6cae3e4909e,Dental,dental,single,C
+05b86488-310e-4b41-bcd9-05f3f223eca2,Dental,dental,single,B
+05c55694-331d-4f11-a9b4-a5efbc32de79,Gynaecology & Obstetrics,clinical,single,B
+05f7f85c-a5f7-438b-a8b4-afd025228b21,Gynaecology & Obstetrics,clinical,single,A
+05ff9658-0465-4c93-8ff0-ee980071e67a,Dental,dental,single,A
+063acadd-aa14-4684-87cb-ee4ee644da8c,Surgery,clinical,single,C
+064dbb22-b1c7-4606-b620-4848e139c57a,Surgery,clinical,multi,A
+065971a5-7b85-4a6d-a657-8d152956f946,Ophthalmology,clinical,multi,C
+065b4850-1738-4a30-9c3f-1fb89d9c0123,Gynaecology & Obstetrics,clinical,single,A
+0671ba93-8d80-4028-be83-24a1d3adec61,Anatomy,pre-clinical,single,C
+067c672c-d753-487d-aa0b-d6e73f98aa2d,Medicine,clinical,multi,D
+067ce5ef-1dae-4f0a-8a61-bcd7750dd379,Anatomy,pre-clinical,multi,D
+0681bb5e-c1f0-4077-8294-93e36efcc83f,Pathology,para-clinical,single,C
+069b7516-54c4-4e5d-acf7-a7c92fdd2a01,Dental,dental,single,C
+06bece2b-7071-448b-8681-a396bcf4c0f5,Dental,dental,single,C
+06c8d324-ca85-489e-a010-da67157a3240,Dental,dental,single,B
+070ff387-f612-43ac-a23e-ab3e8ed192b4,Forensic Medicine,para-clinical,single,C
+074bdefd-cba3-4e8f-8e9c-b1f75493c7ce,Pathology,para-clinical,single,C
+074d6dbc-2825-4387-ada2-01725dd954e2,Physiology,pre-clinical,single,D
+07549da1-d7ff-4fc2-85a0-a27023bbb810,Radiology,clinical,single,C
+078f8c25-6cf7-4811-9d12-0e0f4ad00e83,Surgery,clinical,single,C
+07ae43c4-3dc2-4ac3-b14e-43c8df876506,Physiology,pre-clinical,single,C
+07d58883-b752-4898-ab70-a1df892ef7bd,Pathology,para-clinical,single,A
+07de25a2-48ee-4f13-883f-78f9f34656fc,Medicine,clinical,single,C
+07f12102-6d93-4392-a50f-fb7424f73683,Dental,dental,single,B
+07f7dc0f-6050-4d44-b532-71e4d2787bac,Surgery,clinical,single,A
+080ecd84-88cb-49eb-a9f5-03569b7fa1f0,Microbiology,para-clinical,single,B
+081b84ad-60a8-4c82-b570-8297ffd15934,Dental,dental,single,A
+081dedb5-37f1-482c-a416-599ac0ab619a,Microbiology,para-clinical,single,A
+081f057e-a610-4985-89dd-309cf04cbe5c,Anatomy,pre-clinical,single,A
+08472a83-8586-4869-b23a-4dd3196fd1a8,Surgery,clinical,single,B
+084820b0-75b4-43ae-adf9-83fb0e20f4eb,Gynaecology & Obstetrics,clinical,single,B
+0849c1f4-59c8-4984-bbf5-bbe26d241f17,Dental,dental,multi,C
+086cd30e-0ed9-4b7b-9346-38529b1445b8,Gynaecology & Obstetrics,clinical,single,A
+08773184-d813-48bd-b8ac-fdcaab87d67c,Pediatrics,clinical,multi,C
+0893ecf7-8416-4784-8211-e63a3ca18f70,Dental,dental,single,A
+0895e4fb-7bf7-4cd2-9cbe-d3baf43d7b71,Pathology,para-clinical,multi,A
+089ef90e-8366-4a21-8b67-e9c59cb4c5a6,Dental,dental,single,D
+08bb32fa-e20c-4854-8b0f-6f661d7321ed,Dental,dental,single,D
+08f3bf0c-adda-4d6b-9a65-04885defc090,Biochemistry,pre-clinical,single,B
+08f757d6-1296-48c4-8307-d4e61d2979b9,Gynaecology & Obstetrics,clinical,single,C
+08fc1a87-43dd-42aa-97ba-3510c4944fdb,Pathology,para-clinical,single,B
+0919bffa-ea11-4e1f-9139-4c20fcd1a394,Dental,dental,single,C
+091c018c-210f-4a46-9b8b-6f2c53d72283,Medicine,clinical,multi,A
+0984768a-39e6-4291-bc0d-fd61da9d2829,Dental,dental,single,C
+099ab3bb-253b-41e1-8250-c41d92781148,Gynaecology & Obstetrics,clinical,multi,D
+09a97945-700d-49da-92e1-8b7c31754b56,Dental,dental,single,B
+09a9c89f-3985-4790-9278-aee1710c59eb,Medicine,clinical,single,C
+09b9375c-41ee-4295-ad27-2a11074d4434,ENT,clinical,single,A
+09ce3345-10ca-4ade-91b7-8b1361c55c99,Pharmacology,para-clinical,single,B
+09e1b073-410a-4395-a142-1c53cec20279,Gynaecology & Obstetrics,clinical,single,B
+09fb16da-a86a-48f7-8e1b-c1b81a6c358d,Dental,dental,single,B
+0a08a713-9a1e-49db-99ed-d0050c717e02,Dental,dental,single,B
+0a3c5105-0818-4067-88e1-fb89e5d36957,Dental,dental,multi,D
+0a886092-8f73-480c-a0e5-c3703a4f6c03,Anatomy,pre-clinical,multi,D
+0a905295-9f26-4b46-827f-1bbe23678338,Surgery,clinical,single,B
+0a96136a-d645-4ad6-9f31-53192793e1d0,Medicine,clinical,single,D
+0aa00d57-86a2-4699-ab06-82f22ecf5438,Dental,dental,single,A
+0ab83c33-04bd-468e-804e-50dce1bdfa19,Surgery,clinical,multi,D
+0ac39111-d0b2-4dda-978c-e7faa6640bd4,Dental,dental,single,B
+0adb3713-fdcf-4c09-96c3-a0d2423f9684,Surgery,clinical,single,A
+0ae79405-095f-47c3-8fa6-e61495e66324,Biochemistry,pre-clinical,single,D
+0b1e3ca7-b56b-4c9c-a660-2ff1a12393b1,Physiology,pre-clinical,single,B
+0b5c2552-58b8-43c0-a6ac-64e9cefc8720,Dental,dental,multi,C
+0b6464fb-9991-443f-bb5b-bdcb155f282e,Pathology,para-clinical,single,A
+0b81f878-0e23-4c6b-9fcd-697e8ea660c3,Anatomy,pre-clinical,single,A
+0ba46472-54a7-4bb9-9802-a0546e24cede,Pharmacology,para-clinical,single,C
+0ba9328b-c265-4d98-8259-314789a2f00d,Pathology,para-clinical,single,C
+0bf8959c-a410-42df-bde1-678d021599d9,Dental,dental,single,C
+0bfdb9f1-4000-4e4f-bab7-6858195faf99,Dental,dental,single,A
+0c07c2bf-0cb4-4dba-91d6-f3cad091298b,Surgery,clinical,single,C
+0c21fc49-e165-4117-a139-d87a85f435f9,Dental,dental,single,C
+0c32cd85-9912-4116-86ce-d65b19a77be9,Dental,dental,single,B
+0c4ca58c-c349-4927-b6b6-2f61d3b604db,Pediatrics,clinical,multi,B
+0c51b741-85ed-462a-ad9f-fbb731df845d,Dental,dental,single,C
+0c826104-685f-4601-beb6-d9d102c15cbd,Dental,dental,single,C
+0c879562-cc36-4620-a809-fd26c1275a47,Gynaecology & Obstetrics,clinical,single,B
+0c897b21-e2f5-4b70-ac40-edc59745a66c,Pathology,para-clinical,single,A
+0c970c10-c97d-4025-b24d-e70245231e41,Skin,clinical,single,C
+0d3453ee-77ef-400b-9e64-4ff5b6cbfcc8,Dental,dental,single,C
+0d96ee7c-7133-4d5a-becf-f9ad47582e54,Anatomy,pre-clinical,single,B
+0dc0ca33-9495-4e3e-a692-eda92b5202da,Dental,dental,single,B
+0dd771c5-9284-4e46-abf0-da8618b12985,Physiology,pre-clinical,single,B
+0df1e153-5d4b-44b2-bd64-8e14c181a974,Pathology,para-clinical,single,B
+0e46082c-1abc-4330-a12d-6948554559a2,Anatomy,pre-clinical,single,C
+0e7917ea-310b-4477-9897-f4901f728448,Biochemistry,pre-clinical,single,D
+0e7c7436-6b35-4b36-b2f2-914d34992d11,Surgery,clinical,single,A
+0ec4a50e-3eb2-44e9-97c5-527a8c6fdd68,Anatomy,pre-clinical,single,D
+0ef0297d-91cb-4320-9d3e-6d04ae3e9c07,Biochemistry,pre-clinical,single,A
+0f037b6e-1a78-40b6-9eed-fbd59fe36618,Dental,dental,multi,A
+0f2b4bd8-8032-44cf-bf8e-ff24900ded1e,Radiology,clinical,single,A
+0f2fc319-7fca-4f39-b2e9-be49e7abe79d,Microbiology,para-clinical,single,C
+0f4d203d-b57b-4936-ba32-f0a888af72a9,Pathology,para-clinical,single,D
+0f589144-f2e9-4377-850f-9dc2aaf127da,Surgery,clinical,single,C
+0f61bb1a-b1ba-43e6-ba9d-5e33f905a2bf,Surgery,clinical,multi,A
+0f86c441-70a5-466d-b59f-1512fe88cbfd,Pediatrics,clinical,single,D
+0f94b2da-37f6-41e8-af47-767fb4c0163b,Pathology,para-clinical,single,D
+0faae553-71d7-467d-ab9e-1d542bfd3f23,Surgery,clinical,single,C
+0fc0b4ce-9bfd-48a2-920d-88c67e2c4e9c,Gynaecology & Obstetrics,clinical,single,C
+0fd4145e-dd41-4526-be14-77e4dc457b1d,Dental,dental,multi,C
+0fd8b1cf-309f-4bcd-b1d6-d6a1f07d440f,Forensic Medicine,para-clinical,single,C
+0fe00e95-fdf2-420f-bc42-8325787a7aae,Surgery,clinical,single,A
+100d2a31-8f28-4500-99c9-67690fe15625,Pharmacology,para-clinical,single,D
+102cc189-c373-4850-a523-676b18741b16,Dental,dental,single,C
+104140eb-9ea9-4d91-8fa2-82aebb82e8ae,Radiology,clinical,single,A
+105be08b-3a40-4e47-831d-f8cae8b90240,Skin,clinical,single,B
+105d2b03-08bf-44da-8372-2ddd2dc43326,Pediatrics,clinical,multi,D
+106a12e2-f1ac-47ae-b05d-d76c1da1ca4a,Pediatrics,clinical,multi,A
+1074d0b1-ca5c-4ace-b60d-2c06ceec9a25,Dental,dental,single,C
+108d98b3-bf9a-4d0b-92f0-3736950e4c20,Physiology,pre-clinical,single,B
+109040fb-d75a-40a0-a2de-e77b0e7a64fe,Dental,dental,multi,C
+10919dfe-e40f-43e4-8e85-0a7679238e21,Pharmacology,para-clinical,single,A
+10b04be8-a89b-4858-b1b6-8af09fe6a716,Pharmacology,para-clinical,single,A
+10b14133-7f8a-43dd-ab66-b0cfd0c784c2,Pathology,para-clinical,single,D
+10baae45-ecc0-4efa-bbb9-cd5b33b79770,Gynaecology & Obstetrics,clinical,single,D
+10bc576b-b04f-41cf-ba0f-f6536df45ca2,Dental,dental,multi,B
+10bd1123-5a30-4895-b50c-4d176aa3a858,Anatomy,pre-clinical,multi,B
+11271a83-0b83-4fb4-b809-05e352546743,Social & Preventive Medicine,para-clinical,single,C
+112a2f9e-e59f-4ae5-913f-9592aa573e18,Social & Preventive Medicine,para-clinical,single,A
+112a964e-4163-4b9f-a26a-f482e0f9d827,Pathology,para-clinical,single,A
+1146bb08-e590-4323-a743-83bc2d531045,Surgery,clinical,single,A
+11903811-5b78-46fa-8c61-06c5df9a3ccb,Medicine,clinical,multi,A
+1198f3e5-a21e-4487-ac57-6ab1dee93d67,Medicine,clinical,single,D
+11d1f3f4-3b4e-424c-bb1c-766afe040123,Surgery,clinical,multi,A
+11dce32c-3739-443e-a77c-224198dc55a1,Pathology,para-clinical,single,A
+11e91efd-b528-4686-bc2c-3c654cea7a6b,Pathology,para-clinical,single,A
+11efa366-1d2d-48a8-a247-a362a0447140,Dental,dental,single,B
+120b8b88-ef18-4c63-a24e-370065a02f25,Dental,dental,single,D
+1230c97d-c9b4-4b1d-8ced-986a8031ac45,Ophthalmology,clinical,multi,B
+12342b20-b7a0-4f14-91ed-c764fc51ed7b,Anatomy,pre-clinical,single,D
+1245ee8a-b80f-488c-b1a2-2ad91e1484b0,Dental,dental,single,B
+1249ef54-9d9b-42ee-a5c6-839ef6597dd9,Dental,dental,single,D
+127f11db-dde3-4ebf-9748-9c2e56708e84,Dental,dental,multi,C
+1281d564-b7ac-4129-bf70-e5def93db9a0,Pathology,para-clinical,single,B
+12a8e0d0-21d1-4edf-905d-5e9c415b1a80,Dental,dental,single,C
+12b43c0e-c864-4257-90ea-4641077d19ba,Pathology,para-clinical,single,A
+12bfacf6-a27e-41dc-85ee-64e1b8955000,Forensic Medicine,para-clinical,multi,C
+12c9a1fb-87c9-4109-b4c1-9fa0babc98cc,Pediatrics,clinical,multi,C
+12cb2ea3-b10c-44e2-8cab-46afcd3ac0c9,Dental,dental,single,C
+12f0cd05-7053-437d-8c8d-edc889a21004,Medicine,clinical,multi,B
+12f747f6-e1e0-4850-864a-1af7b156c14f,Anatomy,pre-clinical,single,A
+1329d8ef-9606-4cc5-bc3a-02d150a0e860,Dental,dental,single,C
+132fec12-271f-4778-93af-042d6ec32a22,Forensic Medicine,para-clinical,single,A
+1338302d-2d9f-4d48-ac86-48f3c680594c,Psychiatry,clinical,multi,C
+133e30cf-e988-44dc-b6ab-6e3eee5f1197,Dental,dental,single,B
+1359605e-c8e4-4847-b8b6-eb1500b5356f,Dental,dental,multi,A
+13775adf-3c9f-46c4-9149-d0a382e24277,Pharmacology,para-clinical,single,A
+13781885-cf02-490f-ba56-152d97ccb152,Physiology,pre-clinical,multi,A
+137a6893-800d-4ef6-a9b9-8e55a19b5476,Pathology,para-clinical,single,A
+138f2721-a8f6-4456-a302-e63411415f00,Microbiology,para-clinical,single,A
+139d03ab-9bd0-4bb7-a076-8b3b2ff2528e,Pathology,para-clinical,single,C
+13bd873e-5bc0-4ae0-9ff3-527d40dc3fa5,Medicine,clinical,multi,C
+13c88190-2ea3-4939-87e3-5d4752552fcf,Pediatrics,clinical,multi,A
+13e7b27f-6f0c-4366-955b-16836ed6f6cd,Pathology,para-clinical,single,D
+13ea1b71-7d4f-4dec-babf-485274305ed8,Surgery,clinical,single,C
+13f3fee3-7298-41b1-9d44-a7d68b22db11,Surgery,clinical,single,D
+1406e461-b277-4d57-9ff7-9ec3d60b97fe,Physiology,pre-clinical,multi,B
+14085677-1f80-45fe-a525-0118e462b77c,Dental,dental,single,A
+143fc0f8-8075-4833-a0e5-900ed6562a3a,Pathology,para-clinical,multi,D
+1450ca65-dcd0-49a1-bb7d-b633740c3436,Social & Preventive Medicine,para-clinical,single,B
+1470a21a-b226-4cd1-904d-85cd841d5afa,Dental,dental,multi,A
+1482f619-ffc5-4773-b48e-995421bcab06,ENT,clinical,multi,A
+148ede41-fcdf-4bf9-bccd-122e5f9cc206,Dental,dental,multi,A
+149a2ddf-56f1-431b-ba74-5ba05950ae9e,Dental,dental,multi,D
+14a9e3be-384f-4b56-99c5-dfd851243951,Surgery,clinical,single,C
+14aa507c-4372-4240-857f-3b88999ae85a,Dental,dental,single,B
+14c24fcb-ed9d-4790-981e-85200ec35558,Anatomy,pre-clinical,multi,B
+14c74c4d-d6c1-4ced-98b5-4fe778d28836,Pharmacology,para-clinical,single,B
+153520b6-6e0a-4180-9416-9a7417bc76f9,Pathology,para-clinical,multi,B
+153cdf4a-8f6c-4478-8af5-2ef9d7a111b2,Dental,dental,single,A
+1546ba77-5320-472a-9b48-ac0a2734f57a,Medicine,clinical,single,A
+156c414c-5dab-43e2-bf06-11e0fea7b978,Medicine,clinical,single,B
+156f862e-9e92-4070-b0f0-7beacc93d11b,Pharmacology,para-clinical,single,C
+157101aa-f928-4f25-8b8a-51e712b3e7ff,Social & Preventive Medicine,para-clinical,single,C
+1579b75c-7804-45da-b317-eb16bac036be,Pathology,para-clinical,single,D
+157f841a-269b-4207-825d-2a62dd8cd197,Pediatrics,clinical,single,B
+158075d9-ce50-4a2c-b201-74b3fea5a513,Surgery,clinical,single,A
+15811471-d00e-471c-adf9-2edc497bb4ce,Social & Preventive Medicine,para-clinical,single,C
+159339f1-1545-47f6-9aad-47c1282458b4,Dental,dental,multi,D
+15a4cb03-3ccf-4f24-87cb-d26357c501fc,Dental,dental,multi,C
+15b58a11-7341-4318-bf98-b29c4e4ba7c0,Dental,dental,single,A
+15b83eb8-206b-43e2-a4c4-4ffe3a833f98,Dental,dental,single,D
+15cebe53-6289-419d-af57-d6f5c6177147,Gynaecology & Obstetrics,clinical,single,C
+15d397c9-5a33-4c5e-b48e-a1625e079630,Dental,dental,multi,A
+1609ebf3-8709-4e7f-abac-53de9b01a173,Pediatrics,clinical,single,B
+16176470-5cc0-4b2a-b9c0-45c3d39dc69b,Anatomy,pre-clinical,single,A
+16230bcb-8896-467c-ae66-616676d00b65,Dental,dental,single,A
+16376460-3aee-4d18-8e7e-73660436d0ec,Dental,dental,single,A
+16380c80-a853-44da-b7a8-e9a8e8aaab67,Surgery,clinical,single,D
+163bb472-c103-427d-af80-65e0d820cfb6,Pathology,para-clinical,single,A
+163e1bfc-0b55-4bbe-9eb4-e18802ccfd24,Dental,dental,single,A
+16413ad3-db66-4d30-905b-489baf124bad,Medicine,clinical,single,A
+164a4811-8e5b-48ed-b13e-798f2ca0d513,Medicine,clinical,multi,C
+164c3839-9da9-45da-bc1c-33e2174a6c17,Surgery,clinical,multi,B
+16533187-64d0-47f9-be71-dba4d56615fe,Pediatrics,clinical,single,A
+165c772a-9b32-48fe-b94e-fe949ec9cb9a,Dental,dental,single,B
+16759fbf-ac94-4ec3-9fde-0702eee3eac5,Pharmacology,para-clinical,single,C
+167c89ae-1898-497f-87c4-805a65c7a9bd,Dental,dental,multi,D
+16a341b0-9b1c-4a94-94a6-8f8aaa931295,Forensic Medicine,para-clinical,single,C
+16a4ed7f-088f-4bff-b638-418bad1f9eef,Pediatrics,clinical,single,A
+16ad7610-2cda-48ff-8eb6-94530a9eeb51,Gynaecology & Obstetrics,clinical,multi,D
+16b0d12a-6521-4f27-a70f-2726a7a3f6a3,Pediatrics,clinical,single,C
+16c9d64f-af73-4cba-8699-8f4aeba2b60a,Biochemistry,pre-clinical,multi,B
+16ce8442-864b-43f1-b815-f9096e55fa54,ENT,clinical,single,A
+16cf928c-960f-4c05-9320-2992e01f9211,Pharmacology,para-clinical,single,C
+16f40e32-4fb0-4df5-a068-5f9c28d13e0e,Dental,dental,single,A
+17180bef-99d8-42c7-9add-372aae82e08e,Pathology,para-clinical,single,C
+1730e3d6-7a73-4485-bc27-65e8ad61c9bb,Radiology,clinical,single,A
+1738bd76-9a60-42d8-8a35-90cb6542d4a5,Biochemistry,pre-clinical,single,C
+174760f1-1b8a-4643-b017-813b7d123ff2,Surgery,clinical,single,A
+17529d1c-10a7-46d0-8f1c-070aa64234e5,Medicine,clinical,single,B
+175a37d0-a4ea-4c5e-b1c1-bf1fec51d2bc,Dental,dental,single,D
+176b116a-244a-4bb5-a162-f43d5a340a0e,Pediatrics,clinical,multi,C
+178bda2c-c1fc-47dd-8d73-ef6e7ddf0d22,Pediatrics,clinical,single,D
+179b5138-d8ce-4e02-9445-ada73b642671,Biochemistry,pre-clinical,single,A
+17aac19b-ed5d-4038-9f3a-ec0c7478012e,Surgery,clinical,multi,A
+17ac8fd0-4e2e-41f5-8a01-93d34668a77e,Dental,dental,single,A
+17b12130-371e-4713-9135-28d973da9706,Anatomy,pre-clinical,multi,A
+17b84a1e-02fc-4250-a93a-194093782811,Gynaecology & Obstetrics,clinical,multi,A
+17ca6005-346f-4f14-b1a3-430d3667d7f0,Pharmacology,para-clinical,single,C
+17d0239b-33ee-44d0-9891-81a283b13b55,Pharmacology,para-clinical,single,B
+17d49a43-a8cf-43c9-9c9e-70a42e741af1,Physiology,pre-clinical,single,A
+17e8cd93-d7a6-4e1a-af3a-5d4229721ed2,Anatomy,pre-clinical,single,A
+17f11735-64fc-47ec-b06b-c9124e27c1cf,Surgery,clinical,multi,C
+1821da63-79b6-4ad9-bae2-f3565b857f97,Surgery,clinical,single,D
+185c4942-7886-4e49-b242-6634e83b0efb,Biochemistry,pre-clinical,single,A
+186af66b-9099-48fc-96cf-45e14c0de97d,Dental,dental,single,A
+18796d06-7762-4185-b0ca-c1b527502073,Dental,dental,multi,C
+1879dad4-5bba-48db-bc78-07c64447bf24,Dental,dental,single,D
+189b5073-7b54-4050-a030-0a519558f18e,Social & Preventive Medicine,para-clinical,multi,D
+18a9bc7e-60fc-43e9-a7b0-7549ec785817,Anatomy,pre-clinical,single,A
+18b70783-b5fa-484e-94f3-3084823c57fa,Anatomy,pre-clinical,single,D
+18c1a5f9-d998-414e-bb9c-991191c10710,Ophthalmology,clinical,single,A
+18ce280d-98c7-4a22-b4b7-038974b16c71,Pharmacology,para-clinical,multi,B
+18d0dc33-09df-4256-b62f-51390ede8e4d,Medicine,clinical,multi,B
+18f4759f-08b6-4600-b14c-27e86a1e7e38,Surgery,clinical,single,D
+18feef0f-7e8e-4eca-b9b3-57f3973b9a5b,Dental,dental,single,C
+1919416e-aa4f-4c7f-a845-46186f02f44f,Medicine,clinical,single,A
+1920da28-e234-4f1e-8a02-8eb426ca5478,Dental,dental,multi,A
+193e21b7-1343-4945-a2a8-896d6fce9be3,Pathology,para-clinical,multi,D
+19567e6c-e0f7-4201-816d-23b58786f586,Medicine,clinical,single,B
+196d0db0-0783-4c64-afd4-4d5e7d6da751,Surgery,clinical,single,B
+19afce3e-10f9-4d17-95ad-58e6de9f4ca2,Dental,dental,single,C
+19f583db-3c59-4886-843c-c626faaf6c70,Social & Preventive Medicine,para-clinical,single,C
+19feb385-8320-4c7e-a010-3fd35c47efe4,Dental,dental,multi,B
+1a005431-798b-4360-83a1-01d29c494ca4,Radiology,clinical,single,C
+1a3ceadc-b414-43e2-a674-bf52546b7d89,Pharmacology,para-clinical,single,A
+1a4896e3-25f3-4954-93fd-0fea78d72b0c,Pathology,para-clinical,single,D
+1a4b278a-1f53-4306-ba5e-7b5e303120be,Pharmacology,para-clinical,single,B
+1a54dc09-051e-419b-879e-6d435f34f711,Pediatrics,clinical,single,A
+1a8b0cf7-f674-4339-ba6f-a664cb96178d,ENT,clinical,multi,D
+1a9cdc6b-3c9c-44a2-95d1-68461bf113fc,Physiology,pre-clinical,multi,D
+1abe8eca-d5a3-4e0a-841c-3dc4de337ca1,Dental,dental,multi,A
+1b18ac4d-8101-48f1-bcc9-b53391c550ab,Pharmacology,para-clinical,multi,A
+1b9a6722-b53a-4dcf-8040-e3ad8bf8ba9f,Dental,dental,single,D
+1b9ecfa4-d168-458c-891c-e3a30b5f6e77,Dental,dental,single,B
+1badc5bb-d61a-48ea-9288-3754612f74a5,Social & Preventive Medicine,para-clinical,single,A
+1bcbe056-96b4-41aa-a7aa-044d7d2ac555,Surgery,clinical,single,A
+1bcc4893-9641-4f95-95c7-8c81492eb9a9,Dental,dental,multi,B
+1be4b3bf-99e5-416a-bdc9-09855985c774,Anatomy,pre-clinical,single,C
+1bf69f9a-987c-48fc-9356-d62d2148c3a6,Anaesthesia,clinical,single,A
+1c25695e-3dfc-4f00-815a-7c6dfa0478fc,Gynaecology & Obstetrics,clinical,single,D
+1c392503-537c-4926-a3bc-3daf8ddefeb3,Surgery,clinical,single,B
+1c5c10da-6c39-43e4-92f7-cf01b0c894c5,Dental,dental,single,D
+1c6cc29a-27a8-4d86-bd43-ac0c03533088,Pathology,para-clinical,multi,B
+1c7de293-5caa-426e-b8e3-4e1d6d14ef1d,Pathology,para-clinical,single,B
+1c84e0de-2784-45de-a25d-79ed40cf0fe2,Pathology,para-clinical,multi,A
+1ca4f1ef-d7dd-4909-bb00-e0c5700e2bf8,Dental,dental,multi,A
+1caa69d3-f51e-4afb-8432-abeb59fe1161,Surgery,clinical,multi,B
+1cabf1e4-1586-4f15-98d8-001bdccbd3c2,Biochemistry,pre-clinical,single,C
+1caf6e69-ee58-47fd-8e04-6f736055365c,Dental,dental,multi,A
+1cc77b91-e4a8-42ce-8182-c61f6c7cffea,Dental,dental,multi,A
+1cd8474b-6560-484d-b733-9ba499981029,Dental,dental,single,D
+1cd85138-84f2-4c99-aede-bfd10b5ec9b9,Pathology,para-clinical,multi,B
+1cecd58f-d0c8-446a-adf8-d07dd796ec0e,Dental,dental,single,A
+1cf99105-7487-4c44-8c8b-8f8caa90225c,Gynaecology & Obstetrics,clinical,single,D
+1d1b01ba-06a9-42aa-8e96-a9537f014ac1,Dental,dental,single,B
+1d41cfa5-26ea-42db-b8cb-3a7b7959d954,Dental,dental,single,D
+1d4c9da4-408d-482a-8b33-ca36b97b0bf5,Dental,dental,single,C
+1d52cc45-c223-46cb-8774-c2dc1051f116,Pathology,para-clinical,single,D
+1d7028cb-08b7-422e-8feb-26392e8f97dc,Dental,dental,single,A
+1d7c2dff-73e6-46d8-8d10-ab6ee7464701,Pediatrics,clinical,single,A
+1dc55cbe-41dc-4dda-9e52-cbc66d59d9b6,Pathology,para-clinical,multi,D
+1dd7c5e5-c294-443c-91a7-4081c04675f2,Dental,dental,single,C
+1dfe7f56-a602-4f8a-8ba7-50c3b60fa991,Radiology,clinical,single,C
+1e1777f3-e961-40f6-b597-8abcd9c1d193,Social & Preventive Medicine,para-clinical,single,B
+1e199c58-ba61-4f85-b84a-578c3f10a294,Dental,dental,multi,B
+1e6928e0-01e6-4346-8ea7-25cecbb99932,Surgery,clinical,single,A
+1e8c037d-b7d9-48c9-8aba-39b01a178619,Ophthalmology,clinical,single,D
+1e94a9ca-55e4-4e9a-bf7b-cb2dc4ba2ab5,Microbiology,para-clinical,single,B
+1e9be6b2-83f1-44ff-8491-077a14501d6e,Surgery,clinical,single,D
+1ea823e8-1b70-4820-96e1-c46d5fd23885,Gynaecology & Obstetrics,clinical,multi,C
+1eb8a767-3ee2-42d9-88d7-3a47b44078cb,Surgery,clinical,single,B
+1ec93a8b-e2dd-4468-bee1-74100f803516,Forensic Medicine,para-clinical,single,A
+1ecb45bf-b32c-445a-bc64-919965d3ad90,Surgery,clinical,single,C
+1f3afb93-e68d-43c5-aa8f-a9e070b441d3,Dental,dental,single,A
+1f473717-d2b8-489e-969e-be0de6c30e86,Biochemistry,pre-clinical,single,A
+1f536213-3abd-44b5-9011-773e21fe138f,Biochemistry,pre-clinical,single,D
+1f6b3a83-ed5e-4d0e-90b3-f740ff95c763,Pharmacology,para-clinical,multi,B
+1f8a97a5-64cf-4635-a50a-e84ac5a0d7f1,Medicine,clinical,multi,C
+1f93c541-baaf-40f2-bf91-31be29732da2,Pharmacology,para-clinical,single,A
+1f9b0ca2-f75c-4189-884c-ac150dafc155,Surgery,clinical,multi,B
+1fbd609b-f47b-451c-abbd-a33c4e0e96a6,Pathology,para-clinical,single,D
+1fc4e91a-649c-4eb8-bf21-abc171e8231f,Pediatrics,clinical,multi,C
+1fe1bd49-93cd-4bea-8beb-fdf6cc819421,Pediatrics,clinical,multi,C
+1ff979ad-8930-4ea2-9176-9975e626b233,Biochemistry,pre-clinical,single,A
+1ffbf5bf-f16b-4263-b979-73eccca481db,Dental,dental,single,C
+200d5368-a4f1-4180-b13a-1103d9f06737,Surgery,clinical,multi,D
+20445700-6fe0-4e44-b27c-561d580c5ea9,Biochemistry,pre-clinical,single,B
+2066f9f0-3eb8-4f40-8ca3-39406b885674,Surgery,clinical,single,A
+2097d24a-6816-485c-984d-90a5fbf2090e,Pediatrics,clinical,multi,A
+20b7d2a0-caab-4ee1-8141-ebfd769ac33f,Dental,dental,multi,D
+20cbdec0-d488-4dcf-9630-2707c948390a,Pharmacology,para-clinical,single,B
+20f29076-98f9-479b-a77b-96fae28d5689,Surgery,clinical,single,C
+212c1720-9f09-49d2-9a44-47bd914b35c9,Physiology,pre-clinical,single,D
+21618a55-4eaf-457c-a8fa-a1a2149c566a,Gynaecology & Obstetrics,clinical,single,A
+2166e021-8b96-47ad-9e4d-fa55a623938b,Social & Preventive Medicine,para-clinical,single,A
+2188b78d-3d75-48d8-b072-5fa0ba00ea1b,Dental,dental,single,A
+218972be-3960-421c-bdc4-8a7627c5e548,Pediatrics,clinical,single,A
+21a40530-4007-4c8b-8427-dfadec028afd,Surgery,clinical,single,C
+21af7233-ae6a-423c-ae71-9148212a37c3,Physiology,pre-clinical,single,C
+21b1c2e4-dd6c-49c6-b432-ca5633eca31d,Pediatrics,clinical,multi,B
+21d61ebe-1fce-4629-b499-37b681908cc0,Gynaecology & Obstetrics,clinical,single,D
+21e05454-2eb6-40fe-b3a4-99d2342e5b9a,Dental,dental,single,B
+21ee7c81-f9b4-444a-a545-3f9d2b2d4fea,Dental,dental,multi,C
+21f2316e-83b3-4c4b-bc86-fec4f0a0e64b,Pathology,para-clinical,single,A
+2206080a-db6e-484e-a1da-7776cfbfb907,Anatomy,pre-clinical,single,B
+22353c7c-1ec6-4e29-9d81-81e5fb97e58d,Physiology,pre-clinical,single,C
+22384629-7dc2-4890-a69e-42dc71fbccfe,Dental,dental,single,C
+22627526-3f16-48c0-8dd7-e522a82da86f,Physiology,pre-clinical,multi,D
+2267ecd3-7b7f-4416-86f8-5ef2312e643e,ENT,clinical,multi,A
+22692368-7cae-4241-a34d-430e1f2d6322,Dental,dental,single,D
+228da52b-1c04-49cc-bfd8-05701a0fdb11,Surgery,clinical,multi,A
+22ab08db-3408-4b27-8a6c-3da3985f71b9,Anatomy,pre-clinical,single,B
+22b67281-ec00-460f-8b87-52474874ac6d,Medicine,clinical,single,B
+22bc4a41-38a8-42cd-b629-a88bb7745260,Gynaecology & Obstetrics,clinical,single,A
+22c12f88-d394-4d93-8be6-336a477a51b4,Social & Preventive Medicine,para-clinical,multi,C
+22c33272-9d2f-4f91-9999-74e84b057914,Dental,dental,multi,A
+22dacf21-f365-4936-a3ce-dbd100e4afa3,Medicine,clinical,multi,C
+22e9f959-2d98-46de-b35c-601974f8d014,Surgery,clinical,single,B
+22f37095-b0aa-4603-a72d-8594c37b6f7e,Pathology,para-clinical,single,D
+22f5d1c3-8073-452a-937e-63414dc5065e,Dental,dental,multi,C
+233443b2-7059-4f82-a321-2b4e1f61733a,Medicine,clinical,single,A
+23452aab-77af-4d16-ad42-8563863aa899,Medicine,clinical,single,B
+234d826f-4a7b-4fd1-9799-b1a3602355fe,Medicine,clinical,single,D
+23584eb9-34a0-4962-bb04-1abc7ac34f3f,Social & Preventive Medicine,para-clinical,multi,B
+236b5f58-36f4-4644-b7ee-8f90903dba8f,Forensic Medicine,para-clinical,multi,A
+2374ffe7-dc10-4f81-9ec7-0c883fb64c55,Surgery,clinical,multi,B
+238019d8-3c6b-486e-9d00-fda1273d22e7,Pediatrics,clinical,single,D
+2388aeb7-4920-452f-9acb-28be49c72966,Microbiology,para-clinical,multi,D
+23927949-66b8-412b-86ec-8e174fe4ddaf,Anatomy,pre-clinical,single,C
+239b31b9-74b7-49f5-b753-693ebb451e33,Dental,dental,multi,B
+23c2e953-ff3a-48f2-9056-939ee23af812,Gynaecology & Obstetrics,clinical,single,A
+23cdcc3c-aabd-403a-b2f7-59ecfab6ed23,Pediatrics,clinical,multi,C
+23f03d9b-b4b5-4a84-b7a5-7dcd77b9ed63,Social & Preventive Medicine,para-clinical,multi,C
+240aaafe-ec41-447b-85eb-d8da168c1430,Dental,dental,single,C
+24116727-d6db-412a-8568-8f9818ecf2b6,Dental,dental,single,C
+242d1a23-0032-4565-99cc-ebf7d8fc54aa,Dental,dental,single,A
+2435f8a2-f34c-4185-82f4-d73c72fe9ee2,Anatomy,pre-clinical,multi,C
+24528759-5207-49f1-a4db-f80865d1d4ea,Pathology,para-clinical,single,D
+2483d032-9b0b-405a-8ce2-2a077faf2960,Dental,dental,single,A
+24a53b0f-d1b7-4ef8-8b9c-1d3b857aa413,Dental,dental,multi,A
+24ba87cd-83d3-4768-b6fa-c246bde2b821,Microbiology,para-clinical,single,C
+24def2ac-27df-4d80-9792-fc5708a94153,Social & Preventive Medicine,para-clinical,single,A
+24e4fee0-172f-4eac-87e5-030f3b409318,Dental,dental,single,D
+25027d40-3f29-40e0-a29b-23bd913f2152,Anatomy,pre-clinical,single,D
+250445f9-5a5a-45c0-9035-f581f79f5030,Gynaecology & Obstetrics,clinical,multi,D
+25145d77-f953-43f3-b658-8471be181cc1,Medicine,clinical,single,D
+251499f8-5ddb-4d75-9acb-71fa169e64dc,Surgery,clinical,single,B
+251fc405-17b6-4179-9800-1cb17a52a1a1,Microbiology,para-clinical,multi,A
+2556604f-14dc-456a-aafb-41416638fd16,Dental,dental,multi,C
+25883737-550d-4264-ad32-bc1a320ca9a7,Dental,dental,single,B
+25a045ae-9cab-40c2-aaae-d890d4015eae,Dental,dental,single,B
+25ad5741-fdb7-49d7-b985-aa021e70a967,Pharmacology,para-clinical,single,D
+25c67dc6-f8bd-4ef4-ac07-6ae8a02e0412,Pediatrics,clinical,single,B
+25dc40da-7399-4011-b617-3b9c42d88277,Dental,dental,single,D
+26160738-1887-4252-86d4-1719a5a80bd3,Microbiology,para-clinical,multi,B
+261c602e-7e6f-4cf8-9231-13182b2db849,Physiology,pre-clinical,multi,B
+2639d0ba-ef15-4ba4-92fe-ee27b5758fbf,Surgery,clinical,single,D
+2645de29-a0a0-42da-af00-50637b38ea84,Dental,dental,single,A
+2667b255-347a-4cb3-abae-257f79f1e19d,Dental,dental,single,A
+266fb227-cdc2-42a9-817a-e42fa767e5cd,Medicine,clinical,single,C
+2674faba-e6d7-4790-b13e-97c597408919,Surgery,clinical,single,A
+2690d305-171f-4fbe-8053-c8ac73b7e550,Pharmacology,para-clinical,single,A
+26a782ca-42b0-441b-a24f-3a368f66727c,Pediatrics,clinical,multi,B
+26a82f11-4261-4975-bee9-ae8d4e74cdb7,Medicine,clinical,single,B
+26a95f8b-cbdd-4e14-b3fc-fcf2b9efbd20,Pharmacology,para-clinical,single,B
+26af657d-76a3-44a6-9cd1-96ee335ef8fa,Surgery,clinical,single,C
+26d80f62-bb99-43ee-8972-aa4dab9a8264,Medicine,clinical,multi,D
+26dd7eda-3dde-43f0-a734-392796fdc8e2,Pathology,para-clinical,single,C
+26f30f24-dcd8-453d-8553-9ee82ad496e1,Medicine,clinical,single,A
+2709dce6-0e84-4d28-a531-630df39e7298,Pathology,para-clinical,single,D
+27172e24-cd06-4dc8-b00b-0a378fcc9a36,Radiology,clinical,multi,C
+2719953f-15c7-4003-83ed-0baf2654d35a,Pediatrics,clinical,single,B
+2764f129-0e83-45be-a4cb-71bd633ed2da,Dental,dental,multi,C
+2767698c-2189-4770-a4fd-825b7b7edf9c,Physiology,pre-clinical,single,A
+277484ef-0832-433c-ba20-92a56041c894,Pediatrics,clinical,multi,B
+278c807b-044f-4e95-85fb-2bda5191cdb1,Dental,dental,multi,C
+27a7c775-991f-4c8d-8ba3-3783c3bf92db,Pharmacology,para-clinical,multi,D
+27c3f1c6-a7e4-44fc-9e48-085254585c08,Physiology,pre-clinical,single,B
+27c7d7fa-8a10-4b19-9c70-36002caff287,Pediatrics,clinical,multi,B
+27c9ead8-7baf-4c63-bf48-a03e57812c44,Medicine,clinical,multi,C
+27e5fe55-e6b8-49eb-b141-78c1e4fd1e14,Surgery,clinical,multi,D
+27eecec7-69c5-40bd-9d90-c19e43acc9a3,Forensic Medicine,para-clinical,single,A
+2803b85b-0acd-42a6-92f5-6f5b3ce60345,Dental,dental,single,B
+280724b1-2ca3-416f-beb6-3e06c2511b1f,Dental,dental,multi,A
+2842876c-766c-4b9b-a630-8233d82da426,Biochemistry,pre-clinical,single,A
+285a31c4-9b01-416d-956d-82fa46d60bbb,Surgery,clinical,single,B
+2860cd26-5fec-445c-904e-67095651fd15,Social & Preventive Medicine,para-clinical,multi,B
+287ee601-bba2-4926-a230-388f13cfa28d,Surgery,clinical,single,A
+288022ee-c8bd-42e6-8e0a-81838367119a,Medicine,clinical,single,A
+2880abd7-1ec6-4456-823e-e5d00159dfec,Pharmacology,para-clinical,single,A
+28b7a6ea-c657-4da7-81dc-88457a064655,Pharmacology,para-clinical,single,A
+28c87a35-b6b1-4b1f-bfd5-d94b4fc0be1d,Dental,dental,multi,A
+28d48ebe-ccb5-40f2-9e0c-60aed8ea2d2f,Medicine,clinical,single,C
+28e47981-c859-48ad-a4b9-14a13c5b3a34,Pharmacology,para-clinical,single,A
+28edac0b-502c-4aa9-a4ad-8ed4b20f9154,Surgery,clinical,single,A
+28f5eac6-7388-4ab6-93f7-80f5a045c11e,Pharmacology,para-clinical,single,B
+28fb749e-f104-48ad-8387-c2dac5b62ec3,Gynaecology & Obstetrics,clinical,single,A
+2902efec-b01a-417c-94b9-406e94662f27,Social & Preventive Medicine,para-clinical,single,A
+292a6244-9c88-4a6a-9c32-ab38524e588f,Ophthalmology,clinical,multi,C
+292be6a1-f5da-4d67-8ae1-ae4d05a5f4a4,Anatomy,pre-clinical,single,D
+29333174-adee-4031-90ef-a0c3ef043be0,Surgery,clinical,multi,D
+294f261f-83db-483c-ab08-7ada6462f72b,Anatomy,pre-clinical,single,B
+295f859b-9b57-4044-a59f-1dcde3f3fc0c,Biochemistry,pre-clinical,single,B
+2975d2c6-d494-4adf-ba6e-97df6cd7f341,Anatomy,pre-clinical,multi,D
+297808a8-9996-44f3-9753-1b0eec066d41,Forensic Medicine,para-clinical,multi,C
+2988090f-7d5e-40a5-ba16-3198f4e345a3,Pediatrics,clinical,multi,A
+298fc434-3b3e-48bf-bd3b-cd93efb45fdb,Anatomy,pre-clinical,single,A
+29915e72-87a0-4dad-a365-6e3337e36ebe,Gynaecology & Obstetrics,clinical,single,B
+29cec3ae-1d3f-4966-b791-d9eed37c3d1f,Forensic Medicine,para-clinical,single,A
+29d2e3e3-3b3c-4b84-af19-e8e98c5e104e,Pathology,para-clinical,single,C
+29f210a1-e9b8-41d8-913a-9f1c4f894106,Biochemistry,pre-clinical,single,C
+2a585c66-7605-44fb-a4fe-63ce327a3b59,Dental,dental,single,C
+2a74f19e-1c3b-4318-ba5b-0812f80d895e,Social & Preventive Medicine,para-clinical,multi,D
+2a9cc59f-8f5f-4035-8010-07d1cc7a2f64,Pediatrics,clinical,multi,D
+2aacf8d1-b36e-49be-8333-af91aa2a49c9,Ophthalmology,clinical,single,C
+2ab8b27b-1646-4886-8378-f2f11f84a79e,Forensic Medicine,para-clinical,single,C
+2ae293df-8147-46d5-bd46-b913a95c2593,Forensic Medicine,para-clinical,single,B
+2b050ce8-53bf-4a3b-a4bd-fe1991b726c9,Anatomy,pre-clinical,single,B
+2b110e57-8338-4189-86e2-cbea7d761c30,Pharmacology,para-clinical,single,C
+2b2dd003-8c87-47d5-8080-8f64371932e0,Surgery,clinical,single,A
+2b325080-a90d-4813-b2bd-cfa4fa246c27,Dental,dental,single,B
+2b3b8bbc-f04f-408d-8be8-41b13fe26adc,Gynaecology & Obstetrics,clinical,multi,A
+2b6830cf-090a-415c-adee-e61a42038930,Anatomy,pre-clinical,single,D
+2b776323-df34-4cab-ad74-e9d4e8c4e128,Dental,dental,single,A
+2ba3c5df-e02c-4031-9529-3315afaac0d8,Dental,dental,single,D
+2bd3f36b-ca4b-4aaf-80ed-433c884e740c,Anatomy,pre-clinical,single,A
+2bd4a99b-c158-4dac-8632-ae800f490a9e,Dental,dental,single,B
+2be4ec28-ff65-4ba0-9a8f-346a819c99f1,Biochemistry,pre-clinical,single,A
+2c00fc07-1a54-4b6f-b7a0-a3d2f3e4bf53,Medicine,clinical,multi,D
+2c0bfd6d-2451-4961-8155-6c0a739e7f1c,Biochemistry,pre-clinical,multi,D
+2c4a6f65-70ac-45ad-9bd5-54de396908fd,Microbiology,para-clinical,single,D
+2c4e0c71-ef7f-4f02-a2d3-a7a8860fe37e,Pediatrics,clinical,single,A
+2c790894-885a-4b7c-985f-21ec73fee035,Dental,dental,multi,A
+2c7e29e5-6824-4217-af1e-7c5b40d57ea5,Medicine,clinical,single,C
+2c98bee7-541d-4bef-a8f8-49ffdb6e2213,Dental,dental,single,A
+2caaca13-e6d7-451f-b63e-4eb2eefea736,Forensic Medicine,para-clinical,multi,A
+2cacbd66-ae8e-45cc-85b8-6242487724b6,Dental,dental,single,D
+2cc7bf03-5a41-4a8c-a8c9-9f969afac49f,Social & Preventive Medicine,para-clinical,single,B
+2cc86d26-ec8a-43f8-8fa8-bd56054db9f2,Forensic Medicine,para-clinical,multi,B
+2cc9a274-380c-4a8e-b2b6-6c8ae412c55b,Dental,dental,single,B
+2cde59aa-666b-4fa6-802b-74ecdd525bfb,Pediatrics,clinical,single,B
+2cdf4e3d-5ee5-460c-b03c-d064ce8182b7,Dental,dental,single,B
+2cf21e00-e098-4ed3-83d5-118302a0d9ea,Physiology,pre-clinical,single,B
+2cf2c4e4-e50a-494e-9894-50ed2d50df63,Social & Preventive Medicine,para-clinical,single,C
+2d1e9927-b2bc-469b-a26f-49ff06d91fda,Pharmacology,para-clinical,single,B
+2d260373-a96d-47c4-9900-eb490528b37b,Dental,dental,single,D
+2d2d97d9-cb57-4636-897d-6cdb3223544c,Dental,dental,multi,D
+2d635300-8808-4fb1-867f-cb4876001cbd,Dental,dental,single,B
+2d88e018-637e-47c4-bb63-dd7216c204ae,Ophthalmology,clinical,single,A
+2d98e8a0-829a-47ef-87e1-c6bbd54473a1,Psychiatry,clinical,single,D
+2da5d321-66a2-4413-aa80-6fa7440b36c1,Dental,dental,single,A
+2dd32cdf-f8c0-43d1-9d73-0b6e0d6a5216,Dental,dental,multi,C
+2dd66c3e-9b8c-421e-818b-5770ed270bfe,Dental,dental,single,B
+2df0c27e-46a1-4f96-9de7-fb847c80a454,Medicine,clinical,single,A
+2df7addb-dc8a-4428-8f08-09327d0a7ccc,Anatomy,pre-clinical,single,A
+2e0115a1-4971-407d-b5a1-ec1a70e6e066,Medicine,clinical,single,D
+2e13cc41-3244-4a86-a776-cb24e05b8a91,Pharmacology,para-clinical,single,A
+2e264a60-ba19-4880-bc92-5c42c121eee8,Dental,dental,single,D
+2e268767-aa15-4fa6-9628-3f586ab729f9,Anatomy,pre-clinical,multi,B
+2e4dea82-5bec-438e-a674-0f317e467e70,Dental,dental,single,C
+2e4f5929-8c85-4561-9656-44bc930b581b,Biochemistry,pre-clinical,single,B
+2e5ee603-8296-40f4-87e3-f8c87a61340c,Dental,dental,single,A
+2e6dd309-e97e-4845-981d-4df1962afeeb,Dental,dental,single,B
+2e79ec0a-5b16-4daf-8bcd-d6f52a68b6e7,Medicine,clinical,multi,D
+2e81781f-8c3e-4d9a-86b3-a2651e07dce9,Physiology,pre-clinical,multi,B
+2e82399f-9cef-4ba7-ae0e-9424c0efc321,Pathology,para-clinical,single,D
+2ecfb0bc-1db8-4ec2-9b0c-c5825f3b0ed9,Ophthalmology,clinical,multi,A
+2ef6a0de-c83f-461e-93c9-88f38320bf5e,Dental,dental,single,A
+2ef81315-d954-4729-87c9-20a5d20da4a8,Surgery,clinical,single,C
+2f009ec1-ddb0-4dc5-a0e1-b46ab022a5fa,Dental,dental,single,D
+2f0e50d9-79cb-4de8-b650-3b3815da5266,Pediatrics,clinical,multi,B
+2f3d5cee-6729-4e65-b18a-76cf1368c054,Surgery,clinical,single,C
+2f6be3a1-0736-4ec3-9e42-aa9732e401d6,Pharmacology,para-clinical,single,A
+2f6ec08d-d0b9-4e81-afa4-4a40493dc24f,Dental,dental,single,A
+2f703c9f-2d54-4833-b319-25f8dc8b500c,Radiology,clinical,single,D
+2f7908da-9948-4630-b854-fbd0d2212d0c,Surgery,clinical,single,C
+2fad53ed-ad7b-4194-8316-7fd39b1089a4,Gynaecology & Obstetrics,clinical,single,C
+2fb9aa7b-5106-4856-943d-f6554959feab,Microbiology,para-clinical,single,A
+2fd187fb-bb8c-4b94-9f62-2748950ceb5a,Pharmacology,para-clinical,single,C
+2fd85795-3aca-4bd2-b367-256d33655e91,Dental,dental,single,A
+2fdf4db2-3316-4a87-83db-58c499f8f8ef,Dental,dental,multi,D
+2ff9fad7-263d-4611-a707-626809334f2c,Pathology,para-clinical,single,C
+2ffd16e8-5b32-40c9-9aa6-1cab59d5728e,Pathology,para-clinical,single,B
+30033810-a137-4bce-ad95-b27c9c582cc2,Dental,dental,single,A
+300e4af8-f5d4-451a-888c-5eb772b57cd5,Pathology,para-clinical,single,B
+30578a76-eb00-4830-b9fe-2dabdd64ed8e,Surgery,clinical,single,C
+3084edf2-d176-43aa-87f4-412ea4098b47,Medicine,clinical,single,B
+308573c6-93c7-47db-908e-14be06dc49e2,Dental,dental,multi,C
+30b2fee8-1ce3-4f84-ad72-f20e7b53a24b,Dental,dental,single,C
+30bbcf29-59e9-4d70-9616-e37190efe906,Pathology,para-clinical,single,D
+30c73ece-5b77-4d3d-88df-9cfa205a296d,Dental,dental,single,B
+30cf8c11-4a20-47e4-bb0e-1113d5ae34a2,Surgery,clinical,multi,C
+3101996f-b393-4e05-9cb4-542df72f1b5c,Pediatrics,clinical,multi,A
+3149d45d-d152-4d8a-a992-430c0d1bed57,Social & Preventive Medicine,para-clinical,single,A
+315212cd-d605-4f61-8d4e-535ef7847059,Medicine,clinical,single,B
+31579687-1448-4606-9db6-52f9d0cc8a7f,Medicine,clinical,single,D
+3164ca7d-4050-4da4-87c2-41f1a8d10cb0,Dental,dental,single,C
+3171c368-25b8-4025-b7ae-ef22cc2f3f8c,Biochemistry,pre-clinical,single,D
+31913a50-8459-47c0-b142-7a31df3f16c3,Physiology,pre-clinical,multi,A
+31b780dc-dc96-470b-a6be-55d4b668ba51,Biochemistry,pre-clinical,single,A
+31cb149e-7c0f-489f-b2c6-10985226e2ff,Orthopaedics,clinical,single,B
+31d9dc23-3844-404e-b7f9-09275b2bdbf9,Pediatrics,clinical,single,A
+32336cbc-cd64-4a31-b863-7cfa4d53d654,Dental,dental,multi,A
+326b16f4-3bd9-4656-9515-093e7d67ae21,Microbiology,para-clinical,multi,C
+32a94b3a-7d3c-4586-bbc0-e70f4d07e31a,Pediatrics,clinical,single,D
+3341d406-7f8f-4f77-8418-bd773284d491,Dental,dental,single,B
+335e8fc5-5039-4876-a07e-42364a9c8cfb,Biochemistry,pre-clinical,multi,B
+33612c6f-321a-4b2a-b65e-a1f667212dbd,Dental,dental,single,C
+338105fa-a46d-440e-8d92-a1cf4b8ff075,Surgery,clinical,single,C
+339405c7-3d27-4f7a-9689-02eccbc72176,Gynaecology & Obstetrics,clinical,multi,B
+33a697bc-627a-4a24-b381-19c181fcdded,Pediatrics,clinical,single,A
+33a771be-dfbc-4cdd-bb77-09b838ffea2a,Dental,dental,single,C
+33b23fe7-afeb-4475-af4c-a9e250c82578,Anatomy,pre-clinical,single,A
+344d849d-fe32-41d8-853f-b02b41028d71,Skin,clinical,multi,B
+34767783-a55d-4afd-a841-a8e38b6696ae,Anatomy,pre-clinical,multi,B
+34f8fb1a-a365-40d0-a804-6b061a9a04f5,Dental,dental,multi,A
+350d3b19-c8b4-4e99-b2a0-dc3f2bf4a206,Pediatrics,clinical,single,C
+3513f98e-19a9-4dfd-8f49-1e8514c3907c,Physiology,pre-clinical,single,B
+35634c84-4820-4593-a7ec-a677b47f2719,Dental,dental,single,D
+3569a377-99ad-4363-bb2c-ad95cb9f3a03,Dental,dental,single,C
+357b068e-85e8-47c7-80e8-af83875a6986,Dental,dental,multi,C
+357eebd0-e51d-46c8-8cc4-0fff4a79387b,ENT,clinical,single,A
+3588f845-135e-4167-8455-ecc975821b3a,Radiology,clinical,single,C
+358a3866-8fc2-405e-b7e6-383904748d15,Surgery,clinical,multi,B
+358f187f-d762-4355-b654-67996e08ed96,Dental,dental,single,A
+3592f545-8b31-4f41-9ccc-89eb67bc818a,Gynaecology & Obstetrics,clinical,single,A
+35932df7-1981-44e0-82c8-f767702851ff,Dental,dental,single,A
+35a8a5f6-b1f9-43ce-9d49-6dfd21e6951e,Dental,dental,multi,C
+35b7ba5c-3e71-46c8-9df4-ed3b2a17f3b9,Surgery,clinical,single,C
+35e5b5ae-82da-4f68-a011-91818a64c684,Pathology,para-clinical,single,B
+35fb00cb-9acc-4177-8873-c3915a142c99,Microbiology,para-clinical,single,A
+360f90ec-189e-464a-a60d-ed9d9bda46ef,Ophthalmology,clinical,single,B
+361849c8-ca2f-4200-89c4-8642afe7a273,Dental,dental,single,A
+3624dceb-9318-4aa7-add1-b4c2fbac3065,Biochemistry,pre-clinical,single,A
+3624f5cd-a2a5-4f5f-9b7e-ee57ea1b3c4a,Dental,dental,multi,A
+362a094c-f1d9-4faa-97ab-48242be3dd4b,Dental,dental,multi,B
+362bf8a9-de7e-48dd-aecf-3ecd13b280b8,Dental,dental,single,B
+363aca43-6b66-4640-9cfe-93057f5c50f1,Pharmacology,para-clinical,single,B
+36438518-ebff-4d1d-8e38-bc47a12fd73e,Dental,dental,single,B
+3645e915-e8a7-44fe-8cad-734ce6b71063,Pathology,para-clinical,single,A
+36535f13-db82-4771-afd8-3f210207b234,Biochemistry,pre-clinical,single,A
+36837ddf-a7e2-4cec-9b52-17a8fca9ae9b,Anaesthesia,clinical,multi,D
+369a3802-c030-4528-81a8-069b7d890c7e,Dental,dental,single,A
+36afb87d-0e47-49c4-a770-62b80978844d,Dental,dental,single,C
+36b7b647-0cba-4bee-a4fe-21c3e49ab981,Dental,dental,single,C
+36c7306a-d28b-4161-af0c-51fc925d3d4a,Dental,dental,single,D
+36cbec15-89a6-44e5-a98b-cb2a68a4b01e,Pharmacology,para-clinical,multi,D
+36d24064-1c75-4653-b660-a5fe2379c9b7,Gynaecology & Obstetrics,clinical,single,D
+36dd849c-4867-4ca6-8f5e-c8419e4634bb,Medicine,clinical,single,A
+36e20a28-fe52-4272-8027-043e6f66ab54,Medicine,clinical,single,C
+36eda6ec-6654-41ba-937b-60a3052e6c49,Psychiatry,clinical,single,D
+3717f6b4-9504-4284-be95-e2f899c94187,Gynaecology & Obstetrics,clinical,multi,C
+3728d7be-8279-4b79-a826-e568441ff21a,Biochemistry,pre-clinical,single,B
+37332d92-237c-4846-84e5-27def7ec1805,Pharmacology,para-clinical,multi,B
+3737f19a-3e69-4ae5-a378-5e91b942cec4,Medicine,clinical,single,D
+3745bf96-43aa-40b2-ae62-3be01c0f92a4,Gynaecology & Obstetrics,clinical,single,D
+377255a6-55d3-4204-a2f9-2105ecebb529,Gynaecology & Obstetrics,clinical,single,D
+37c2d828-130c-4ebd-ae35-03c852064141,Physiology,pre-clinical,single,B
+37d6e02a-0f4d-44a5-bbe0-f8040e1522fa,Medicine,clinical,single,A
+37dda658-5f35-46d8-b34d-247e81ac0536,Pharmacology,para-clinical,multi,D
+37e6c503-59f9-4ba2-80b3-a7acb789c118,Anaesthesia,clinical,single,A
+37e9d3b1-0845-4e21-ba7c-a638447cabec,Surgery,clinical,single,D
+37ee3e70-9f55-48f9-9133-5a8dd9559db7,Medicine,clinical,single,B
+383be13b-3dbe-4db9-b1da-419c97fbfe83,Medicine,clinical,single,A
+3844fc33-c5f5-48b4-ad6b-45dc4a3ec3c4,Anatomy,pre-clinical,single,A
+384a9281-2ee1-480b-a7d8-fd3ef49558e5,Pathology,para-clinical,single,B
+3860ca4f-4a06-4450-b956-4d28e64ad111,Dental,dental,single,A
+38810794-2735-4239-b36f-d9a509a2997f,ENT,clinical,single,B
+3893484e-f4d8-4d90-b435-93af8a7bc469,Gynaecology & Obstetrics,clinical,single,A
+38ab5796-3d7c-4203-a301-db68fa227700,Pharmacology,para-clinical,single,A
+38b6ac73-f821-4d98-a15c-f42f59044aac,Dental,dental,multi,A
+38c0c9e6-009c-4ef1-a3ae-2e3aacd715e7,Forensic Medicine,para-clinical,single,A
+38ced20b-e4ee-4ea8-ae1a-c311cb177f24,Dental,dental,single,A
+391dbda5-df38-4a5f-8e4c-f6db24bc164a,Ophthalmology,clinical,single,A
+3920361c-7b00-4cb2-ad43-d4bd71127f00,Ophthalmology,clinical,single,D
+395a115c-ac63-49db-8cca-eaef6396794a,Surgery,clinical,multi,C
+395fe24f-c2bc-4138-ae4e-6ca00e1ab0fd,Dental,dental,single,A
+399563b2-ad18-41a9-82bc-3d49e1642fd9,Biochemistry,pre-clinical,single,C
+39aa0685-41e4-4701-acb9-88abe226e574,Pharmacology,para-clinical,single,A
+39af86fb-6d6a-4d2f-b1cc-670989ca78b8,Dental,dental,single,C
+39b3ec62-cf74-489a-b61c-8615b27e3e48,Dental,dental,single,A
+39c3bcbb-31e3-492b-86c0-0a217e856f43,Pediatrics,clinical,single,B
+39c933d9-6014-4f3d-9b81-cb67eb2ec6b9,Dental,dental,single,A
+39d7873b-873e-45e3-8377-f6145692b8e5,Dental,dental,single,C
+3a0e01d0-4230-4633-a7a9-624a0c32a486,Surgery,clinical,single,B
+3a0f1fe5-a2b8-49a5-b032-13e2e508e682,Biochemistry,pre-clinical,multi,C
+3a3e9d0e-cf13-4d9c-971f-f9d5cb902994,Biochemistry,pre-clinical,single,D
+3a540909-ac85-4d6b-a7af-be0300a93207,Pediatrics,clinical,multi,A
+3a99eeb5-973d-4468-bf41-4111c70ec9ff,Forensic Medicine,para-clinical,multi,A
+3a9f2b69-a6e9-437a-aec2-955872905eec,Dental,dental,single,B
+3ab3f07b-5fea-4896-9242-6b5aac41890c,Anatomy,pre-clinical,multi,A
+3aed5296-d2c0-4347-8804-d85234302675,Dental,dental,single,B
+3af11fb3-6d3b-4542-9de0-5f4decd77160,Biochemistry,pre-clinical,single,C
+3af1713d-d5c5-485b-964e-cfaec20ccfba,Pathology,para-clinical,single,B
+3aff7082-0082-4114-a47b-d68bf127c263,Ophthalmology,clinical,single,C
+3b150083-1a5e-49ef-bc36-41a06b677b32,Pharmacology,para-clinical,single,C
+3b184f01-db13-4379-ab0b-7709853e0326,Pediatrics,clinical,single,A
+3b1d8bb2-5d19-4dc0-89b4-a8f94ac0e282,Dental,dental,single,B
+3b261ffc-4ab3-4e68-a7b8-8e3881edfa55,Social & Preventive Medicine,para-clinical,single,A
+3b2ef8ce-ddbe-4e5f-845f-f0085dc98bf7,Dental,dental,single,C
+3b34bdec-e2d7-49d8-9b10-ec35a323b491,Dental,dental,single,B
+3b38f235-0a3f-4781-ae19-a7858523b39f,ENT,clinical,multi,C
+3b514c9e-965c-463a-b141-9dcecd91c957,Dental,dental,single,B
+3b5e1975-f74b-426e-8869-43b353f8a100,Dental,dental,multi,B
+3b6a211f-c575-44fd-b0c4-77bf1152bcb6,Medicine,clinical,multi,B
+3b952daf-c786-4ed6-87f3-02f21e1a2997,Medicine,clinical,single,B
+3bb33f16-ca92-481f-bb39-b5278156c63d,Pathology,para-clinical,single,D
+3bd3eaf4-a529-4b2a-8d98-79249b580503,Microbiology,para-clinical,multi,D
+3bd5b6d0-dd76-46b4-9e6c-6a07adfd138a,Dental,dental,multi,C
+3bd6c1d7-7d78-4279-8347-7fd70f37a262,Physiology,pre-clinical,single,C
+3be9da5f-c0da-4e42-bbfe-a6a1373a7c5d,Medicine,clinical,single,C
+3c053a67-9d94-4e22-b368-e7e3df80fcb9,Dental,dental,single,D
+3c0e960b-7757-45aa-a7e9-98c238eed3e7,Surgery,clinical,single,B
+3c4866dc-0c8a-422b-88ff-e383b5223ecb,Dental,dental,multi,B
+3c4ad2aa-1bff-4d56-9cea-358bfcf0eec7,Dental,dental,single,B
+3c6acd9a-5776-40dc-a952-678746215562,Pharmacology,para-clinical,single,B
+3c7f7351-8925-4c0e-89e7-1d4b8e806797,Dental,dental,single,A
+3ca099a7-086a-411e-917e-295561ebb22b,Surgery,clinical,single,D
+3cbfd65a-92f2-4c67-919d-847dccb7e6d8,Dental,dental,single,A
+3cf1de31-2703-4ff6-8091-3992a27a7987,Surgery,clinical,single,B
+3cf954d4-ea8b-4c75-b70d-2e86af595b9c,Dental,dental,single,A
+3d1306f4-a5d6-47ef-9cda-f607ffa78c6e,Radiology,clinical,multi,B
+3d2b968e-f973-423f-a0e9-1aab41489e9f,Dental,dental,single,A
+3d33288c-0bb6-4687-b003-ca9862ef96e0,Dental,dental,multi,C
+3d3896ce-b736-4e9a-bb7e-cb4608cdd29a,Microbiology,para-clinical,single,D
+3d8328fb-d689-401d-b68f-18a7fe581ee4,Gynaecology & Obstetrics,clinical,multi,A
+3dae5b0a-5755-43da-ae74-04b8ff832c6b,Anatomy,pre-clinical,single,A
+3df42ac7-0771-4a64-b29f-5bbe7674218c,Dental,dental,single,B
+3e2e85ff-abd6-4b35-bab8-b5fe0b78bdd9,Medicine,clinical,single,B
+3e2eed94-4bdb-4c13-9cfa-f267716b34d4,Pediatrics,clinical,multi,A
+3e5e641e-80c1-42e1-9d7d-e659bde99dbe,Physiology,pre-clinical,single,A
+3e661f15-9a34-4c14-b4ff-7bac9c57b6be,Pediatrics,clinical,multi,C
+3e76b92d-f48f-4a2f-98ed-d97420a71e53,Medicine,clinical,multi,B
+3e92f1af-86fd-4c31-9a0d-4e75e4e5b90f,Dental,dental,single,D
+3ea8bac5-2e0f-4f6f-8f5e-c9c1ef405a76,Biochemistry,pre-clinical,single,D
+3ec2a130-23a9-4750-ac4f-a9390c2930ef,Physiology,pre-clinical,single,D
+3ece38c1-ecea-4d9e-9287-a771ef5a29a6,Pharmacology,para-clinical,single,A
+3ed188d6-3605-4419-b71e-118167218468,Pediatrics,clinical,single,A
+3f14a758-0e86-43ba-a517-ce29c38b6dbf,Gynaecology & Obstetrics,clinical,multi,B
+3f1c84b8-4b70-4567-9d61-a49714ffb200,Surgery,clinical,single,B
+3f414e9c-fdea-4bc4-9d1c-4c270fb37639,Pharmacology,para-clinical,multi,D
+3f41f911-cf5c-4227-b32b-7efd0b2fc191,Dental,dental,single,B
+3f50c7e4-d166-4d0e-8a68-d309be739f05,Pharmacology,para-clinical,multi,B
+3f5b3234-71dc-4d1e-a1fe-265407c17c5a,Gynaecology & Obstetrics,clinical,multi,B
+3f5c46d5-abc8-4727-ae33-91977a457218,Dental,dental,multi,B
+3f67eb93-73d7-4caa-b000-2b85de3c8a65,Dental,dental,multi,B
+3f95d1b3-f038-4875-993a-4e9afde8bd62,Biochemistry,pre-clinical,single,B
+3fa2a07a-96d8-4272-bc31-1e91555907e9,Dental,dental,single,A
+3fb75e9e-82c7-424f-b7ff-60e5ddaa24b5,Anaesthesia,clinical,single,B
+3fd3c12f-96c0-4fb6-b429-d421f52daf31,Pathology,para-clinical,multi,A
+3ff2f4ae-4e85-475c-9456-223c81930e98,Dental,dental,multi,D
+3ff65139-5240-4593-bd44-2919090b2291,Dental,dental,multi,C
+40013980-4b7a-4cc7-8c38-f2f45215bcbf,Pathology,para-clinical,multi,B
+40039a69-08af-4bf9-b56d-9616f6659e4d,Dental,dental,single,D
+4032c899-2223-435f-a007-c513fd59a065,Pediatrics,clinical,single,D
+4034587c-3452-4465-9e2e-9b2ad5f643cd,Physiology,pre-clinical,single,A
+4067ea1a-de54-4762-a2d8-54acaaf54a18,Gynaecology & Obstetrics,clinical,multi,C
+406dfa1b-f27b-4db0-8c21-7c300498f63d,Pediatrics,clinical,single,B
+407c6552-4139-4426-8b6d-4be7e666c733,Biochemistry,pre-clinical,multi,C
+4080f3a3-a88c-4bcb-a8a3-2add0483fca0,Surgery,clinical,single,B
+409873c7-dd6c-4284-a0b2-dda6e861d639,Microbiology,para-clinical,multi,C
+40a0dd3c-a176-4669-964e-5583d3917c4d,Medicine,clinical,multi,B
+40a69530-6238-4f33-8003-86d143d6de77,Pathology,para-clinical,single,A
+40e0568c-ca1b-4f22-8610-fb17eab30ede,Surgery,clinical,single,A
+4127528f-2cc3-44bc-b07e-446577f5018c,Pharmacology,para-clinical,single,A
+4135c1a9-44e4-4872-a329-3cc4b7c1a587,Dental,dental,multi,C
+415631ce-90ea-4872-a5cf-3fe2c83e3b4d,Microbiology,para-clinical,single,D
+416729b9-8f0b-45d1-aa27-6674dacb9975,Pharmacology,para-clinical,single,B
+41b7f0c0-744e-41fd-ae2b-13fc6a741347,Gynaecology & Obstetrics,clinical,single,A
+41bd5f29-e1b9-4a88-8933-0561cd5324be,Surgery,clinical,single,B
+41bea7f1-6fe1-4441-81ba-579c07008ea6,Anaesthesia,clinical,multi,D
+41c672e1-f83d-487a-a284-399e766a33a9,Dental,dental,single,B
+41de4a10-ea29-4f5d-817c-570c5e537bc9,Radiology,clinical,single,A
+41e1a56c-4471-4566-9902-e54861939e72,Dental,dental,single,A
+41fac382-483b-4573-99c4-555b80dff3bc,Pediatrics,clinical,multi,C
+420bd3ce-8f20-44dc-b74f-2dcb97069594,Dental,dental,single,D
+423b742c-8580-47ff-a3db-eafd9de39d41,Microbiology,para-clinical,single,C
+424c8df6-20ac-4083-8bf8-47216a533e15,Dental,dental,single,A
+425262d7-1238-4195-a713-1cb8befefd2d,Pathology,para-clinical,single,D
+427b1e29-9386-4ca4-af88-7c3fe4b37e15,Radiology,clinical,single,A
+4282ea27-91a4-4cd7-9781-2958d3986552,Pediatrics,clinical,multi,A
+42a4b6d8-f4d9-4613-a31e-1a7dff4a3bab,Dental,dental,multi,C
+42c3b6ae-45e3-405f-b8bd-fa6a17924c6b,Anatomy,pre-clinical,single,B
+42dbf12f-7a02-4df7-85b2-e8e2b8638f9b,Surgery,clinical,single,A
+42f2f76c-53be-4d1a-a728-e977410cfc17,Dental,dental,single,B
+431cd080-eae1-4b26-a7d5-42475e01fcd3,Dental,dental,single,A
+433889ad-6b7a-4b52-b45d-2e2379f81d5e,Anatomy,pre-clinical,single,C
+43652970-699f-43d1-b066-d06a6989baf3,Dental,dental,single,C
+43665f50-c4e4-4798-a3b7-cfe41901c3e8,Pediatrics,clinical,single,B
+436d7d2f-93e5-4a85-84b5-f4c701863126,Anatomy,pre-clinical,multi,D
+438f8342-aae4-4631-8487-30b2c595c5d8,Dental,dental,single,A
+4391391c-04bb-4ca1-abba-9f4b3a6c2a81,Gynaecology & Obstetrics,clinical,single,A
+43a48b2d-df1f-42d0-a999-d76df02c8515,Anaesthesia,clinical,single,A
+43b91e2e-4010-45d7-9e9e-be49ac4ed250,Microbiology,para-clinical,single,C
+43bdf667-7532-42d6-b875-c2c06f6b9d3a,Dental,dental,single,B
+43d111d5-07dd-464c-88c4-c14a27b9f6be,Dental,dental,single,B
+43f1ea33-49ee-498f-93d6-b2beae375a55,Pediatrics,clinical,multi,C
+4414e290-9d6a-410d-9506-72555add17d7,Forensic Medicine,para-clinical,single,A
+441684f3-9823-4e41-9066-c572118e3efc,Pharmacology,para-clinical,multi,A
+44588787-ffcc-4c4c-b31b-5616520ee30f,Pharmacology,para-clinical,multi,D
+44796bcd-ae11-44de-94da-6bcb502fcad6,Dental,dental,single,A
+4484094e-92fb-4dd2-861b-582497333e86,Medicine,clinical,multi,D
+44b7c270-47c9-4f1a-9414-5ebedefd7f0e,Dental,dental,single,D
+44bb378d-cada-475a-88a0-1383d314bae0,Pathology,para-clinical,single,B
+44c704bc-4331-45a6-b6a8-dd8a5a0b7d18,Pharmacology,para-clinical,multi,D
+44cc205e-7682-4501-aed2-4896371856c2,Orthopaedics,clinical,single,B
+44d88df4-2f63-4957-ae74-50422b03a7d9,Pharmacology,para-clinical,multi,B
+44f185f0-7a8e-406c-a33a-b2d7d54e7a25,Pharmacology,para-clinical,single,C
+44ff9d66-1271-48ec-80e0-51f38a47c976,Surgery,clinical,single,A
+4506e30a-65c0-48a5-86db-595e5084787c,Gynaecology & Obstetrics,clinical,single,D
+45258d3d-b974-44dd-a161-c3fccbdadd88,Physiology,pre-clinical,multi,A
+453cceb9-0d23-47f8-95d8-0b0f3d7217c0,Anatomy,pre-clinical,single,A
+45588c4c-da93-43ca-8ee4-05feb851be68,Anatomy,pre-clinical,single,D
+455ebd1d-982f-4a99-948c-8b541e36db40,Dental,dental,multi,D
+4566acfa-b637-4b16-9602-b7b88e4012d2,Gynaecology & Obstetrics,clinical,single,A
+458b49a6-3d4e-445c-9542-51e2c9b466bd,Dental,dental,multi,A
+45ca5332-990d-47c7-8542-670dfc53479e,Dental,dental,multi,C
+45d2b684-c55a-400b-ab09-76ee3a9ba64b,Surgery,clinical,single,B
+45f40e28-6c0a-4685-a936-8b993f3d8220,Surgery,clinical,single,B
+460ac269-4f1c-4305-b286-b5fd124289f8,Dental,dental,single,C
+460d8722-fe72-444c-a927-0be1b24de884,Anatomy,pre-clinical,multi,B
+464d6db1-cbf6-44c5-89b0-1599071e3a72,Anatomy,pre-clinical,single,D
+46653ca7-d61a-4d6a-a135-91309eff9b49,Social & Preventive Medicine,para-clinical,single,D
+4669e9cb-e3f4-484f-be7a-0c30e319908e,Dental,dental,multi,D
+46872392-e33f-464f-a194-93ea23830da9,Anatomy,pre-clinical,single,A
+46888949-6478-4384-acdb-344f246616ba,Dental,dental,multi,B
+46a92416-5681-4333-8b2e-70f85fc10632,Medicine,clinical,single,A
+46ad47af-1a99-4c9a-a81b-58316ce06439,Dental,dental,single,A
+46b87f53-f447-40b1-a0c0-85334ad9d9e7,Gynaecology & Obstetrics,clinical,single,B
+46c8e8cf-5930-486f-ad11-99b9339c12ab,Anatomy,pre-clinical,multi,A
+46d8350b-3f1d-4199-9c82-aaff47498fdd,Anatomy,pre-clinical,single,B
+46e17cf1-ec1e-4aa1-a48d-45159e80f45d,Dental,dental,single,A
+46eff7ad-2cc9-45df-bb54-81a592e6e9b7,Medicine,clinical,multi,B
+46f87e87-5b3e-465d-ae94-bd65b5f333c2,Physiology,pre-clinical,single,D
+46fe2094-87db-4117-b06f-7a7bebb94646,Pathology,para-clinical,single,D
+470d2dcb-0af2-4dae-8598-208eff783a95,Pediatrics,clinical,multi,B
+470f224d-77cb-41dc-81e2-52f4cdce2acd,Medicine,clinical,single,D
+4710c6bb-67b6-47ab-85e1-7cac22bd35cf,Dental,dental,multi,C
+4719558d-09ca-4c85-9bf8-454e80a138aa,Surgery,clinical,single,C
+4725b4cb-9085-4059-864f-a5800d15d52b,Dental,dental,multi,C
+475b9dc7-c23d-4e3f-a3c7-5dc5893a34b1,Ophthalmology,clinical,single,C
+477dea37-f0b6-4a6d-b77a-766ded28f2b6,Radiology,clinical,single,A
+478d3388-e6a4-49a7-8c07-7b9f6f6c19b8,Dental,dental,single,D
+47987536-7408-420b-9f9a-9e968f645ae6,Pediatrics,clinical,multi,D
+4798d605-979f-48e0-82ee-fea88cb40907,Dental,dental,single,A
+479e5139-f840-4d95-b13b-d1a95e2ff3e4,Radiology,clinical,single,A
+47d0aa0a-2a83-4fc9-8a8c-54789d2e482e,Medicine,clinical,single,A
+47e35777-f1d7-4291-81e6-6a1d1360a75c,Social & Preventive Medicine,para-clinical,multi,D
+47ef5a0a-7625-49dd-bda3-819f6df9799e,Anatomy,pre-clinical,multi,C
+47efd329-c1b4-49eb-8318-1cf2174b9ad9,Dental,dental,single,B
+47f8f5d9-4611-4a68-9e8f-2993951ccc95,Anatomy,pre-clinical,single,C
+4833c423-9658-477c-be6d-4d2d5806c6b7,Pathology,para-clinical,single,A
+4839c894-ec48-45dc-b147-f2e81c11f78a,Anatomy,pre-clinical,single,B
+484de2a0-f89b-4e79-88c3-11cb2da4fcde,Social & Preventive Medicine,para-clinical,single,B
+4873ac63-79fe-4fdb-a63b-1c4064b80d15,Pathology,para-clinical,single,B
+48979fea-5d39-4c8f-ae13-8dc9421c2288,Pathology,para-clinical,single,C
+48b657a1-b046-40e2-b0bf-a2ece3cbcb8e,Gynaecology & Obstetrics,clinical,single,C
+48cd18c2-3a7a-4c33-8fb6-a5eb7c7dfae2,Surgery,clinical,multi,C
+48d1692a-1a88-4247-8a54-7947e03d6d62,Dental,dental,single,A
+48d70d58-19bb-4648-b72b-d49e9cbb0147,Dental,dental,single,B
+48dacd47-50fa-488e-9ab1-e36dd7e661f2,Dental,dental,multi,A
+491ed54a-1b54-45f6-a2cb-613580c57297,Dental,dental,single,D
+4932022f-bc9d-4d90-a610-f6c87cd0008d,Pediatrics,clinical,multi,C
+496c34b0-7534-49f2-bf23-d72965013777,Dental,dental,single,A
+49742408-b907-4963-a7b7-3e23f073e1bb,Surgery,clinical,single,C
+497ea93a-5cb7-481b-887c-8ffb86395262,Dental,dental,single,A
+4982eef9-e03f-4b52-af7d-e0e2f588358e,Medicine,clinical,single,C
+498c56bd-94f3-48de-b981-5c6400ee5700,Anatomy,pre-clinical,single,D
+498c62ec-aed7-45cd-a1c4-d3415bdaf58c,Dental,dental,single,B
+49929359-b1a1-436e-9df2-31b0b129f0d7,Anatomy,pre-clinical,single,D
+49aad5fe-d52b-4520-9fcd-e199f5f0f4c7,Dental,dental,single,B
+49b456da-591f-4221-b56b-9a04eaa21b77,Pharmacology,para-clinical,single,A
+49b55e36-d205-4d1e-8fb8-c754edd6627a,Pathology,para-clinical,single,C
+4a073cec-41b0-49ef-aa57-a010c2bfe5d9,Anatomy,pre-clinical,single,D
+4a1231e6-deb4-4c50-9dcd-d71fcd9021a2,Dental,dental,single,A
+4a131164-eb3c-4152-9556-b81ae98e2066,Ophthalmology,clinical,single,A
+4a36bb7a-a19f-4aba-82b3-6cd35fc3cbc0,Dental,dental,single,A
+4a406504-84b2-4e13-8bd3-c149c1c0e0eb,Physiology,pre-clinical,multi,D
+4a531e44-3ced-400a-8b2b-fa451d885dde,Dental,dental,single,A
+4a5c465a-979c-468e-a5c8-286d987f9d4d,Physiology,pre-clinical,single,A
+4a6df62e-15c7-471f-8dc7-d13ff49f0502,Dental,dental,single,C
+4a911d25-db46-4f7f-851b-6e2ffa30d8b3,Surgery,clinical,single,D
+4abe89b3-2fab-4615-8ba3-be109a8927fb,Dental,dental,single,D
+4ae28007-4e30-4358-b6ad-a13c7a4d8015,Medicine,clinical,multi,C
+4aee5e25-9f51-4b6d-9950-0b6f19f7c9a0,Pathology,para-clinical,single,C
+4af61718-923a-4242-8090-532d83bed044,Dental,dental,single,A
+4b23b26b-c4d1-4273-af66-90c76a7a777c,Dental,dental,single,B
+4b40c558-d6be-4683-ac70-b43beafccae3,Dental,dental,multi,B
+4b68c9e2-67fe-44e0-a9aa-002f5787f453,Medicine,clinical,multi,A
+4b912603-51df-4c8b-89de-6d845f666cb1,Gynaecology & Obstetrics,clinical,multi,D
+4bab5fce-dd4d-4196-906d-11354ffa1c8d,ENT,clinical,single,D
+4babb6af-7f56-4e4b-a5b5-df775b7928c5,Microbiology,para-clinical,multi,D
+4bf78fed-6576-4ea9-9ba9-1028d2eb6220,Surgery,clinical,multi,C
+4bfec2de-e6e7-41c6-bbe9-3dc864f9d719,Biochemistry,pre-clinical,single,C
+4c193618-d7aa-41b5-a04c-0ff57cabbb3a,Gynaecology & Obstetrics,clinical,single,C
+4c74361f-7de5-4a70-9221-c8f5c9554081,Microbiology,para-clinical,single,A
+4cb6b49b-3422-4add-9f90-7a7d6678be62,Dental,dental,single,B
+4ccccd54-b0bd-42ad-ad20-0885e2df15a8,Dental,dental,multi,D
+4cd85450-80cb-48af-b4d0-30c2d42495f9,Dental,dental,multi,D
+4cd9cf13-3bf7-438a-ae19-02288af1e943,Surgery,clinical,single,A
+4d23c715-87a3-47f7-94be-e54bb0e6288b,Surgery,clinical,single,C
+4d39dabb-c57f-4a2d-a979-fd4347773e76,Pathology,para-clinical,single,A
+4d48f925-c908-4543-b466-e97ff099812c,Dental,dental,single,A
+4d8af4ad-1f62-4bb8-a485-439992b3af49,Dental,dental,multi,A
+4d936cfe-6c83-463a-944c-0069a8f5f11c,Surgery,clinical,single,B
+4d93aaa2-b44e-4c76-9332-7110cc1cfa63,Pathology,para-clinical,single,B
+4d992bbe-1bd9-417f-b08b-4a1c22095439,Biochemistry,pre-clinical,single,D
+4dfdc33d-0dc8-4419-add8-cbb1e2571b26,Dental,dental,multi,A
+4e3061f9-0a14-4878-9abd-6a0459b268b8,Physiology,pre-clinical,single,B
+4e6da460-99e2-4192-b3b6-b10f8827dce2,Pathology,para-clinical,single,B
+4e8f5ba7-452a-464f-a328-d8b96eafade6,Pediatrics,clinical,single,D
+4e9c6e74-1604-4599-91c2-02d22adcb765,Gynaecology & Obstetrics,clinical,single,B
+4eb2c660-2893-450f-957c-536b6a6f9b3d,Physiology,pre-clinical,single,C
+4ed16846-22f2-40b6-a993-f07081e970f1,Dental,dental,single,A
+4eeb0fe3-c514-4b93-85eb-6c4010460ec6,Dental,dental,multi,C
+4eef4a6b-af8e-4472-9caa-95c1f1a415c8,Pathology,para-clinical,single,C
+4f0750e5-1479-453d-85f2-5b532aa130a9,Dental,dental,single,D
+4f2920dd-315c-4f5a-9208-80a4c443ceab,Medicine,clinical,single,A
+4f3977a7-1243-421b-a401-63aa119c0e66,Pharmacology,para-clinical,single,A
+4f4c9567-a316-45fb-8968-1324e31933ed,Dental,dental,single,D
+4f50899d-3016-461b-bd81-c1c29fbe6d29,Social & Preventive Medicine,para-clinical,single,A
+4f5ca2d2-0f0b-4304-87ef-fbdc6d883659,Physiology,pre-clinical,single,A
+4f5ef465-6d08-454f-aa5c-53fc1eecb0ae,Anatomy,pre-clinical,multi,B
+4f5f8f0f-7956-4d71-b7ad-d29b76eda55f,Dental,dental,single,B
+4f6953cf-b4b2-491a-8886-eb2546b97582,Dental,dental,multi,C
+4f8a7da4-2f7c-4827-ab01-c5570cfbac40,Medicine,clinical,single,A
+4facde08-e9dc-4bb1-b89b-74f09e84be19,Dental,dental,multi,B
+4fbc569b-3b88-490f-b1b9-0af7c459eee0,Pathology,para-clinical,single,D
+4fbd9ccb-2efb-4e4a-bcea-2db337a825ff,Pharmacology,para-clinical,single,D
+4fec3e84-b821-4da3-b300-dc0ad6c32608,Pathology,para-clinical,single,D
+5010a343-a5a4-420b-956f-38a811821ad4,Dental,dental,multi,D
+5029ecd7-0f3f-495a-b662-b45589a2f9d7,Pediatrics,clinical,multi,B
+50621fd3-02f0-484c-bc9d-4ebc9dded4e3,Surgery,clinical,multi,A
+50aa2943-d234-4743-88e0-286d47774107,Pathology,para-clinical,single,A
+50ca6bfb-4e53-40a0-a3a6-14cb2e92d6ab,Radiology,clinical,single,C
+50d62af7-c4dc-4ea7-93fa-c235c4bb6b2f,Gynaecology & Obstetrics,clinical,single,A
+50f76810-3187-472e-b094-3a65749eb76f,Dental,dental,single,C
+51118d57-ac58-4184-8c9b-107cea78ed7a,Dental,dental,single,B
+5115d601-c567-4a71-a53a-e4a7facd703b,Dental,dental,single,C
+51203235-22e6-43fb-a51f-a2fcceb5f042,Ophthalmology,clinical,single,B
+51234bc7-9170-45cc-8494-837fe23af441,Social & Preventive Medicine,para-clinical,single,A
+51250c61-30fe-47d0-b5cf-e9ce5abcac6e,Dental,dental,single,D
+514ac65d-87cb-47b7-b8b0-ffc36253753f,ENT,clinical,multi,A
+514f2979-8893-455e-9b88-5979370081c4,Physiology,pre-clinical,single,A
+51580a67-7a2f-44fb-92f3-b0017142c32c,Dental,dental,single,D
+515aa26e-2c4f-41f8-9039-cc2f96a04eaa,Dental,dental,single,B
+515dde1e-02e3-41d5-a88f-3d2a99421bde,Dental,dental,multi,B
+51973390-3173-4aa1-b318-974ac57a6f7b,Dental,dental,multi,C
+519a4ff4-7e05-455a-b8dd-edd85636dccf,Forensic Medicine,para-clinical,multi,C
+51a748a3-8ba1-46ad-af64-fec2fca2b81b,Dental,dental,single,A
+51baa169-5c84-4d0e-94fb-d21279cea570,Dental,dental,multi,D
+51bdbdd1-de3d-45e7-8bfb-dbd36e1ae434,Pediatrics,clinical,single,D
+52214090-675c-402d-b898-bb6c05aa3e95,Medicine,clinical,single,A
+522522f6-47cd-4dbc-843d-8dbd3768bff7,Anaesthesia,clinical,single,D
+524d41bf-ef51-49b4-8662-dcaf2c2798fb,Pharmacology,para-clinical,single,D
+525c0f64-0789-4991-9192-e8e8b7e65f43,Dental,dental,single,B
+52638912-d9ec-4e6c-91a8-01e73bbeefd2,Pediatrics,clinical,multi,C
+5266b717-91e2-4c9f-94aa-2be119379a81,Social & Preventive Medicine,para-clinical,single,D
+52d47274-fbea-4be7-9712-040318ef01f2,Pharmacology,para-clinical,single,C
+52d643b9-6455-43f0-a04e-a838bf1ba1c8,Pediatrics,clinical,single,C
+52e0bdf3-57a4-4dd6-ba5c-e9facb82e61f,Anaesthesia,clinical,single,D
+52e11926-2d45-4bbd-aa2d-f1c4cf6e4682,Pathology,para-clinical,single,C
+52f7f99f-7b39-4c16-97c3-df2c2229c041,Biochemistry,pre-clinical,single,D
+53208a86-eac2-46ae-8ae3-703e1afda738,Surgery,clinical,multi,A
+53273e2b-2ecc-4a66-873f-4926a4a22c52,Biochemistry,pre-clinical,multi,C
+533dcf5e-9bf9-4c25-a1bd-64f13f6e916b,Medicine,clinical,single,A
+5344a6b5-cfa1-47bf-8849-18ea7c196869,Dental,dental,single,B
+5344ef0f-612a-4a2e-a0d9-5314cf3418f3,Dental,dental,multi,A
+53925f03-9145-4ca4-97ea-2e9f154fd36c,Dental,dental,single,A
+539291d5-becc-4ccc-8862-9d9ff4fcc121,Physiology,pre-clinical,single,D
+53b25799-4578-4b4b-aa22-5c9aa6b4f62c,Dental,dental,single,A
+53ba17a3-bd10-4e5f-bf50-95306abb21b7,Pediatrics,clinical,multi,D
+53c46c77-bc75-4269-a36c-58effa4f357d,Dental,dental,single,A
+53c95690-d391-4bda-b3b6-57447e7d8b28,Surgery,clinical,single,D
+53cc935b-3123-4b83-ad62-307b2b736c9e,Skin,clinical,single,C
+53d58d7a-d546-4b1a-88a7-fa7348ff08a5,Dental,dental,multi,A
+53f00275-55bc-497b-872f-d223d5021601,Pathology,para-clinical,multi,A
+541cbd4f-c0d8-43b8-bebe-9fabaa9023cd,Dental,dental,single,B
+5431f910-7edc-4bf7-a59a-00196a99b846,Medicine,clinical,multi,D
+543b341f-7350-4a9b-9bc6-63a1a2cee1e8,Pathology,para-clinical,single,A
+5444cae2-aeab-4a04-8501-e91fe8ce794a,Anaesthesia,clinical,single,A
+54ef390c-a1aa-45f3-8ae9-ab1c76e80326,Dental,dental,single,D
+54f0597f-d43c-4813-b202-935ae07e4e20,Biochemistry,pre-clinical,single,A
+55028fba-fc8a-4c77-ad53-33e7cebc34e6,Dental,dental,single,D
+5587f082-44da-4a6e-9c8a-d1ee7760bf60,Gynaecology & Obstetrics,clinical,single,B
+559675a7-0767-47f2-bd6e-fc2279032447,Pharmacology,para-clinical,multi,D
+55eec4ea-ed68-45a3-87b9-74592b2ded6e,Pharmacology,para-clinical,single,A
+5603de35-adb1-4612-a9ea-1e719e1aa879,Medicine,clinical,single,B
+56176afa-3442-46be-9cdc-c8e569a72d04,Microbiology,para-clinical,single,A
+561aefb5-77c7-433e-8029-096d77ad3099,Pediatrics,clinical,single,D
+5641b32f-91e7-4a52-bd8a-a1db071d0d45,Physiology,pre-clinical,single,B
+565d9d77-689a-4e68-bd65-7016980692ba,Dental,dental,single,A
+567c4ef0-c8b3-40db-8076-d293f225f852,Pediatrics,clinical,multi,D
+5682860b-5ef4-4c1d-88b4-eb81546548ba,Gynaecology & Obstetrics,clinical,single,A
+5695dba4-4624-4960-954f-6e7133491216,Surgery,clinical,multi,B
+56a4d5b8-c2e7-4534-9511-a30ff0769814,Pediatrics,clinical,single,B
+56a82596-5a2c-461b-b6a4-00019b3e4eaf,ENT,clinical,single,C
+56afd089-38a1-40c8-ad6c-fe369383198b,Dental,dental,multi,D
+56f96be4-b9c5-4ddf-bb48-1f01e541184f,Dental,dental,multi,A
+570239d9-50eb-43d4-9003-f8c2574aed5c,Pathology,para-clinical,single,D
+57336e68-8096-4fa9-89f5-36c05dcd5482,Dental,dental,single,B
+574f8c1a-3c90-4c56-b5ef-6d0a965ab942,Gynaecology & Obstetrics,clinical,single,B
+57593a1c-3f1a-46c3-91b9-cf9230080c97,Medicine,clinical,single,B
+575acac4-e189-40a7-937e-4e723b0f0225,Dental,dental,single,B
+579951c3-517c-41e4-ac39-0a48f474c01b,Social & Preventive Medicine,para-clinical,single,C
+57ddda15-6303-4ef9-a63c-8274551717ca,Physiology,pre-clinical,single,A
+57eb90ac-1025-4763-b6c0-ff5581ef2126,Pathology,para-clinical,single,A
+57f4102b-4c7f-41b0-8ee5-a221747da8ab,Dental,dental,single,C
+57f646bb-fbf5-489b-9991-dcb361be9561,Dental,dental,single,B
+5814145c-8aed-4f7e-abf1-ba410ab7e2cb,Pharmacology,para-clinical,single,A
+58194611-8ffd-4405-83b2-f8e5798b095d,Dental,dental,multi,D
+5823e5f0-8ea7-4583-bbeb-409c9206dbd8,Pharmacology,para-clinical,single,C
+582761e9-2e70-4d1e-91d8-c97da4737e47,Anatomy,pre-clinical,single,A
+584b066b-f662-4854-9fb9-86b430bb6650,Surgery,clinical,multi,C
+585bc690-6b58-447f-941c-95f18ee8152d,Dental,dental,multi,A
+586daa2f-3bc5-4a48-8da5-21374ee1bf07,Dental,dental,single,A
+5891372b-60e8-4a7c-b773-48598b2712e3,Pharmacology,para-clinical,multi,D
+58be1fdb-ba8a-47c2-9e2e-b5433bba6128,Anatomy,pre-clinical,single,A
+58d24187-ca26-4e5b-a3d9-c57ce0ff543b,Anatomy,pre-clinical,single,A
+58d38c9d-0440-4077-a581-e86b63ec4ecd,Dental,dental,multi,C
+58d83508-8ad5-4137-a215-d6b084f49e3c,Dental,dental,single,C
+58e40694-1799-476f-8618-af488bda8892,Microbiology,para-clinical,single,A
+58ffad4a-5613-4d26-88b2-a4bb2ce2b9e6,Pharmacology,para-clinical,single,B
+5900458a-b839-47eb-a745-b93e35ba2d40,Pediatrics,clinical,single,B
+59020852-ed4d-4f44-932b-98da5cd0f47b,Pharmacology,para-clinical,single,C
+590248a6-74f4-45bf-a54a-d9b9b09b78b8,Anatomy,pre-clinical,multi,D
+592dc3ce-d34f-4426-91b5-01556d31b89f,Pathology,para-clinical,multi,B
+593d3d8b-8fd8-41dd-9807-bc35454b258e,Pharmacology,para-clinical,single,C
+593f6b1c-c039-46aa-b81e-f418ed39ed6c,Pharmacology,para-clinical,multi,B
+5945db96-21f3-4c7e-b4f5-d287d25aef89,Pathology,para-clinical,single,A
+5948bf46-bda9-45d2-8165-c12f8387e345,Biochemistry,pre-clinical,multi,A
+594d2b69-4fb8-4ae5-a4e6-c8f6597a1922,Pharmacology,para-clinical,single,A
+5951aa74-d30c-4c33-b1e6-dd5e5d103ca0,Dental,dental,single,B
+5963ab9b-34a2-4d45-acc6-d7688d671080,Pathology,para-clinical,single,B
+5969f19a-3697-4e23-a8de-b63dbe06997e,Social & Preventive Medicine,para-clinical,multi,C
+5986807f-c9d7-43ca-951a-2c4be8c0d62e,Anatomy,pre-clinical,multi,D
+5988b3d1-c438-4d16-a887-979dac8bbd10,Dental,dental,multi,A
+59ade17d-2139-4c4b-b0b5-ec6d6cf3c073,Pharmacology,para-clinical,single,A
+59e81c57-2a98-4ab7-a2cd-7a10034d04f7,Dental,dental,single,A
+59ecbb71-66e3-4d3c-b963-b9ef607449e0,Pathology,para-clinical,single,B
+59f75254-2953-45a6-9c9a-61dd9a4dc537,Dental,dental,single,A
+59fcd56f-73e9-49e5-8cd0-8097402935ec,Physiology,pre-clinical,single,A
+5a081b96-4228-4b6a-b775-6a70e294cbb5,Dental,dental,single,B
+5a14f3b2-0223-4ec7-a0e3-7c836e5d4a57,Pathology,para-clinical,single,A
+5a236a74-118f-49b5-adde-21dba36a8bee,Surgery,clinical,single,A
+5a2c783a-6e8a-4e89-9bc9-4a84451145d9,Medicine,clinical,multi,B
+5a2f9e25-3acb-4830-9f18-009480595be1,Psychiatry,clinical,single,D
+5a2facfc-eefa-4828-b96a-c319e1c71745,Microbiology,para-clinical,single,A
+5a49f825-bf30-48d5-a10d-5bf1a3f5dd1c,Pathology,para-clinical,single,A
+5a4d6226-a00e-45c0-bc74-5b1c718b1620,Physiology,pre-clinical,multi,A
+5a5dcbce-041f-45ee-8a1d-2ec6b23d5f82,Pediatrics,clinical,multi,B
+5a6abefa-9edd-429c-8489-f7d4a3fd2770,Pathology,para-clinical,single,B
+5a7cda67-bf66-44be-95b0-ff347d55c01a,Pediatrics,clinical,multi,C
+5a97622c-8cad-4bbf-8f08-017bcb90249e,Pathology,para-clinical,multi,B
+5a9b5587-a3c1-4bb7-9a7b-4da6e5094e68,Pathology,para-clinical,single,C
+5b0c9583-ed81-4ba8-bbd6-a129d6b6a0fc,Dental,dental,single,B
+5b21874b-3f6e-434f-8dda-efa6819c584d,Dental,dental,single,A
+5b24780b-7e65-4727-ae71-7b42228280ce,Surgery,clinical,single,D
+5b53950b-3426-4836-9c2f-23735fecc6aa,Pediatrics,clinical,single,C
+5b612728-c228-4423-8fd8-fde0ff1d3f68,Gynaecology & Obstetrics,clinical,single,C
+5b6b6084-a498-4fff-b639-2e44d71e0fe3,Medicine,clinical,single,B
+5bb0839c-7c3d-4f5e-a955-6f67ad0db7d9,Gynaecology & Obstetrics,clinical,single,C
+5bb71e79-6495-4b29-a2b4-8af6d9fb4d86,Physiology,pre-clinical,single,D
+5bc29ae1-a1a8-4c3b-a11e-e469be9f0640,Dental,dental,single,D
+5bca2ed8-85d7-4ec5-8c3a-96ce2c3ca045,Gynaecology & Obstetrics,clinical,single,D
+5bcec4d3-777e-4593-b9a0-fa97999f8481,Dental,dental,multi,C
+5bfd1b1b-9631-4170-b708-e0504da5086e,Surgery,clinical,multi,B
+5c55ed82-c9c5-4f5d-8d0e-9cd76cfbeb74,Gynaecology & Obstetrics,clinical,single,B
+5c578aa4-a6fd-4de5-b0f6-adb926564122,Forensic Medicine,para-clinical,single,A
+5c621759-a7f6-4cb9-851b-11da1704d76e,Orthopaedics,clinical,multi,D
+5c6c1d19-f370-43e2-b06c-6dc288a803dd,Dental,dental,single,C
+5c6f357f-dbae-4930-9dbc-e3f3a4d064b1,Dental,dental,multi,B
+5c97e587-2436-40b2-9f70-6f08a903d543,Radiology,clinical,multi,D
+5c98317f-be24-441a-9349-7f423d681dfc,Pathology,para-clinical,single,B
+5c99553b-a9ad-4919-add4-93a6487f139c,Dental,dental,single,A
+5cbf03b9-8012-42bc-b765-8dfa5adb2f5d,Dental,dental,single,A
+5ce754b8-b358-4270-9bd1-8828700a19b1,Dental,dental,single,B
+5d03f6ea-52a4-4358-94b1-ab24840e0f77,Forensic Medicine,para-clinical,single,C
+5d0bb1e6-fa95-47e6-811e-abeb5a025ce6,Pharmacology,para-clinical,single,C
+5d38732d-4eaa-45ab-814a-788953f95cf2,Dental,dental,single,D
+5d46461c-0db2-437a-b7a9-f638efc4d6a7,Medicine,clinical,single,D
+5d7ae586-3ecd-41a4-a172-d32ab3dc4f6a,Social & Preventive Medicine,para-clinical,single,D
+5d893dcf-745b-4d0f-beac-49218e05a726,Pathology,para-clinical,single,A
+5dc8687a-758d-4f8f-88a1-231bad43b239,Dental,dental,multi,B
+5dd20354-df6d-4a05-9895-d742e7852803,Gynaecology & Obstetrics,clinical,multi,B
+5dd3fc6a-7e12-4899-a250-102f79d9a7fd,Surgery,clinical,single,B
+5dd40005-ebc1-4136-9b9b-70705d09e384,Social & Preventive Medicine,para-clinical,single,B
+5e0d7e21-6ecc-4145-9d27-1d7792ff0b6e,Dental,dental,single,B
+5e39f6db-6d90-49fa-a2a6-f9e0c9d1b821,Forensic Medicine,para-clinical,multi,D
+5e7cb3e3-57f6-4748-96dd-0b8f6e2fa902,ENT,clinical,multi,A
+5e905c89-34eb-4755-83ea-dceb91cb9c81,Dental,dental,single,A
+5eb13f65-9515-424e-ac36-0b92caf71771,Surgery,clinical,multi,D
+5eb813a6-a84e-4b34-ae56-80e38f5a44b5,Surgery,clinical,multi,A
+5ef662e7-6d00-4ca1-a592-b862a54a5efa,Dental,dental,single,D
+5efc0877-615f-4154-ba76-46a27844c5a3,Dental,dental,single,B
+5f0ad8da-864f-49f7-952f-f4755813e4c5,Dental,dental,single,B
+5f2e0649-aabe-48ad-9063-2c4554d053a2,Anatomy,pre-clinical,single,D
+5f4b2d07-01cf-4c5f-9140-1d0649ec58ca,Biochemistry,pre-clinical,single,D
+5f5f1b55-68a6-4c77-a46a-97d7157a4adc,Pediatrics,clinical,multi,D
+5f653449-2396-4d96-83e8-f4d2d3cb43be,Biochemistry,pre-clinical,multi,B
+5f65e5aa-a984-49bd-aad6-0292fa0e07d8,Dental,dental,single,D
+5f75e5c0-26de-4a29-9b27-c9f03c44ed67,Medicine,clinical,multi,D
+5fecb77f-66cc-4650-8201-3759bda2a213,Pharmacology,para-clinical,single,A
+5ffac163-ef01-4c80-9439-6c5074d32b95,Surgery,clinical,multi,C
+6004baf5-e4da-4d48-915d-e1bd251c936e,Gynaecology & Obstetrics,clinical,single,A
+60485d84-b6cd-4796-984a-9432906a4585,Social & Preventive Medicine,para-clinical,multi,C
+604c33c3-6037-47ea-8aea-36d87d3bc54e,Pathology,para-clinical,single,B
+605c9835-95d4-4a5e-b400-09bf38e75e4c,Pediatrics,clinical,single,A
+60646c53-a9be-48d4-a895-551f31fd3faa,Surgery,clinical,single,A
+607d0116-5f85-4d42-87d2-e6fd96abc366,Social & Preventive Medicine,para-clinical,multi,D
+607f11f0-305c-479d-b4f6-14fb78fb06dc,Dental,dental,single,D
+608ee01c-9e31-4688-a5b3-eaab8ca54795,Dental,dental,single,B
+609d43e1-ece7-4a9b-a194-0126a021d581,Dental,dental,single,B
+60a2311b-bfcb-43c9-9409-30d6f3a0e6b9,Pediatrics,clinical,multi,A
+60a30040-3784-41dc-b81d-be50cde12679,Dental,dental,multi,C
+60b9f4b0-f993-4236-9378-3c87762aefff,Pharmacology,para-clinical,multi,B
+60e4c703-caf9-4e1c-a6d8-fcbaeae819d4,Physiology,pre-clinical,single,C
+60f690e1-518f-42c4-9ddb-acbf65c1731e,Dental,dental,single,D
+61146ef9-e5d8-48c4-8031-a04cbb34c97e,Surgery,clinical,single,A
+611828ae-4acf-4177-bc88-fd78e72a9a3e,Dental,dental,single,D
+6167ceda-f896-4511-a570-ae19f725e1e7,Biochemistry,pre-clinical,single,B
+618b8199-05e4-41a6-b549-07eb307bec25,Medicine,clinical,single,A
+61ac5df1-c2c1-48ba-9e04-b86120f10110,Pathology,para-clinical,multi,A
+61c39bd2-2c7b-4c23-8e2a-1cb85161670f,Pharmacology,para-clinical,single,A
+61d50780-6165-4945-ad76-ef08e193ec57,Pediatrics,clinical,single,B
+62081a5c-5ffc-4a88-9aca-c9e430490e73,Surgery,clinical,single,A
+620affae-3d54-4be1-b18c-5b2c89d3332d,Anatomy,pre-clinical,single,B
+621316dd-5ef8-4ba1-953c-6f214b414b56,Gynaecology & Obstetrics,clinical,single,C
+62141781-1a59-4866-9ee1-57f2a4326685,Dental,dental,single,D
+624cf635-1421-416e-978a-996781f350c0,ENT,clinical,single,A
+624fae5e-1711-4d3f-8efc-763e77a09335,Dental,dental,single,B
+6252f5b1-80de-49b0-8e07-0d34604f28b3,Medicine,clinical,single,A
+6268aaa4-a6b7-4879-b15a-3861afd83e45,Dental,dental,single,B
+626e661d-f0a5-4f92-932c-3cc6d0e19eda,Dental,dental,multi,B
+62b2a82d-7ad9-4417-8319-645c25d0e5a3,Dental,dental,multi,A
+62b4984a-2bd0-47b0-ab7c-8cc7027c8303,Pathology,para-clinical,single,D
+62b9add2-a5e9-451f-92c2-2eee629ee143,Dental,dental,single,D
+62edf8e8-5380-40ad-a505-9ae48c25a6ed,Dental,dental,single,C
+62fa6f78-1964-4249-974b-6fcbbd7fc9ba,Medicine,clinical,multi,A
+631db9fb-f930-40f3-a867-273597e5c7f9,Dental,dental,multi,B
+6343810a-6571-4662-b3a6-aa7e13a7c65b,Surgery,clinical,single,B
+6345cacc-9150-4410-8add-3153eaed701c,Medicine,clinical,single,A
+635aedc6-993c-483d-a192-04e327b6a438,Surgery,clinical,multi,B
+6365d158-c101-446c-b8d6-978770aade5c,Dental,dental,single,B
+636a3c09-3bda-40dd-bf94-c497bd39d8f6,Pharmacology,para-clinical,single,C
+6370f514-0f67-4a88-835d-9d94a6ffa24d,Surgery,clinical,single,A
+6380bf46-988e-4ed8-8add-f57fa7bb61fc,Pathology,para-clinical,single,A
+638442d9-e6dd-42a0-9803-9042d9a88e09,Anatomy,pre-clinical,multi,B
+638938c5-4c5d-4ce0-8742-150395cce724,Biochemistry,pre-clinical,single,B
+63be6ad9-c40b-4731-8733-9bbe611387d2,Dental,dental,multi,D
+63e48df0-7312-424d-a84e-799ae4d573ab,Anatomy,pre-clinical,multi,C
+63f0f575-0417-4352-94c2-2a8055fe3739,Dental,dental,multi,B
+641830d8-81c8-4a90-abaf-1d0fc4de838d,Gynaecology & Obstetrics,clinical,single,D
+641f160f-eef0-4b8c-9cb8-3241d2d63173,Pediatrics,clinical,single,D
+641fe4d1-8fc4-4393-ada9-0f1fc1c25462,Gynaecology & Obstetrics,clinical,single,A
+6431d5e7-7313-4999-9dc9-830ab944437b,Anatomy,pre-clinical,multi,D
+6434c78e-ee6b-4e07-afac-ab14fe5f1c4e,Surgery,clinical,multi,D
+643c04b4-2478-4bb6-972d-196073f07322,Medicine,clinical,multi,D
+64400a13-aab9-46fd-8609-ac725bb8e72e,Physiology,pre-clinical,multi,C
+6456df80-5db3-44f0-bc53-e3209b525d2f,Medicine,clinical,single,A
+6459d630-c20c-4ee5-b8d9-3598a464f64a,Surgery,clinical,single,C
+645de065-8ca4-48b5-b6c5-0b5894eca245,Biochemistry,pre-clinical,single,C
+64fb619d-cfcf-450f-a317-cb760dca53e3,Biochemistry,pre-clinical,single,C
+6505d030-3a7b-4aef-81f8-6b47ab6764ce,Dental,dental,multi,C
+6506849d-8885-4adf-88b7-4e010e026d6c,Social & Preventive Medicine,para-clinical,single,A
+65085eb7-8614-4c6a-b1e2-732511920f37,Anatomy,pre-clinical,single,D
+650d801f-749f-480f-bad9-399be17408a5,Anatomy,pre-clinical,single,A
+650ee1f1-18e4-4e45-beaa-94f44eca7de5,Medicine,clinical,single,D
+6530c9cc-2e1e-4b4a-9f7f-de0431d05799,Physiology,pre-clinical,multi,A
+653eb6f4-cf9c-44e1-8399-d9bf6d1784e4,Dental,dental,multi,B
+65491c14-e081-4a90-94be-d0db9ef0325f,Surgery,clinical,multi,C
+654fde52-e652-4c4f-bea9-1280218d5895,Surgery,clinical,multi,D
+65639a35-9603-40ce-9584-aaf1f53c71d4,Anaesthesia,clinical,single,D
+65819e7c-73c5-4f7e-bed7-9a8d74c207ac,Surgery,clinical,multi,D
+658ebcea-6f61-4281-a426-848ad0dcf8bf,Social & Preventive Medicine,para-clinical,single,B
+65bef933-00cc-4f7b-8ca0-a77f2fe92c57,Pharmacology,para-clinical,single,A
+65f3f017-4699-470d-baaa-0743a0a5d10a,Pediatrics,clinical,single,A
+66092ccf-9a06-466a-a08f-8964f3091a9c,Pediatrics,clinical,single,A
+662c0f6c-a3d9-48a4-b21a-0cc20ef76b87,Biochemistry,pre-clinical,single,A
+66445905-f680-4952-8f35-71253c0c525d,Pediatrics,clinical,single,C
+6652ddbc-f88b-49aa-b52e-30e4dcd494d1,Dental,dental,single,D
+669252ce-a199-41b9-bf5a-c870a59121fc,Dental,dental,multi,A
+66a1d601-967b-47ee-af15-a78c983eb8c4,Dental,dental,single,C
+66a92c79-4225-497b-a55b-349983929898,Pathology,para-clinical,single,C
+66aee529-6114-484c-ba18-6152c902a3f7,Pathology,para-clinical,single,B
+66b9ec80-bfe0-485a-89ae-42e666aab572,Dental,dental,single,C
+66d7e017-f2f8-4325-8333-07c45a2fa0e7,Physiology,pre-clinical,single,D
+66f9e092-4410-42f2-841c-588c65c9384c,Social & Preventive Medicine,para-clinical,single,C
+66fd611c-468f-409d-b6b2-c2952511f4a0,Dental,dental,single,A
+671eebea-f741-4ed8-bf68-36e36c8de1eb,ENT,clinical,single,B
+673a0bbe-b4d8-46bb-83b0-e01658f9f22f,Ophthalmology,clinical,single,A
+674233e6-009a-41ce-b61d-c9a344dce090,Pathology,para-clinical,single,A
+678018c2-3154-4411-937e-0e5d4116739f,Biochemistry,pre-clinical,single,A
+6788f1c9-7377-4903-a8df-21c81f252f7c,Gynaecology & Obstetrics,clinical,single,A
+679512f7-f5af-4b3a-b7a1-851938dec9c5,Radiology,clinical,single,D
+679dec48-39e2-45bc-b611-e2bd310c0e1b,Dental,dental,multi,A
+67c5e0c6-248c-4933-b79a-72a042a68799,Anatomy,pre-clinical,single,A
+67f63ad4-0c9a-46fb-8689-c79b7a7224da,Forensic Medicine,para-clinical,multi,A
+67face05-23f1-43cc-8acc-61af6d1e6285,Biochemistry,pre-clinical,multi,A
+6801e5d7-8e26-4729-bc67-a4c12e2f2aab,Dental,dental,single,D
+681b886d-1d27-41d3-8fa5-6d9fb4b0c4c5,Ophthalmology,clinical,multi,C
+682e030c-c972-45cf-b2d7-3146876acff7,Pathology,para-clinical,multi,D
+68589d4c-ad15-4989-a235-a242d226503a,Medicine,clinical,single,D
+685ea1d3-9a62-46d9-8cbd-1ebfe1d861df,Dental,dental,single,C
+688f4d7d-b164-4f08-8f2b-020f30ef306d,Dental,dental,single,A
+68d5b275-e544-4393-9c77-8e801e483a33,Microbiology,para-clinical,multi,A
+68d6b9df-1044-405b-9fe4-4f0b37dfd0f0,Biochemistry,pre-clinical,single,C
+68dc3363-c18b-47c7-b20d-c538cc7febc8,Pathology,para-clinical,single,A
+6920ce2b-f9c9-49aa-9e6e-c94aeb13e709,Physiology,pre-clinical,single,B
+692ce83c-b247-4dea-9585-165f1fefa702,Dental,dental,multi,B
+693b0566-ba96-4a38-ae93-42afcd84b3f2,Surgery,clinical,multi,D
+693c8309-0775-4b3a-899a-5fd7064993f3,ENT,clinical,single,D
+693ea854-071d-4da2-a9b2-09c7b831b9d9,Dental,dental,single,C
+6944b9e7-b49f-46ac-ac6f-b748f2c4cc46,Gynaecology & Obstetrics,clinical,single,A
+6946c04c-eee9-4b9d-ad2d-dbf5ccd40b94,Medicine,clinical,multi,B
+6952d48e-42cc-46e5-81ff-6903102eaed3,Pathology,para-clinical,single,D
+697158e5-3b79-4109-b172-66de3346e898,Dental,dental,single,B
+69758996-e5da-4633-a11a-63862d6595c8,Biochemistry,pre-clinical,single,B
+698d05f7-bd3d-4df6-a17f-e78e207ff835,Pharmacology,para-clinical,single,B
+69a34f1e-09bd-4364-b763-f28c6ddf772a,Anaesthesia,clinical,multi,A
+69ada823-ae84-4aa7-ae5e-ec757ce1da97,Surgery,clinical,single,A
+69b175c2-2d26-406c-bba9-54a26eeb2cbd,Anatomy,pre-clinical,multi,D
+69bd9d80-fa4f-45f8-963d-aaef80a18d46,Surgery,clinical,multi,D
+69c0f49e-58df-4e8c-bc43-dd4de744af01,Pathology,para-clinical,single,B
+69c15b27-e061-413c-a011-854ea197f141,Anatomy,pre-clinical,single,B
+6a044e4b-cf5d-42c8-bd7c-e105cd9c4f98,Dental,dental,single,C
+6a0892ca-db19-4c27-9057-2bf9171e9469,Gynaecology & Obstetrics,clinical,multi,B
+6a17d87b-1b39-4dd8-b4d4-e868529e8c61,Pathology,para-clinical,single,D
+6a1a402b-247e-4dd9-80b2-ad2f347b2d02,Pediatrics,clinical,multi,A
+6a5ff0ef-295a-4c36-b1c0-ea8988d03370,Surgery,clinical,single,B
+6a86faf5-cc79-438b-b82f-53839e1ce3ab,Dental,dental,multi,B
+6a906cd3-6215-401c-80c5-c239ce10f06e,Surgery,clinical,multi,C
+6aa721d5-4f94-45a2-84f7-b63b99eec763,Dental,dental,single,B
+6aa90491-889d-4f74-802a-a1346c68b5aa,Social & Preventive Medicine,para-clinical,single,A
+6ab3241e-4c52-470e-8977-aeaf0f54e17a,Surgery,clinical,single,C
+6acbfeaf-7cbc-44d4-8d2c-e5555da695a2,Medicine,clinical,multi,C
+6ace03e9-b26c-455d-a158-71cbf9a0854b,ENT,clinical,single,C
+6b13b5d1-10ab-414c-bfd4-76b9463300f2,ENT,clinical,multi,B
+6b2bb986-2be3-487b-a999-ffbe0b70f1fa,Dental,dental,single,D
+6b388442-3d94-4203-903b-a1f4e1e0be7e,Dental,dental,single,C
+6b3b112c-3f6a-4f33-afe6-421e410a1700,Dental,dental,single,B
+6b3d4b5e-8390-4a7c-b107-c819f75bd3ed,Dental,dental,single,A
+6b4abfdd-bcd7-4f10-aa75-124aadf5fcd0,Pharmacology,para-clinical,single,B
+6b874c35-3e1a-4158-b37c-34fd4c6350a7,Microbiology,para-clinical,multi,D
+6bb818fb-dbe5-4580-8f45-d6e875bf0516,Gynaecology & Obstetrics,clinical,single,D
+6bce210a-7174-4c76-b1f0-9bc3f5c835fc,Pharmacology,para-clinical,single,B
+6bd02755-f813-46d8-87ff-e40297a2a949,Physiology,pre-clinical,single,D
+6bd89605-daf0-43d9-bcfc-7f44847433a6,Surgery,clinical,single,B
+6beed60d-08f5-4efa-bd22-4a6901e451a2,ENT,clinical,single,A
+6bf17841-327f-4f2a-b012-93976b9af6a1,Pathology,para-clinical,single,A
+6bfb7ced-ef9e-4df7-ae35-ce5699bbc7a5,Physiology,pre-clinical,single,C
+6c101536-99cd-419b-98c7-8ed1b7a74727,Dental,dental,single,A
+6c1a820b-b2ce-45b2-b108-674af47b4295,Dental,dental,multi,B
+6c1d34b8-cd40-4ca9-8d17-c64a1fde6a83,Medicine,clinical,single,C
+6c237081-5070-4262-8a45-5b308499818b,Dental,dental,multi,A
+6c9b338a-0cc7-4a30-88a3-e79c0248e488,Medicine,clinical,single,B
+6ccd520c-4355-48c5-8635-66b64dd157f1,Dental,dental,single,A
+6ccd8adb-af24-4e58-82a1-9219dfa37057,Anaesthesia,clinical,multi,A
+6cf0218d-ff22-4f7c-9d54-3f5193fe8b8c,Gynaecology & Obstetrics,clinical,single,D
+6cf6b5c6-09ae-42cd-8638-c6a77ced0338,Surgery,clinical,single,A
+6d426ea7-e119-4b5f-be99-1e36084c332c,Pharmacology,para-clinical,multi,D
+6d599732-8a50-4969-a176-ce4f99bd4b03,Dental,dental,single,B
+6d740ff7-c57b-4f62-a953-14e8b41fba76,Microbiology,para-clinical,single,C
+6d899f34-1374-4e19-b4d7-4f3b855176fe,Gynaecology & Obstetrics,clinical,multi,B
+6d927c16-b63e-4534-8578-8eaa44008923,Dental,dental,multi,C
+6d9630ba-dad1-4241-aac6-e09dd761a9c1,Pediatrics,clinical,single,B
+6dfd83ba-ee44-4396-8451-f4bb486a6476,Dental,dental,multi,A
+6e03d2e1-96ba-4b90-960f-26ed50a2c3ad,Dental,dental,single,A
+6e09a527-f1c4-4c9b-973b-aa93392f3f75,Pharmacology,para-clinical,multi,B
+6e2bcc94-c91e-4f9d-af0c-2e049c7ac6c5,Dental,dental,single,C
+6e500f1f-ac66-448a-9739-bd8e50f83813,Dental,dental,multi,C
+6e5da328-bb2e-4848-bdff-56a722ca8d7b,Pharmacology,para-clinical,single,C
+6e6be6aa-cd4c-4101-9146-29577f634f9a,Gynaecology & Obstetrics,clinical,multi,D
+6e74627b-cb5d-44f2-8200-d62bfa69ec85,Gynaecology & Obstetrics,clinical,multi,C
+6e76c806-14b1-49b3-a6f9-898a83447e54,Dental,dental,single,D
+6e7a5d33-133c-414b-9ea5-d7eaa60ff853,Surgery,clinical,multi,A
+6e7dc35e-f7f1-4c23-a661-6c5eb5a1afe8,Dental,dental,multi,A
+6e814124-0dfa-4060-a9a5-c6510f5301d4,Gynaecology & Obstetrics,clinical,single,D
+6e9406e3-faad-4e92-b1e5-3b21190db3d8,Gynaecology & Obstetrics,clinical,multi,B
+6eb7d429-53f8-4d51-b861-81ab063b0973,Dental,dental,single,D
+6ec7c97f-5287-46e6-82ec-75ded2b07a1c,Anaesthesia,clinical,single,D
+6ef5b644-f5aa-47bc-ab51-2a580580d453,Gynaecology & Obstetrics,clinical,single,C
+6ef90d24-7f7f-43de-8ae7-0ee093316013,Dental,dental,single,A
+6efd1009-b52d-4598-a30d-a06fd9867c56,Gynaecology & Obstetrics,clinical,multi,A
+6f0b2cc4-de54-4d80-8aa6-e9dc3acc4bb0,Pharmacology,para-clinical,single,C
+6f132291-8a44-47a8-9979-1d359c074a7c,Anatomy,pre-clinical,single,A
+6f1fdbc9-920f-4bff-b2eb-ba300fd9cc59,Forensic Medicine,para-clinical,single,D
+6f4298ba-7916-4f1d-bd69-bd85a464d629,Dental,dental,single,C
+6f46c045-c710-4abd-ab73-62bc510167b5,Pathology,para-clinical,single,A
+6f4e74ac-0e46-463b-9a42-f9439b6f7851,Physiology,pre-clinical,single,C
+6f9ebf7c-17e8-470e-9f14-99a0c17a368c,Pediatrics,clinical,single,A
+6fc6f438-00bc-4695-8aa8-e6c3f85e75a3,Dental,dental,single,C
+6fca2a0f-4491-43d1-800e-febf55533073,Medicine,clinical,single,C
+6fd1e538-3654-423e-9803-83f850493c22,Physiology,pre-clinical,single,A
+6fdf54ef-e9b7-4086-97b1-c159316a8d4f,Pathology,para-clinical,single,B
+6fe48790-f8f0-4c37-8dae-a76ddbac8a7a,Medicine,clinical,multi,D
+700240f4-b59e-4dcb-a1c1-0d082a4b9643,Dental,dental,single,C
+70069985-3660-4a24-b55c-c689592bc9a3,Dental,dental,multi,A
+700fb2a4-66cc-4d8e-890d-c8d0840b287f,Surgery,clinical,single,C
+7086f77e-b7a7-46b6-991c-3b8b57e83282,Surgery,clinical,single,A
+7095637c-81c9-42f8-8484-54c3eedf5623,Microbiology,para-clinical,single,B
+709db425-b80c-4a27-9e33-94424af65d0e,Dental,dental,single,C
+709f4d14-4462-4615-8827-be22270e2b55,Dental,dental,single,D
+70c2ef80-fe3f-438b-8944-40693da01e41,Dental,dental,single,C
+70c721b1-9c86-4a0a-8734-cfe46d206f5a,Radiology,clinical,single,B
+70c81c38-0fc8-44d3-9677-4b9845e39a50,Dental,dental,single,D
+70d4ab20-c407-4b78-a52f-cd38f5d86567,Dental,dental,single,B
+70d87e90-4362-422a-9611-847021b23c33,Biochemistry,pre-clinical,single,A
+70efb4dd-1ec2-4930-b775-d3e910b2b24a,Dental,dental,single,B
+710d1f09-b5eb-46b7-b5b7-801b1ebe3341,Medicine,clinical,single,C
+710f9e19-73b6-46df-94bf-3e1f788a6aa8,Dental,dental,single,A
+7111d7b2-7e80-4e23-b5d0-9f42595c6a80,Biochemistry,pre-clinical,single,B
+71166b66-1d91-490c-8bf2-ff1a44fc6ba5,Dental,dental,multi,A
+711d84b6-7ff9-4ed2-a961-b7c604e3a9c6,Dental,dental,single,C
+7159df6a-590c-4b1a-9cbf-0c15b05fbc9a,Dental,dental,single,A
+71803632-1b88-4332-88f5-be3ac2515b85,Ophthalmology,clinical,single,B
+7180b273-ff8e-4ef1-ba53-231ad5eba164,Surgery,clinical,single,B
+71a97018-2620-4ead-8abe-20863683353d,Radiology,clinical,single,A
+71aace23-dcbd-489a-b9b7-b3f52adfc9f1,Pediatrics,clinical,multi,C
+71c2cf6f-b8ca-479b-ba07-3d9162d10c2c,Dental,dental,single,A
+71c8c85f-92ee-40ad-b1dd-42c8a9dacff7,Biochemistry,pre-clinical,multi,D
+71d1329f-d4fb-4daf-976a-68f2977c03d0,Dental,dental,multi,B
+721d3b8f-c3a4-4f82-899a-db8078710935,Gynaecology & Obstetrics,clinical,single,B
+721f44cb-907c-46d5-af80-9606cc9e5023,Dental,dental,multi,D
+72440397-8eda-480d-8d46-67fada73ecdb,Dental,dental,single,A
+725d9973-1082-4c9b-b4fb-9c63a4615e63,Skin,clinical,single,D
+727846e5-b373-427f-bf08-541ec8c75262,Pathology,para-clinical,single,A
+7297376f-a521-40a8-8402-2958f583c745,Pediatrics,clinical,multi,B
+72b14998-6b80-45d4-ad70-9766f94e8026,Biochemistry,pre-clinical,single,A
+72be89e3-7ff0-486a-869f-30c9152486ed,Dental,dental,multi,B
+72c1c5e0-b64f-4eef-bf22-ecfb60c5c19c,Biochemistry,pre-clinical,multi,A
+72d767a5-261a-4055-b23a-fb1e1a5acb23,Dental,dental,single,A
+72df8357-4e51-45f7-ae9d-669a9bfe9efc,Pharmacology,para-clinical,single,B
+731b8834-5904-47e0-a208-d46bcf1c6c9b,Ophthalmology,clinical,multi,A
+731b980a-f36b-45bd-b1cf-538fd90541fc,Forensic Medicine,para-clinical,single,C
+732401b0-673b-4842-baed-ddd00626c561,Medicine,clinical,single,A
+732dd200-d2b0-4b84-9919-dd651bcf5301,Gynaecology & Obstetrics,clinical,multi,A
+734e0bc2-f9d4-4ae2-a7f5-eae1c1500352,Forensic Medicine,para-clinical,single,B
+7374ee60-8858-43ae-9caa-506553cac5f6,Anaesthesia,clinical,single,A
+73818dbb-2bd3-4c46-a06a-b18b6ddb5450,Dental,dental,single,D
+73828c81-172b-4aec-b517-c0d345c4749d,Pathology,para-clinical,single,A
+738ded5c-b743-45d2-adfe-9cbb7c519a67,Pharmacology,para-clinical,single,C
+739272d2-530b-4885-8178-0d785683b86e,Pediatrics,clinical,single,A
+73b1ad96-1717-4bb2-930d-efa7e16bdc6f,Dental,dental,single,C
+73b84afd-bfc4-4fcb-aa45-345d1ef61dfc,Dental,dental,multi,D
+73ba7368-c001-4d15-b4a3-f0d46feb4b5b,Anatomy,pre-clinical,single,A
+73d2ce31-c410-4210-9ae1-0cc9157a2e46,Physiology,pre-clinical,single,C
+73dc80de-280f-4ee5-bc41-b1843e16a16d,Dental,dental,multi,A
+7405ebae-1cba-48c4-bf16-8dea393e97ee,Dental,dental,single,C
+740f528e-5192-44dc-89a3-4e2a1249e3c6,Gynaecology & Obstetrics,clinical,single,B
+743b8121-1201-4592-a552-25cad3198d07,Dental,dental,single,A
+743f2305-10ed-4d66-b6fa-911cacdf2622,Gynaecology & Obstetrics,clinical,single,C
+744e4dce-b8f1-447f-a964-bea1bbe98edf,Anatomy,pre-clinical,single,B
+745734e9-afe6-4098-bd64-66ee49c64dc0,Forensic Medicine,para-clinical,single,A
+747359d5-2ce7-439e-b229-d04381853421,Medicine,clinical,single,B
+74a4b01c-7f65-4cdf-a9c8-5b0d6989171e,Radiology,clinical,single,A
+74af945a-56c6-4b18-935d-388c29f19a56,Pediatrics,clinical,single,B
+74c96399-8699-43ba-b5ae-c8e309721ee5,Pathology,para-clinical,single,A
+75037cd8-82e0-4544-b8b4-39b0c3c894e8,Physiology,pre-clinical,single,D
+751d9564-7804-41b2-a03d-210ffdcba7d6,ENT,clinical,single,B
+752e362f-7162-4590-bb2f-fc6dc270a065,Pathology,para-clinical,single,C
+752fa9af-ae3d-444f-aa2a-4d6c2b0b20d2,Anatomy,pre-clinical,multi,C
+75394ad7-5dde-4b6b-8cec-7365972b5dd6,Dental,dental,single,D
+753a7a8e-6da4-419b-9efb-0b74581d3992,Medicine,clinical,single,C
+75804c47-d068-4944-a996-6fdb3d2379e5,Dental,dental,single,B
+75aec5e4-6321-49b7-b17d-a49d5f2f7975,Dental,dental,single,A
+761112a0-5f57-46c6-9b94-ffe755d8aba0,Pathology,para-clinical,multi,B
+761c3922-2330-4ccc-9fc2-64911995760b,Pediatrics,clinical,single,B
+7627eb54-4499-45d0-ba1f-1c8dbc6f2342,Biochemistry,pre-clinical,multi,D
+762824c1-92d7-4a9e-9fcb-3a7fb3adfe69,ENT,clinical,multi,A
+762b1d6e-6206-45cf-baa7-55b1c14d5fb1,Gynaecology & Obstetrics,clinical,single,C
+762c8e46-a58b-4a23-b03d-f5d2055a3fac,Dental,dental,single,C
+7632fe2d-10d0-45a3-bea1-09b1b8226e12,Dental,dental,multi,A
+76419b60-8de5-4a78-b065-4382c8725441,Pharmacology,para-clinical,single,B
+764694a9-132d-4eec-ba26-4a74eb003e0e,Dental,dental,single,B
+764c0c80-b716-45a1-9fe7-b13588090401,Social & Preventive Medicine,para-clinical,single,C
+7652722e-593d-470a-b2d5-30a15e4bae48,Dental,dental,single,C
+7690c75b-9e17-4af8-844a-6c638db1240a,Anaesthesia,clinical,single,D
+769b87a2-ecb8-4508-82d5-4fde94fa7f60,Dental,dental,multi,B
+769fac02-71ac-4554-bade-5d6a9a5edfb4,Dental,dental,single,C
+76ad139f-2d71-44b7-aca8-bd96da79500b,Gynaecology & Obstetrics,clinical,single,D
+76ba3417-012e-4bf8-840c-13bb7bc60dcc,Dental,dental,multi,A
+76dc78f2-39b2-47c0-97d1-3206032a777f,Surgery,clinical,multi,B
+76eb0208-23fa-422d-aa0b-c4d5ec0fc3b5,Dental,dental,single,A
+770a2934-5df3-4d53-a79c-0d4358b95016,Gynaecology & Obstetrics,clinical,single,A
+772be35c-73b9-43c4-8fc6-9ee4efb8dd27,Pediatrics,clinical,single,D
+773c79b5-7250-4c25-84d0-93a163291d85,Dental,dental,single,D
+77455482-e309-477c-a662-c2d26da66b19,Biochemistry,pre-clinical,single,D
+7751b7ed-6aa4-4b9a-a03c-bb991a2936db,Dental,dental,single,A
+775d389d-8a07-4e40-bfd4-3e49674ee0e7,Dental,dental,single,C
+77751054-8726-4033-9baa-2e935dba4032,Dental,dental,single,D
+778778c6-fec1-4d24-a0f2-31d7ac7ee4c8,Dental,dental,multi,C
+778a2563-fd4e-4c60-8c72-892dc8e3429c,Pediatrics,clinical,multi,A
+77997eca-fce9-4840-916d-b373c61c411d,Gynaecology & Obstetrics,clinical,single,C
+77a4b51b-b0d3-44fc-bed3-2ecccad80de0,Pediatrics,clinical,single,B
+77d35e3d-ce5c-426c-91da-17f5259efafa,Pediatrics,clinical,single,A
+77e009e5-3114-4561-a767-b0e6940ef658,Anatomy,pre-clinical,single,D
+77f42ec8-d712-43b7-8160-dd99cad04643,Dental,dental,multi,B
+7801e0bc-129a-47f5-a8f2-5c78981b28d8,Forensic Medicine,para-clinical,multi,B
+781a68ce-0d78-4685-948b-4dbfa0740f1e,Pediatrics,clinical,multi,B
+78229bbb-46c9-4a15-9773-055a1d9a168b,Dental,dental,multi,A
+7837431a-55a0-4471-8810-6ca014c03a35,Physiology,pre-clinical,single,C
+78396a0e-60b7-4aa4-9586-8d38825f08ab,Microbiology,para-clinical,single,A
+783aaf31-fd64-4f4e-aa67-93c00cb407ad,Pathology,para-clinical,single,C
+783df438-362f-4ab5-a8b3-11ea2bfb2af7,Medicine,clinical,single,A
+785fef59-4300-47c1-a53e-7e09f6201e0d,Pediatrics,clinical,single,D
+78608283-5144-4645-925e-8247713a4cad,Gynaecology & Obstetrics,clinical,single,A
+7876791e-f9f6-404e-8c3c-32106bc3bffb,Dental,dental,single,A
+7879facb-4a0b-424e-9997-25aae47a52aa,Orthopaedics,clinical,multi,B
+788eb150-1cd1-4895-b929-56ffa68eae61,Gynaecology & Obstetrics,clinical,single,C
+7897fbf7-7472-4408-949d-2e9fd16f85df,Dental,dental,single,D
+789aa0f7-2666-4950-be7e-42b03b1b1a44,Medicine,clinical,single,D
+78b95ab4-b15f-4942-b618-8b36e946a5d0,Surgery,clinical,single,C
+78cde0de-1205-4bcb-a646-992a909fd268,Social & Preventive Medicine,para-clinical,single,A
+78e21dd0-aff4-4cce-b4b0-a275703f99c5,Physiology,pre-clinical,single,D
+790947ee-b119-4f1f-ac07-8f0c5a701010,Pediatrics,clinical,single,C
+7912bdab-3d26-40a1-91c3-9d52e760b930,Social & Preventive Medicine,para-clinical,single,B
+7920ff2c-c8bb-482a-9080-b102f83eca18,Dental,dental,single,B
+793b6b6a-6020-4a0b-a760-8fb2d12aaafe,Dental,dental,single,C
+7947a7bf-dc1b-4832-bd88-04f7703b4d49,Dental,dental,single,B
+794874bb-f41b-467b-aea5-7c98b68f7849,Anatomy,pre-clinical,single,A
+794c0e78-516c-44ae-8eba-768371a3ca6c,Ophthalmology,clinical,single,C
+796d7b5d-f79d-4c6a-860c-198e9404ea07,Ophthalmology,clinical,single,D
+796e190d-09a8-4eef-98a4-26eecd5b7de7,Social & Preventive Medicine,para-clinical,single,B
+7973cdd2-2971-46bd-aec3-3100119af946,Dental,dental,single,A
+797c13b3-6566-46d8-9dbf-d6bb1e17ed5d,Pathology,para-clinical,multi,B
+79c95aee-a0ff-4f7a-8a3f-2228f0ca66ce,Dental,dental,single,A
+79e1618e-0e20-40ba-b104-8397f32985cc,Biochemistry,pre-clinical,single,B
+79e76d7d-4187-4f59-8e23-65d9e8f51aba,Dental,dental,single,B
+79f62df5-e7d6-4526-9866-59ba4c498cfc,Dental,dental,multi,B
+7a1a39e0-3648-41cf-bf9f-2e5ea0c41ccf,Surgery,clinical,single,A
+7a3a771f-2b56-4af8-b967-3c991b394bc6,Pharmacology,para-clinical,single,B
+7a4da866-2f41-4510-aa28-0dabdf6d0d38,Biochemistry,pre-clinical,single,B
+7a51e736-c9fd-452f-8d09-127583a42886,Anatomy,pre-clinical,single,D
+7a660bba-aabd-448d-9d13-38ee7837c97f,Dental,dental,single,C
+7aa1a7ca-15d6-42da-88b7-cbd1eefb503c,Pediatrics,clinical,single,C
+7aa4c76d-e28b-480d-86b5-5a3c2ab2e6f3,Surgery,clinical,single,A
+7aa9be4f-bb90-4284-8816-b7360a1a444b,Physiology,pre-clinical,multi,C
+7ab433a3-4d4d-40bc-ba54-3307ae16e9ed,Dental,dental,multi,D
+7ac6c505-a563-4d72-a4c7-8c9681df35b0,Surgery,clinical,single,A
+7af75a95-3b56-4e2e-b091-3c3eef052b67,Radiology,clinical,single,C
+7afc4435-27d1-4452-b75f-eb28164eaa06,Surgery,clinical,multi,C
+7afc56e6-6ada-4418-9d5a-68b7b061c5e3,Pharmacology,para-clinical,single,A
+7b08c0f1-55fc-45d7-b4e1-b6e4666a1f88,Gynaecology & Obstetrics,clinical,single,C
+7b2e3490-4efc-45bd-850e-0435ebb15bc5,Medicine,clinical,single,B
+7b32d1d8-6d89-4615-a1e4-f56d02b7339f,Dental,dental,single,A
+7b72d179-65aa-41e3-aeb6-98b35bf0af83,Medicine,clinical,multi,B
+7b80db5b-82a5-4816-b7d9-80939b292ccd,Dental,dental,multi,A
+7b81cd07-3765-4f50-8b28-a88576f4223e,Dental,dental,multi,B
+7b9b3255-7a24-4c61-bc2f-cadcb051e294,Orthopaedics,clinical,multi,C
+7bb29056-c6b1-4d7b-b513-e6eab45eeb86,Gynaecology & Obstetrics,clinical,single,A
+7bc43b0e-3731-49ad-a734-c924220e3deb,Gynaecology & Obstetrics,clinical,multi,D
+7bc4b5f5-b82c-47d0-956f-3b4110d7f371,Surgery,clinical,single,C
+7bc79566-0465-4612-a072-878afe214190,Physiology,pre-clinical,single,C
+7be32b1f-e535-4f51-95e1-2dc3d223d9bc,Surgery,clinical,single,B
+7c078d37-6c66-4225-aba1-9541ca7a4d95,Medicine,clinical,single,B
+7c0c81f1-bc0c-4dd2-90a6-65566b02a6f2,Surgery,clinical,single,C
+7c34fcbb-4956-4f1d-a0c6-7b48f83ae02b,Ophthalmology,clinical,multi,B
+7c4a40cb-8e92-43fb-9404-8888ff65ad3b,Dental,dental,multi,C
+7c521214-ce91-4932-8158-f97bf43d4aac,Medicine,clinical,multi,B
+7c6e7661-04a5-49db-b796-9e2091486f01,Medicine,clinical,multi,A
+7c6fe266-845b-4f4b-8ddb-ca5d016e0396,Social & Preventive Medicine,para-clinical,single,D
+7c79a7f1-20d7-4205-a05a-f974ecc2186c,Dental,dental,single,D
+7c8d588c-567d-4f19-9e67-c4cf90bfd6ab,Surgery,clinical,single,A
+7c8d5c20-9868-406d-a987-2d8027acffa1,Physiology,pre-clinical,single,B
+7c9b4d7b-6290-430f-a097-96d88c65ecd8,Psychiatry,clinical,single,A
+7cacd6ea-ee7d-481d-bc66-467c47dc315c,Microbiology,para-clinical,multi,B
+7cc17f9f-5ecd-4e71-b32f-74fdf3a6537b,Microbiology,para-clinical,single,A
+7ce281ed-c512-4456-a9f7-87b7620d628d,Gynaecology & Obstetrics,clinical,single,A
+7cea5a22-d408-4fce-b026-381149dfd0b3,Dental,dental,single,D
+7cfc2dcb-313a-4722-98b1-ac63c7b49e75,Anatomy,pre-clinical,single,B
+7d01f5ce-d737-4838-bf15-68a4dea15b1a,Microbiology,para-clinical,single,B
+7d3de981-356d-475d-b469-5cdfa0190f93,Medicine,clinical,multi,D
+7d5f80d0-63d3-4f8e-874a-34fe661c9a4d,Dental,dental,single,C
+7d6455c7-5b76-4e75-84e6-0e37f920fa5a,Medicine,clinical,single,B
+7d728f72-4c79-421d-abbf-da809c42c558,Gynaecology & Obstetrics,clinical,single,A
+7d744717-de6b-47ec-9b08-2e351e13a7dd,Dental,dental,single,D
+7d79778c-de93-4463-b0d4-13ae234adaa8,Dental,dental,multi,A
+7d9967cf-83ed-4796-be25-4c0637193d4c,Physiology,pre-clinical,single,B
+7dbd5a5b-1731-4cbd-a3e1-f50c0db1e695,Dental,dental,single,A
+7dc6a7c7-66af-4073-8822-b2703ba88c5a,Medicine,clinical,single,B
+7dcb4cdd-3d71-4741-9893-db67879699f1,Dental,dental,single,C
+7dddfcb4-e0a3-4d71-b95e-49241da2abd5,Microbiology,para-clinical,single,A
+7de13c5c-b968-4884-87c7-d2b5c8b1840c,Medicine,clinical,multi,B
+7e01c8f0-9b7e-4884-ad40-0c2487a4f5cb,Pathology,para-clinical,multi,D
+7e0a6533-733d-48a0-88dd-3359674187b8,Dental,dental,single,A
+7e113704-1db0-4023-bc75-3036f31791fb,Dental,dental,single,C
+7e38cd45-2858-4483-b448-d461bde268ee,Anaesthesia,clinical,multi,C
+7e3e6708-32eb-4de6-97ff-78a54b20677d,Anatomy,pre-clinical,single,A
+7e7eb34c-f362-459d-8bf5-7c485e460260,Anatomy,pre-clinical,single,B
+7ea6d180-f468-404f-9ee3-0c68a55b7e51,Pathology,para-clinical,single,A
+7ea82e60-afcc-43a2-ba90-8424f3294ac1,Microbiology,para-clinical,single,A
+7ee5bbf7-1b68-4ac0-943d-c4486ba7892f,Dental,dental,multi,A
+7ee6d817-eee3-42ad-8d49-7237f375f6f3,Biochemistry,pre-clinical,single,D
+7ef1e046-a4a8-45dd-9a3b-6ede4a1b85ce,Medicine,clinical,single,D
+7ef97e72-288b-4b7d-8942-2a9c9fc21daa,Pathology,para-clinical,single,D
+7f0dce8f-c95a-4776-aef1-fe8c6d257fb0,Anatomy,pre-clinical,single,B
+7f0e4478-76ad-4994-8749-b466e371c9fc,Anatomy,pre-clinical,single,C
+7f1e6ce7-7564-47b0-9071-77daee60e4cf,Dental,dental,single,A
+7f20e2a3-7048-4782-8dbe-c53dd6ccabc1,Radiology,clinical,single,B
+7f2895f8-0a13-45fc-bfd1-a3d5b7fbb121,Pediatrics,clinical,single,A
+7f2b9cac-40f0-4e49-8bca-c73cbc38835b,Surgery,clinical,single,B
+7f3f6968-3304-4039-89b0-eebab7f702b4,Physiology,pre-clinical,single,C
+7f6a2842-7816-4a42-821c-d6e066a36fb4,Gynaecology & Obstetrics,clinical,single,C
+7f8086d8-e91b-40fc-8d8c-55cc74f84d6c,Biochemistry,pre-clinical,single,D
+7f88c1d5-fa5c-4502-aa06-9bb265fda88e,Medicine,clinical,single,A
+7f982d0f-5ee4-4069-b03b-dab4d9130c37,Pathology,para-clinical,multi,D
+7ffc9c61-2859-48c9-8d16-7776f1e81c3d,Medicine,clinical,multi,D
+80066b5e-d621-4912-b7fd-f1e867a9c8d4,Medicine,clinical,single,C
+80277406-9c77-407e-aa74-eb65fc891435,Biochemistry,pre-clinical,single,D
+804473d2-7d4f-4632-a335-576fb1ab23a3,Pathology,para-clinical,multi,D
+80613325-b0b3-41a1-85eb-7be6749e1114,Dental,dental,single,D
+80688adc-469d-4faf-b88e-0b143b8b67ad,Medicine,clinical,single,B
+806f2722-6237-4681-90d7-6c43b7f40634,Anatomy,pre-clinical,multi,C
+808e56de-bf9d-4a6d-acbe-e27ef3880361,Anatomy,pre-clinical,multi,B
+809b34a3-21fc-447c-a780-7568741d67e2,Dental,dental,single,A
+80b51e0b-fe1c-429a-9387-3f1c06c496c4,Pharmacology,para-clinical,multi,A
+80ca7074-85db-4ead-9b69-23c32b811d94,Dental,dental,single,D
+80d140b3-ecea-49ed-a805-775b3f067383,Surgery,clinical,single,A
+80d3c4e2-26a3-46c1-9e01-9f898b93708b,Surgery,clinical,single,A
+80eccba1-1f33-4548-90bc-885cf7d98961,Medicine,clinical,single,C
+810e4333-a984-4b47-821a-d6dddd1615d7,Pediatrics,clinical,multi,D
+814f7a8f-438c-43ba-883c-4d020de61083,Dental,dental,single,B
+8166d3f8-edfa-4bc7-af7d-2da15469a001,Dental,dental,single,A
+8173e986-5e4f-4c72-b175-8fa07b6c5ad9,Pathology,para-clinical,single,B
+817f4af3-ff25-4483-9498-58543bff63cf,Dental,dental,single,A
+818e92da-69f5-41d8-a15a-f22c851140fb,Microbiology,para-clinical,single,C
+81a24a92-4459-4999-9c49-6ee91a6182a3,Forensic Medicine,para-clinical,single,C
+81ba27b9-0517-444f-b592-db6a7f23c69c,Pharmacology,para-clinical,multi,A
+81f36a50-554d-4c45-a8e2-8df9dce0ca2f,Biochemistry,pre-clinical,single,D
+822d5c68-39fe-40e8-97ef-f50d7af91ebb,Pediatrics,clinical,single,B
+82356aae-5bd4-4503-acab-5f70c0db6bee,Pharmacology,para-clinical,multi,D
+825c94ac-5f3a-4ea3-a8dd-02f5ae83f7a3,Surgery,clinical,multi,C
+827904aa-2c22-4ff7-bf34-868a36631b24,Pathology,para-clinical,single,D
+82a21b84-e5d6-46d5-98bc-46fc75641f7b,Social & Preventive Medicine,para-clinical,multi,C
+82c284b8-4feb-4984-8e9a-cc7a37be517c,Dental,dental,multi,A
+82d43b40-d7e9-427f-8870-81445cc14391,Anatomy,pre-clinical,multi,A
+82e0c97f-b421-4836-a0ec-602fb1045910,Pathology,para-clinical,single,B
+82e2995c-8c88-47f9-b3d4-bcf04355a688,Surgery,clinical,multi,A
+82f0f5d7-996b-49cc-8c8c-b9ff7cb35ecc,Pediatrics,clinical,single,D
+82f5a7e9-467b-471b-bf1f-0d66f964408e,Gynaecology & Obstetrics,clinical,single,D
+82fcb071-ca41-45d4-9f0c-ce7a0f5dd6b4,Microbiology,para-clinical,multi,C
+833ba236-ccb4-44d5-ba31-865de41488a5,Physiology,pre-clinical,multi,D
+8340cc71-4a15-4134-b582-fed084765cf0,Gynaecology & Obstetrics,clinical,single,A
+836b4e61-8568-4d55-9acf-3a1695081981,Surgery,clinical,multi,B
+838f8aa6-e9c7-4e24-ae4b-d430371f9e27,Gynaecology & Obstetrics,clinical,single,D
+83935f21-0298-409f-aabc-ac42dc4c0e00,Dental,dental,single,A
+83cbb1ff-e31f-4eec-b198-b39874f05c2a,Dental,dental,multi,D
+83d4ffd3-ac6f-4c98-88c6-96ddbe0db146,Gynaecology & Obstetrics,clinical,single,B
+83e527c6-65cd-43bc-98a9-cbab53168a78,Biochemistry,pre-clinical,multi,C
+83e62b82-7186-4bd8-81ad-c035cebd98c9,Microbiology,para-clinical,single,D
+841fa263-7535-4d40-ae25-cddb831b5254,Gynaecology & Obstetrics,clinical,single,D
+843fbff6-5d05-4f02-b7b2-9616a3d1b1f1,Physiology,pre-clinical,single,D
+8466f417-6a8e-4f07-87f8-556fb5fac62a,Anaesthesia,clinical,multi,A
+849b1909-c988-4d0b-8eaf-a716707cbe97,Anatomy,pre-clinical,single,B
+84a79749-92ff-44da-bc49-219a0bd4485d,Dental,dental,multi,D
+84b2680d-9778-495c-b587-603a891ac9d6,Dental,dental,single,B
+84b873f8-fb56-4767-8af8-8526e71bed62,Pharmacology,para-clinical,single,B
+84d89a4f-db04-402d-88ab-ca39f6eee8bd,Physiology,pre-clinical,single,B
+84eaeeea-b14f-45ec-9879-be2d6337fa81,Dental,dental,multi,B
+84fe7359-1ad3-4031-bf62-e4474bb33a86,Pediatrics,clinical,multi,A
+8512f838-80d6-4873-865a-f6e1632e558d,Pathology,para-clinical,single,C
+8518813c-bb02-4357-94ba-ef5201c7c983,Pathology,para-clinical,single,B
+851e771f-27db-4d5a-bae6-f787b1ef70f4,Dental,dental,single,A
+8524af12-cbe6-452b-94f1-2f653192db17,Surgery,clinical,single,D
+85377a0a-3388-46b2-b2ba-43b90a2b7955,Social & Preventive Medicine,para-clinical,single,C
+857b4f18-59a4-4f38-923e-679808197235,Dental,dental,single,B
+858e30be-1165-463c-9661-a1c78272d775,Dental,dental,multi,A
+8596a34a-71fb-4c8a-847d-c1d5c274e6ce,Anatomy,pre-clinical,single,B
+85a6ecaa-1c7f-403c-b2b5-3bda0b47068f,Dental,dental,single,D
+85cb22b1-2b4f-4ee5-bdc0-75561bef3ac2,Dental,dental,single,A
+85d37c8a-2bcc-48d9-bc5c-b63495f25ab3,Psychiatry,clinical,multi,A
+860d2715-9c6e-4814-894d-48362fb1235d,Physiology,pre-clinical,single,C
+860f5673-7e87-4a35-ba17-628c738929fa,Pharmacology,para-clinical,single,A
+86155521-ea6f-485e-b258-14c51d44578e,Forensic Medicine,para-clinical,single,A
+8616b528-3a38-4bc5-b002-2e5133f56496,ENT,clinical,single,B
+86222cd5-174b-4f22-b54c-280039bb8322,Medicine,clinical,multi,A
+862bcd0f-8fb5-4ff7-b242-5898ea4f0c69,Dental,dental,single,D
+863c894a-fa96-4875-bf3d-dd8d2460a21a,Physiology,pre-clinical,multi,D
+8654832a-f650-4836-82ba-cc59f14e1bb9,Pharmacology,para-clinical,single,A
+867140e4-9b9f-4784-b252-9720f89a385e,Pediatrics,clinical,multi,C
+8692345e-a600-4355-a964-bb514b16d977,Microbiology,para-clinical,single,A
+8695d0f1-5264-4bb9-acd8-9d9b634f2b4c,Pediatrics,clinical,multi,B
+86c24b0d-be4b-477d-8683-af6094c476d6,Surgery,clinical,single,C
+86da0aa9-4ee5-4d2d-909b-e40e20b97d1c,Medicine,clinical,multi,B
+86e26dc5-2f48-45b1-82df-b14ffbc11fcb,ENT,clinical,single,A
+86e32f87-3ea8-40e9-9968-a5b689d54f0d,Gynaecology & Obstetrics,clinical,single,C
+870f28d5-6352-429f-a3c0-a881671f6d37,Surgery,clinical,single,C
+87311a9e-97ac-43de-8964-55eb7ced00a9,Microbiology,para-clinical,single,B
+876554c4-4b7a-4093-b3a4-13ed7262578e,Surgery,clinical,single,A
+87a02021-923f-4cd0-b93d-bfb486c0aa29,Surgery,clinical,single,B
+87bc955e-ce65-4887-9735-bdaaff674162,Dental,dental,single,B
+87c9ed45-4f13-4ec7-9af1-571dc39c84a9,Pediatrics,clinical,single,A
+87d25aef-12d5-478d-b126-e98a1a76e9f0,Microbiology,para-clinical,single,B
+87d8663f-e0cd-4766-87b7-5312dfc4cd62,Dental,dental,single,B
+87da7c54-7d62-4641-a820-0cdd9a4fcbc6,Surgery,clinical,single,C
+87f6392c-b727-4e7d-be12-189db181fd2b,Pathology,para-clinical,single,C
+87fab9d2-9419-49c1-93bf-59d0a311e8de,Pharmacology,para-clinical,single,A
+87fdda27-6dfc-4e2d-b406-83873ecea556,Surgery,clinical,single,B
+8814eda0-0abe-43f0-8a8b-e3eeb4586928,Physiology,pre-clinical,single,D
+883563e3-4fe8-4b33-926b-5237f09d9c60,Anatomy,pre-clinical,single,A
+88448a03-9101-434a-97d8-a9be98bae8f1,Surgery,clinical,single,A
+8870f48b-468f-484c-8070-3b135b2c7ada,Gynaecology & Obstetrics,clinical,single,C
+888d0ff6-14ae-4f05-af6b-8e7060ba016f,Physiology,pre-clinical,single,A
+88a28a1e-51c4-4199-8bf4-683278258bd4,Surgery,clinical,single,B
+88e59728-2686-456d-b949-71aa89d0a69a,Dental,dental,multi,B
+8905d104-f4ce-405c-b67d-4ee5650bbfcd,Dental,dental,single,B
+890982b8-3906-44be-aff1-437a7c6c373d,Surgery,clinical,single,D
+89108206-90cd-4886-bb7f-758f8fec9152,Pharmacology,para-clinical,single,A
+8919343b-cb06-4265-8e82-209b335117b3,Microbiology,para-clinical,single,D
+893ad532-01e8-421e-ac71-d5e8dfb882e5,Pediatrics,clinical,single,B
+893ca2c8-2183-478a-abd1-3572843381fd,Dental,dental,multi,C
+8985b422-02e8-4982-8015-0cae2ac122f1,Medicine,clinical,multi,C
+89954831-6a35-49a3-811d-95cd7edc2c7c,Biochemistry,pre-clinical,single,A
+899a827c-15ed-46c1-8dee-9ddfb723a331,Pathology,para-clinical,single,B
+89d9d5c1-7cc6-4cb8-b3d8-0c30ed1aa3d8,Medicine,clinical,multi,A
+89dc8003-fb16-432a-9da3-4d8464ca9ab8,Dental,dental,multi,C
+89e0b62e-fa1d-4964-8870-d57cb8b871f4,Gynaecology & Obstetrics,clinical,single,B
+89e1c450-ada8-47e4-a966-ffe1ad0f789d,Dental,dental,multi,C
+8a045017-cef4-4ca8-ad9b-52bf5a0bed63,Forensic Medicine,para-clinical,single,A
+8a32a7c5-cfb7-4d49-9dfb-876850962cd6,Dental,dental,multi,C
+8a5481db-d909-4ff3-9f52-52f004f3c6fb,Pediatrics,clinical,multi,B
+8a63cb8d-20f8-40ea-ba34-12b9583c9224,Forensic Medicine,para-clinical,single,B
+8a65ba68-f96b-4a62-956f-331b8cb60807,Medicine,clinical,multi,C
+8a82f9e4-b38f-43f6-9d8d-4ef8a6a4bcbf,Medicine,clinical,single,B
+8a8401da-6bcd-46d5-bf27-72371291311e,Dental,dental,single,A
+8a85e4e4-e42b-41a9-87e2-6f8e7105262c,Medicine,clinical,single,D
+8aa86f16-0457-449d-bd8e-59c4e155216a,Pathology,para-clinical,single,B
+8aaa9545-8120-495d-ba08-9d950c880521,Dental,dental,single,A
+8abb6456-0bb3-4f01-83e4-138e341b3cd1,Dental,dental,multi,D
+8abcdea2-c351-4df7-ab42-8898201f9949,Dental,dental,single,C
+8ad384bd-4443-4440-aab0-3766aa07e450,Gynaecology & Obstetrics,clinical,single,B
+8ad57c73-2ace-4454-810b-03aebb65f424,Dental,dental,single,B
+8ad9acc0-4de3-4d82-86a4-7d8ccfdb8c68,Dental,dental,multi,C
+8adc8a84-b0a1-4b6c-b076-91ba05e9a37e,Anatomy,pre-clinical,single,A
+8aebb35f-a135-4080-8bbf-c7d50be725a0,Pharmacology,para-clinical,single,B
+8b0ca482-a870-42ed-ba9a-f80aa451c604,Dental,dental,single,D
+8b0d7f3b-3c6c-4973-83d1-9e3220b73538,Biochemistry,pre-clinical,single,B
+8b2bc220-f5f6-4651-89b7-c38432303837,Pharmacology,para-clinical,single,C
+8b3e9e1d-8571-49ef-a5ef-806c18ad079e,Pharmacology,para-clinical,single,C
+8b42e1df-196b-4d7a-bbd7-39fe76dee239,Pediatrics,clinical,multi,C
+8b84483e-3b11-4c8b-8e10-ba9f512b7341,Pathology,para-clinical,single,A
+8b8596c2-33bc-48dd-b6b3-bd7fdbf34669,Gynaecology & Obstetrics,clinical,multi,B
+8b906077-3b73-4397-96bb-4e66e0dc9d20,Medicine,clinical,multi,A
+8b91d707-6038-40de-8833-d865318f791e,Biochemistry,pre-clinical,single,A
+8b9b2db6-2ddc-4002-9547-5fcf2e7ed9c5,Pathology,para-clinical,single,D
+8ba2ca7c-9ae4-4771-9e9c-0e44250ca6b5,Anatomy,pre-clinical,single,B
+8bc0d73f-fbc3-498a-b838-c5fbc2e3d873,Dental,dental,single,C
+8be32dbe-9a46-4a8a-8c08-ff89c3e78c3d,Gynaecology & Obstetrics,clinical,single,D
+8c0fb123-51d5-4356-8c2d-2bdfa154ae77,Dental,dental,multi,B
+8c5c9f90-f367-4a1c-84d2-50a39833588d,Surgery,clinical,single,B
+8c65bc28-e274-4579-a200-6e26782878df,Surgery,clinical,multi,A
+8c67c232-57e3-4254-a515-5c5ad524769e,Dental,dental,single,B
+8c856812-d5b4-4d2f-8a29-8265bab5ecb6,Dental,dental,single,A
+8c968c9b-35b1-4394-959a-fe3c80e283e5,Dental,dental,single,C
+8cc0f461-86ab-4fdf-97f4-194da3dc5e26,Anatomy,pre-clinical,single,D
+8cc404b2-cdb1-4bea-be17-2dcd2edb48d8,Social & Preventive Medicine,para-clinical,single,D
+8cced5f0-0647-4f31-9ba7-71bebcfb2255,Pharmacology,para-clinical,single,A
+8cd9acfa-7c86-406b-83f0-49e7e207aef7,Pharmacology,para-clinical,single,C
+8cdda5f3-545c-4323-b1a5-6ed9f66ea02f,Physiology,pre-clinical,multi,B
+8cfd114e-e854-4456-baa4-46883d6d45b0,Pediatrics,clinical,single,B
+8d0b854f-93fb-43ae-a1b9-d489ea68103b,Pediatrics,clinical,multi,C
+8d29e115-e566-4499-b283-c3907ba9c5c3,Anatomy,pre-clinical,single,A
+8d2e7fe2-3354-44c2-8cdf-55ff23caaebb,Dental,dental,single,A
+8d6cd2e6-9912-4bb5-b276-289f11e6371f,Dental,dental,single,A
+8d7403ad-85b7-4f4f-868e-93b7ecf53e72,Medicine,clinical,single,A
+8d780a43-0b60-45e8-b1d9-acc9f236f99b,Physiology,pre-clinical,single,A
+8d7dde3d-ad21-4240-8141-393f436b2e49,Dental,dental,single,B
+8d8150e4-2224-4ac1-b41e-b8353a744dcc,Dental,dental,single,A
+8da069c0-ac1c-4c9d-8d94-54e4560f0bea,Dental,dental,multi,C
+8db7e145-052a-4774-9a5f-db3c4e9ac1d6,Forensic Medicine,para-clinical,single,C
+8dbe206d-75d1-43ba-93fc-5b5c30f72a0a,Pathology,para-clinical,multi,B
+8dd0ea2a-17d4-497d-93a1-a6704930a0db,Pathology,para-clinical,single,A
+8dd6630c-194f-4a21-a6a3-1a41f97dcd66,Dental,dental,single,C
+8dd9b27b-3aa1-425b-8db6-e935a38d4c5f,Biochemistry,pre-clinical,multi,C
+8de6d7b3-c5f9-4c22-b93e-41cf119212f1,Dental,dental,single,C
+8e093537-c2ea-4af0-b5c0-d81dc23e190a,Pharmacology,para-clinical,single,C
+8e0eacd3-9755-426d-b1c5-2bff71295f88,Surgery,clinical,single,C
+8e12446e-b9b5-4152-8cc5-9ef959931a31,Skin,clinical,multi,C
+8e1839a7-83d5-4671-b39d-bbfbed52476c,Surgery,clinical,single,B
+8e2f6880-49c5-47aa-871e-00ae485e9ca9,Dental,dental,single,A
+8e59864a-686e-4d9f-9adf-803f4edca225,Dental,dental,multi,B
+8e64201e-6d6b-4187-98df-bb12e0945c78,Pediatrics,clinical,single,A
+8e7413da-351b-468d-8168-961cd50bda0a,Pathology,para-clinical,single,B
+8ecc6a1a-b653-4b05-81f1-341c356e6c62,Biochemistry,pre-clinical,single,B
+8ecd446d-adb7-4e91-aca4-b1f3d3a63447,Dental,dental,multi,A
+8ecd6b53-cf1a-4e9c-8f2c-48e457979779,Pediatrics,clinical,single,A
+8ef7b269-b6d6-4c45-b706-df1e87744c90,Surgery,clinical,multi,D
+8efe2632-49e7-4558-b438-a44fadccdd03,Pharmacology,para-clinical,single,A
+8f13c7e0-8ca3-4dac-9e30-de740fe777c3,Social & Preventive Medicine,para-clinical,multi,D
+8f39d375-f28e-41de-a0f4-6bf5757c9cd4,Dental,dental,single,C
+8f57df40-4509-4083-a86d-d53e7bcaf328,ENT,clinical,single,C
+8f57f95a-a12e-49e9-87b8-eb58ffa6cb9c,Ophthalmology,clinical,single,C
+8fa85cca-19b5-42e5-90b2-b2d79087954b,Dental,dental,single,B
+8fbfceaf-3af9-4b79-944f-643613173ac0,Pediatrics,clinical,single,B
+8fe12f62-9e59-408b-899d-72def6e9e16e,Microbiology,para-clinical,single,C
+9010a09d-b097-4371-afbc-c2532fe02740,Microbiology,para-clinical,single,A
+901769b9-8f5f-48e3-869a-879c1d57ad93,Gynaecology & Obstetrics,clinical,single,A
+90481eeb-fa12-4a3d-8348-dd3f1758167c,Biochemistry,pre-clinical,single,A
+9064db4c-83a8-4110-9a87-b4c4669bb225,Dental,dental,multi,A
+90896a33-2ebb-4fee-b954-d37984ba6847,Social & Preventive Medicine,para-clinical,single,B
+908f179d-9296-4cc3-8cd5-d3e59e24d232,Dental,dental,single,C
+90a1a7e3-3ff3-4653-8d13-3de6811b4eca,Pharmacology,para-clinical,single,A
+90b7e4be-4395-4305-9f19-8499bc1bff4a,Pathology,para-clinical,multi,A
+90c375a2-63de-4f16-940c-5f8a08df0d8d,Dental,dental,multi,C
+90d38496-3baf-4df8-a4ce-5210d0dbfa0f,Surgery,clinical,single,A
+90d508fa-01fd-4b1f-811e-6fc4a0df7054,Dental,dental,single,A
+90e1de32-990e-4ebe-8e95-4934cd98e601,Surgery,clinical,single,D
+90e45b2e-7087-4390-8d01-75bde6ed9f71,Dental,dental,single,C
+90ed60d8-c46e-47be-8db0-e2e0f9ec825f,Dental,dental,single,D
+90f34466-4378-4d47-bf88-b930ace9b95d,Dental,dental,multi,B
+91324f8c-5091-4fae-849c-c4477a571de8,Surgery,clinical,single,B
+9138af01-4f96-4301-9817-8662fc2a0012,Anaesthesia,clinical,multi,D
+913d6913-f5de-41a9-8159-d7ac61d57c47,Pediatrics,clinical,multi,D
+91430721-6b45-4be5-acfb-29e96d31d077,Dental,dental,single,A
+91670015-d49a-46d1-9ca2-925f832c300e,Dental,dental,single,C
+919d81f7-e865-429c-99f8-14a31570fdeb,Dental,dental,single,A
+91aa0a58-78a7-4c75-ae0b-5dc0ada32999,Dental,dental,single,B
+91b1635b-021f-4945-bb1d-5bdeed6389f4,Dental,dental,multi,B
+91b8c11b-1fd3-40dc-9660-5756b52296ed,Social & Preventive Medicine,para-clinical,single,B
+91f22318-7737-491a-8096-d504ac9c8aae,Social & Preventive Medicine,para-clinical,single,A
+91f37b78-e350-49ad-bcc8-27ae95c9c027,Physiology,pre-clinical,multi,B
+921b7c8e-688e-41d2-a1fd-30fbaa01f513,Dental,dental,single,A
+921e4560-e7a8-4982-bb75-3f6474408f10,Surgery,clinical,multi,B
+929e25da-3a7d-4530-95e2-7b3b8e95685d,Dental,dental,single,D
+92b73e84-c02c-43db-8ddc-a5b7954ae6ab,Medicine,clinical,single,D
+92b9ce44-5d98-4f45-9366-e83649016e84,Anatomy,pre-clinical,multi,D
+92bc808f-994e-4669-80e5-77305a9f9178,Physiology,pre-clinical,single,D
+9323af0c-ce73-4fcd-9646-88c87ea5d0f7,Forensic Medicine,para-clinical,multi,A
+93645af3-21d4-4a69-bd63-b181635715f4,Dental,dental,single,B
+936ed4f5-e283-4e25-97a3-a696b0539389,Dental,dental,single,D
+93751803-0e12-444d-a80a-f15784cc6a86,Microbiology,para-clinical,multi,D
+937dd47d-2d03-4bb7-a36d-d82a58f565d5,Psychiatry,clinical,multi,B
+938a6fd0-f60a-4d86-91c0-0cb8786028ae,Dental,dental,multi,B
+93b42b71-45b2-4314-9bb5-b71c362c50cf,Anaesthesia,clinical,single,C
+93c4a1a4-7b8b-4d71-b246-3125604bc899,Anatomy,pre-clinical,single,D
+93d8bac0-76ae-4440-91c0-fa3b724bbc65,Gynaecology & Obstetrics,clinical,single,B
+93f5e66f-2b58-40a8-84e0-0c4c42dd7a93,Anatomy,pre-clinical,multi,C
+93f90d31-148b-45ad-9a6f-42a5807cbf33,Ophthalmology,clinical,multi,B
+94377365-084a-4a08-9081-c1f2aa7b1b84,Biochemistry,pre-clinical,single,D
+944df241-c1be-41cb-aa47-b45a4c4593a5,Dental,dental,single,D
+9468ca2d-bf9d-4819-8e72-15c5d9c6df2f,Gynaecology & Obstetrics,clinical,single,D
+948eede7-eddf-4f5f-81be-e708cf1a50e1,Medicine,clinical,single,D
+94b13f6b-7f81-41a0-bbef-d22271e45a47,Pathology,para-clinical,single,C
+94cfe1dc-7810-4c50-af95-87a3c560f6bb,Medicine,clinical,single,B
+94d8d441-a73e-413e-af3c-6e27c6989aeb,Anatomy,pre-clinical,multi,B
+94f8a4d4-c1b9-4c3e-a71a-dd4658d92dd7,Dental,dental,single,B
+9530266a-de00-449a-9428-d538b56740ab,Surgery,clinical,single,C
+953391a8-ee52-4e36-879f-67eaf1f68ae3,Dental,dental,single,B
+954a6f85-767c-4b3a-b422-c5986e63f77b,Dental,dental,multi,D
+95567c10-0007-466a-8b8e-8f8891806716,Anatomy,pre-clinical,single,C
+95711cf9-001b-4ebc-8ca6-e5b8d2c138b8,Anatomy,pre-clinical,single,B
+9572a3f9-b8a0-4fc4-96a1-cc0409721155,Pediatrics,clinical,multi,C
+95deaff5-dc0b-42a7-b257-573f3de4c88d,Gynaecology & Obstetrics,clinical,single,D
+9603526f-8c7d-4618-963d-be8a05c28a94,Surgery,clinical,single,A
+960e3779-3e04-4c22-9cac-7e76c26c1e7e,Medicine,clinical,single,A
+96134923-f73b-48f4-8361-c964c3ab16b2,Medicine,clinical,single,A
+9631d6de-2f89-43ce-a707-508f76977a7f,Anaesthesia,clinical,single,A
+965fa6a2-969e-4b51-bdb7-934a02c809f6,Surgery,clinical,single,A
+9663a6e9-55d1-4a7e-8af9-556a6478688d,Dental,dental,multi,D
+96c67a06-4ef0-4473-8d1c-6c31fd617a5e,Dental,dental,multi,D
+96d449da-7560-45e2-aa9b-2b5a74296f25,Pathology,para-clinical,multi,B
+96eca5a9-adfb-4895-8b2a-0b96ffc801fc,Surgery,clinical,single,A
+9700977a-4009-4233-8fab-fe55e727be6b,Microbiology,para-clinical,single,A
+97028381-fe2a-4c81-9f67-b3125061d7ae,Surgery,clinical,single,B
+97194c13-bb56-4e06-ac35-79f69cb41bb3,Pathology,para-clinical,single,A
+974aa4db-e3d2-49eb-900b-12664edeec0b,Pathology,para-clinical,single,D
+97648c60-2ed9-4c8e-9142-48806639731a,Psychiatry,clinical,single,B
+977163b4-1714-48aa-b3cb-8e98a77d10d5,Dental,dental,single,B
+97a54f46-0d5e-4979-820c-ab311c30f08a,Physiology,pre-clinical,single,A
+97a84ea2-f289-4103-a306-a1cb3526c24e,Microbiology,para-clinical,multi,D
+97b2703f-bd3b-4791-a000-bc310975d650,Dental,dental,multi,A
+97bd8c32-3ea6-41e1-856e-b9a91d20e643,Medicine,clinical,single,B
+97dca2bc-0b15-4ce8-8e7b-2c7107fe5d18,Dental,dental,single,C
+97ea4638-c71a-428b-b839-7638bdd467ab,Pharmacology,para-clinical,single,A
+97ef7cca-90c3-4c3c-bc58-28d2d5e1bc0b,Medicine,clinical,single,D
+98200364-a113-4848-9149-fdd6106442a5,Dental,dental,single,D
+985566bc-67a2-4f42-8bc5-4bd8bfc84bab,Dental,dental,single,B
+9859d4a2-274f-47eb-b20f-ca5309440793,Microbiology,para-clinical,single,B
+988010c6-d24a-4c75-9688-e8d84da035a0,Surgery,clinical,multi,A
+98ada6d9-f8ac-4454-9aaf-a4105ec5cc0c,Surgery,clinical,single,B
+98ae0eca-84e2-4b3c-95e3-2920fafef1e8,Dental,dental,multi,A
+98b3a08a-de88-41bf-90d0-41e30bfb567f,Dental,dental,multi,A
+98db720a-e70e-4db0-8df7-77da4048523e,Social & Preventive Medicine,para-clinical,multi,D
+98e20d31-45bf-46c2-80cd-a9020dcaf014,Social & Preventive Medicine,para-clinical,single,A
+9915556e-4bff-4728-a142-32cd11836bbb,Medicine,clinical,single,C
+9915c2b8-8f39-4e35-a9c0-08f2f825137a,Biochemistry,pre-clinical,multi,D
+991f3a07-e4ea-42b2-bbc0-4927a093cfcd,Dental,dental,single,B
+991ff4a7-4adc-4136-854d-b6c007d5d1be,Dental,dental,multi,A
+9948bff9-4412-403e-a7b4-bf3af5229ed8,Dental,dental,single,A
+9974421e-f978-4413-879e-5767dbc0d682,Dental,dental,multi,A
+99d8d535-2f50-4aeb-8e2e-f798f1aca579,Dental,dental,multi,A
+99ddbf1f-f8dc-4863-a277-5a9b2fbf06d3,Medicine,clinical,multi,D
+99ebb66d-a706-49db-aa48-96f3430ce0d4,Dental,dental,single,B
+99ebfb54-f46f-4053-8ef1-3c931d657bdb,Surgery,clinical,single,B
+99f0588d-fd2b-405a-ac4e-5615d0533fff,ENT,clinical,single,D
+99f08890-7505-4062-9293-1f135de62e5c,ENT,clinical,single,B
+99f70efa-2951-4dfb-ba1a-e4d9b7a0b08e,Social & Preventive Medicine,para-clinical,multi,A
+9a05d9f9-5d33-4d91-a084-6a11d7701611,Pathology,para-clinical,single,A
+9a292f87-6a2d-4bba-bcee-f11ca9a94c73,Pathology,para-clinical,single,D
+9a3940ff-8c7a-492c-86d4-259c47cef675,Surgery,clinical,single,D
+9a3ac2a9-6d0f-4448-865c-e5bac449c1ec,Physiology,pre-clinical,single,A
+9a420a52-014a-4db4-be1b-ba06f1de7904,Dental,dental,multi,B
+9a664b49-9962-466f-a160-3ae2036dd720,Dental,dental,single,A
+9a901f04-8eb8-4e4f-a332-14cf2a3c70a3,Pharmacology,para-clinical,single,B
+9aac7deb-5ed0-4f88-b20a-0b177ae8b839,Dental,dental,single,C
+9aaf675f-b867-4cd9-ad9c-ee2dabb0a535,Physiology,pre-clinical,multi,A
+9ab1e53f-7a79-4422-a147-0a5b6936ecb9,Dental,dental,single,D
+9abacba9-f159-401a-b974-9040f9efdd8a,Gynaecology & Obstetrics,clinical,multi,B
+9ac2ec17-8b1e-4ebb-98f9-e5c839f702f1,Dental,dental,single,D
+9ac4d9c7-db9d-4521-83bc-f6f58f6d5db7,Surgery,clinical,single,A
+9aea1874-b4cf-4ba0-8de4-ac60866796ba,Physiology,pre-clinical,single,B
+9b33051b-e39d-4342-acd7-8bc45abdf2d6,Forensic Medicine,para-clinical,single,A
+9b8ebf6f-3451-401c-838d-f2f50a3e7d8a,Pathology,para-clinical,single,A
+9ba605e2-bf6d-427b-a4ed-c8948569ac22,Medicine,clinical,single,C
+9baccdab-543d-4508-8192-493ac564b258,Anatomy,pre-clinical,single,B
+9bad2095-2dd9-4485-946a-4ef51d16e8a4,ENT,clinical,single,C
+9baf46e0-b16f-48a5-b761-334765784402,Dental,dental,single,A
+9bb726e8-7d22-4666-979d-64ee3a2fcb40,Dental,dental,single,B
+9bd6256f-3625-4877-8fe7-63c2688a39ce,Pathology,para-clinical,single,A
+9c1d56d9-5f46-4d3f-87e6-894a31c98f27,Anatomy,pre-clinical,single,D
+9c2050d1-8db5-4ef7-835c-d7cb5bb52198,Gynaecology & Obstetrics,clinical,single,C
+9c46b53f-f0bc-4e3b-9b2e-9e9595bc38c8,Dental,dental,single,A
+9c728d18-2481-4292-bd23-e13be8e509ed,Dental,dental,single,B
+9c730300-2694-442a-8a72-089982d739f8,Dental,dental,single,C
+9c7e163e-d22f-43d9-8c77-fb036bc0b064,Medicine,clinical,single,D
+9c831bcb-dde8-45d5-853c-135a983c38c8,Social & Preventive Medicine,para-clinical,multi,B
+9cb14715-ed8b-45e0-b388-1f03f960f83c,Dental,dental,multi,A
+9cc1de2b-127b-49fa-8f8e-6f26c058418d,Anatomy,pre-clinical,multi,B
+9ccd0247-2723-4707-b569-ca0402842cd9,Gynaecology & Obstetrics,clinical,single,B
+9cce1fbe-7ebe-41f3-8c98-1204c6cf99b9,Dental,dental,single,D
+9cda8aff-7c42-4c13-af2f-48282d65dbae,Dental,dental,single,A
+9ce14fee-cf4f-4066-b94f-361bd7165049,Dental,dental,multi,A
+9d0da0b2-711a-4c74-bbbb-5403c601ec88,Surgery,clinical,multi,C
+9d2bff20-7d45-402d-af8f-3eb0c1e1e404,Physiology,pre-clinical,single,A
+9dbe9f17-d9ee-46fe-b3d3-8c6c19758be6,Social & Preventive Medicine,para-clinical,single,C
+9dc82b98-671e-4d88-9f37-1ae5d2f7c6ff,Anatomy,pre-clinical,single,C
+9e165700-2956-44ca-9427-c3d37bb09977,Dental,dental,single,A
+9e52adfd-3abb-43d2-9fd8-718351feed62,Radiology,clinical,single,C
+9e5703ad-fdbe-4f01-b3f8-6ff6b834dc44,Dental,dental,single,D
+9e7d4311-f779-4154-8fd3-9a53421481bc,Pathology,para-clinical,single,B
+9e8038c4-e848-450c-8f57-f9bfa7b75fb0,Physiology,pre-clinical,single,A
+9e897983-8674-4556-9457-457acfa15d9e,Social & Preventive Medicine,para-clinical,single,C
+9ebdc9e8-773b-4c70-bfba-363125f478eb,Pathology,para-clinical,multi,B
+9ed9358f-cdc1-48d6-8147-45ab98516fb0,Social & Preventive Medicine,para-clinical,single,B
+9efd66e5-5dcc-4213-ba60-a590e2f02625,Dental,dental,single,A
+9f0e80ba-8db5-4118-b33b-1ee12388f92e,Dental,dental,single,B
+9f210b02-6e60-4164-af01-955dc0eafa9a,Dental,dental,multi,B
+9f529003-8d44-442b-8dfc-f839e7f96a72,Surgery,clinical,single,D
+9f8d3d01-cb19-46e5-83d8-e8d33ae57020,Dental,dental,single,A
+9faa00b2-c959-441b-a202-4667f165ba64,Pharmacology,para-clinical,multi,B
+a00d1b4b-621b-4804-aecc-0ca0a8f6e941,Anatomy,pre-clinical,multi,D
+a01034cd-7b51-4717-ba9f-51476e477ff7,Dental,dental,single,D
+a022212e-e91a-4bb5-b6ff-b1fb57ff48e0,Medicine,clinical,single,A
+a02c8fe4-9c6b-4d40-8e5d-9870b83a73cb,Pharmacology,para-clinical,single,D
+a04c4de3-ed44-43ac-8771-4ea6743009f0,Biochemistry,pre-clinical,single,C
+a05c8cf2-b0bc-496e-b5fd-51467952e2ca,Gynaecology & Obstetrics,clinical,multi,D
+a06fc39f-e910-48cc-990f-fd3b93ede264,Microbiology,para-clinical,single,B
+a074e962-7c67-42ab-9215-76af20ac3d70,Microbiology,para-clinical,single,C
+a078a54d-e02d-43f3-8d18-a64ee201c427,Dental,dental,single,A
+a0876dd1-533e-4ce7-8d47-1b0ca81cd228,Pharmacology,para-clinical,multi,B
+a0ad23e1-1238-4d3b-b939-33e852d48919,Dental,dental,single,C
+a0c6e73e-5ed5-42b5-a71c-24e031f7e7e8,Dental,dental,multi,A
+a0e568c4-2af5-479e-8c61-abffa1ffa11f,Surgery,clinical,single,A
+a0edceda-8fd1-4602-8ae5-9e9e71010ba4,Dental,dental,multi,A
+a0f9a92a-4321-4213-aa23-7b60a5f06864,Social & Preventive Medicine,para-clinical,multi,A
+a1111432-f1c4-4e04-b61b-449b435e99ad,Pathology,para-clinical,single,B
+a115b765-ec7a-4e63-abac-50516a65b46a,Dental,dental,single,A
+a1279d69-0943-4b0f-93af-6c02cd5e2bf1,Anatomy,pre-clinical,multi,B
+a13b245e-56b4-43cd-84fe-1c83ac2badeb,Gynaecology & Obstetrics,clinical,multi,A
+a1546ddd-5e66-42f2-897f-90fce5601b72,Pediatrics,clinical,single,C
+a1726527-12af-47e3-82f1-b1ea871d2659,Surgery,clinical,single,D
+a176a27c-5514-46e8-8fe4-3871c7982706,Surgery,clinical,single,B
+a18a805c-102a-4493-9a14-9fef1f17862f,Microbiology,para-clinical,multi,B
+a1a5bb6c-c9f8-4c6f-874c-8be9255e7314,Microbiology,para-clinical,multi,D
+a1a782cf-d0f2-4645-a96d-79ef0cef3516,Pharmacology,para-clinical,single,D
+a1ab9a3e-f95b-4f09-9da7-e01bcd2a7e10,Anatomy,pre-clinical,multi,B
+a1afec74-7884-4775-ba33-b22046d16a4c,Biochemistry,pre-clinical,multi,C
+a1b1cf05-faa3-4f05-819b-a58bceb86995,Pharmacology,para-clinical,multi,B
+a1bea2c7-217e-4240-a208-541618437eec,Microbiology,para-clinical,single,D
+a1ce62e7-bc2f-4bd3-96b3-610e839b227b,Pathology,para-clinical,single,A
+a1f7c34e-e009-4447-b459-3fe798b4bbc1,Ophthalmology,clinical,multi,B
+a1fa0704-7aab-4226-990d-5790d34c5d27,Microbiology,para-clinical,single,D
+a1fa6f97-be57-47b3-a946-c71ac455345b,Radiology,clinical,single,D
+a20495a2-6aba-40db-b41b-fb328e3a8d00,Dental,dental,multi,A
+a20626b3-8719-4847-a929-87a7c9727649,Dental,dental,single,B
+a215ecb7-fbfe-45c0-9b53-20b5188c2a87,Dental,dental,single,B
+a221ada6-01e5-47bb-9aaf-5277ea353f1c,Forensic Medicine,para-clinical,single,C
+a28512ef-dd2c-48f1-9033-95c1d84daf47,Anatomy,pre-clinical,single,B
+a28af149-bf4b-4c9a-a4bf-5f6387f945e9,Surgery,clinical,single,B
+a28f499d-4b8d-4fb1-a6fa-b63497539f72,Dental,dental,single,A
+a2af6946-d041-4695-aab9-c1944c575b44,Biochemistry,pre-clinical,single,A
+a2c69e1b-2b47-4fdb-9eca-12d2338f7d8f,Dental,dental,single,C
+a2c8fb9f-f775-4508-8e72-8ac484406ba6,Surgery,clinical,single,C
+a2f37579-2d74-4b22-9a96-69c25b573f31,Dental,dental,single,A
+a2f3d532-e063-4203-bba6-7f590a162dc7,Pediatrics,clinical,single,B
+a30f9a2b-52f0-4880-980d-d56de2a88910,Pharmacology,para-clinical,single,B
+a318b5cf-a25d-4860-878c-e1d0295fa46f,Pediatrics,clinical,single,D
+a31fa037-1f22-44a4-8d07-6457c439b685,Microbiology,para-clinical,single,B
+a326307c-820f-42d6-8e8e-747df5bbdd20,Dental,dental,single,A
+a342bd97-443b-48b0-a739-44530a2d485e,Dental,dental,multi,A
+a35fecfa-0c54-497b-957c-58da96b3716a,Medicine,clinical,single,B
+a36b6f9e-f19b-48b1-9d33-4845fffe975f,Physiology,pre-clinical,single,D
+a36f6ff1-cb98-42fc-953f-79b16753d993,Dental,dental,single,D
+a3a5f97f-caeb-47cf-9810-18f55c7e14ea,Dental,dental,multi,A
+a3bc5be5-72a7-45a8-81a2-4c492249c14f,Pathology,para-clinical,multi,C
+a3cbc052-9644-4a98-85de-c4f18d88b9c7,Biochemistry,pre-clinical,single,C
+a3da135a-a6a2-4e1c-8823-8ab0913f5668,Pharmacology,para-clinical,single,B
+a3da6773-f951-4347-9138-db419a0c0a69,Surgery,clinical,single,A
+a3eaeae1-9e64-4d66-9168-3e49814f51a5,Pathology,para-clinical,single,A
+a3fa1cc7-e557-4f42-97b3-ac43890070c4,Pharmacology,para-clinical,multi,B
+a40481b2-dbe1-4b5b-aa7f-20b3d47d8779,Pharmacology,para-clinical,single,D
+a40a185a-f898-4978-a1aa-17ea136cacce,Medicine,clinical,single,D
+a432db53-67f5-4865-af52-18edf81d1225,Microbiology,para-clinical,single,A
+a43a0fc3-9d61-45a2-8ebd-f90bb31af019,ENT,clinical,single,A
+a456bf4d-1f3e-42a4-8976-b1b81ff466ee,Radiology,clinical,single,C
+a45d9322-2e84-4b76-aa18-537bd856d604,Pharmacology,para-clinical,multi,D
+a48f8ece-9420-439a-8ff9-19093ec0c03f,Dental,dental,single,B
+a497ae07-aaf0-4410-a034-665f087f1d83,Anatomy,pre-clinical,single,D
+a4ae6ca7-78a0-48fd-956c-4259c141d158,Medicine,clinical,single,D
+a4d559cf-a0bb-4eab-9cd6-023fceb916ad,Dental,dental,single,C
+a52dd788-59ff-4e7b-a151-b8d111caa1ab,Medicine,clinical,multi,D
+a54d8e6b-93a9-4ed1-b7fa-c6b7882342e9,Pharmacology,para-clinical,multi,A
+a570d3c3-865a-41b6-8e21-dccbf7feec4c,Pharmacology,para-clinical,single,A
+a59b9fe8-ab81-4f9c-9b65-10df248b3f49,Dental,dental,single,A
+a5a27cc1-caa6-4a00-b359-d8f37e0181b3,Dental,dental,single,C
+a5d204a1-2ae9-428a-bf12-1419fa344668,Pathology,para-clinical,single,B
+a5d733b4-18d3-468c-8aaa-bbcb66cbb07e,Pharmacology,para-clinical,multi,C
+a60894bd-585a-4a93-bf8e-cdee04292df6,Medicine,clinical,single,A
+a629e297-c858-4665-8991-b4c49606bf38,Surgery,clinical,single,D
+a639dc3e-9622-4b74-9b9d-fc16ca2e754a,Dental,dental,single,B
+a6466fc3-93c7-4de7-931f-3d98a8353ee9,Pathology,para-clinical,multi,C
+a66c89b4-55c2-4708-acfd-07987a4f5347,Radiology,clinical,single,A
+a67a3de5-fa39-4d47-b9f1-ca2a42aa8d70,Dental,dental,single,C
+a6abadc2-5c2e-4dce-9cfa-1464b3be8c8d,Microbiology,para-clinical,single,A
+a6cc1419-094c-4675-b250-ba45e4569bd2,Gynaecology & Obstetrics,clinical,single,A
+a7249818-4e2e-468e-9dbc-05cbc8bc8fc2,Biochemistry,pre-clinical,multi,C
+a78209a5-9800-45d5-9cab-4838388d53e7,Dental,dental,single,B
+a79f09ab-a292-4a46-ac30-dbf9daadc72a,Medicine,clinical,single,D
+a7a74ef5-0ff4-474c-b160-bd1c4fa24434,Biochemistry,pre-clinical,single,B
+a7e312f2-177e-4acf-9ac9-f68f6cb484ea,Microbiology,para-clinical,multi,D
+a7f65c0f-ed0f-47f3-96d1-f4f85ff5c3a0,Dental,dental,multi,A
+a861b551-1fc4-4b04-a719-def8b4d7810e,Dental,dental,multi,B
+a8683027-bf0c-459a-99d6-7b4676278072,Pharmacology,para-clinical,multi,D
+a8779992-ade2-4a9c-a9bd-d405b92cc010,Dental,dental,single,A
+a8ac17a8-7d55-4708-a9d9-fb7b1c05fe1f,Dental,dental,multi,D
+a8be5273-87e4-42d6-bdd2-e3ce0ba892c1,Dental,dental,multi,A
+a8c33cc0-c274-4e1b-9ff2-8ced913073f0,Dental,dental,multi,C
+a8e272d3-7afc-4864-a7ca-84e2d6fa0569,Dental,dental,multi,D
+a8ef25e9-36e4-48e8-b3ad-48c4b138c6f8,Pathology,para-clinical,single,D
+a906cd05-9528-42a0-9c91-235eab046938,Dental,dental,single,A
+a9210029-3bfe-4b2f-8e44-894e87e368d0,Physiology,pre-clinical,single,C
+a94187fc-3135-4989-9cc3-e6d5bbce3044,Surgery,clinical,multi,D
+a943ecaa-7acd-443e-acee-dac2e82d3946,Surgery,clinical,multi,B
+a9471eed-081f-450b-86ee-d1bb788bb833,Dental,dental,single,C
+a963bf66-e44e-445f-b3ba-26efcd836ad9,Surgery,clinical,single,B
+a9b0fecd-41ee-4e52-87a9-12e7048e6615,Pharmacology,para-clinical,multi,B
+a9c3188c-2a4d-4745-98d4-ee92580905c4,Dental,dental,multi,B
+a9df804d-c8d7-4afa-ad5d-776b64742bab,Dental,dental,single,B
+a9eacca0-36c6-4171-996c-d7c4d75f42df,Surgery,clinical,single,B
+a9eb877d-bc11-4923-88b2-97193a8d52eb,Pediatrics,clinical,multi,C
+aa1d43f7-96e9-46b0-9795-a78bcc1f064e,Dental,dental,single,A
+aa23e05a-7e73-494b-bc8d-6331b060a964,Gynaecology & Obstetrics,clinical,single,D
+aa240af7-9a6c-44dd-ab9a-ecb2c4cb5c28,Anatomy,pre-clinical,single,D
+aa2ee1f7-0913-43ef-a2c4-b96eb63e967b,Pathology,para-clinical,single,A
+aa4176f5-8b14-4c05-ae4d-48e6094afbb2,Surgery,clinical,single,A
+aa654bb2-617b-4216-af79-a578a513ca7b,Dental,dental,single,B
+aa676348-78a3-4571-a4a9-2c38c97d6fb2,Dental,dental,single,C
+aa677f5e-3b2c-4ec8-8b77-78610a8a38cf,Skin,clinical,single,A
+aa84299f-e4a1-4123-bb64-e280c6a06f23,Medicine,clinical,multi,B
+aa8da3cd-fdc2-42ef-96f5-9de78597f924,Pharmacology,para-clinical,single,C
+aa928f6b-b194-44e7-ae8e-88a92c365fdc,Pathology,para-clinical,single,B
+aa9f6ffb-1c54-4556-b121-b0b5578f33e9,Medicine,clinical,single,A
+aac3f7a9-9821-4f19-a131-0f6661d13562,Pathology,para-clinical,single,D
+aadafd4c-cb37-460b-8e6f-28f42d01dd60,Ophthalmology,clinical,single,C
+aae446ea-6c3c-44e3-9fd2-bd056d6d4a1a,Surgery,clinical,single,C
+aafbe728-ff78-47ec-8edc-e47e320fc1ba,Physiology,pre-clinical,single,A
+ab0bf88b-ad5b-482b-b45a-61ac9a5b3d58,Surgery,clinical,single,A
+ab1d4d40-0a0f-405d-ac41-100856f75318,Dental,dental,multi,C
+ab34e961-f641-4c92-9324-06da16cc52ef,Gynaecology & Obstetrics,clinical,single,B
+ab70624e-01f3-42b9-b918-1fa3d2c7f3ce,Anatomy,pre-clinical,single,A
+ab9b2188-4674-4115-9415-f6c1666f32c0,Physiology,pre-clinical,single,A
+aba2b078-4340-4cc2-95b3-52e1fceb87ff,Anatomy,pre-clinical,multi,C
+abbc3eaf-dde4-426e-9222-6bbd6522888f,Dental,dental,single,A
+abcdfc38-ab30-4fe8-8bd8-e8a7cb5b35e1,Dental,dental,multi,C
+abd507d7-232c-46cb-8605-cb573b86ee2b,Dental,dental,single,B
+abd87919-d7f6-44cd-b4c8-8e70630084b5,Pathology,para-clinical,single,D
+abe0e99f-b2fe-4547-b2f7-58817eaea403,Pathology,para-clinical,single,A
+abe0ec0b-3b93-4151-b93a-3ce5e4f29328,Medicine,clinical,single,B
+abed431b-5d40-4df7-9f7b-4088185b5728,Ophthalmology,clinical,single,B
+ac1196e0-224c-4c6c-a6b8-2853a776ade6,Social & Preventive Medicine,para-clinical,single,B
+ac6be140-880b-40c6-9855-01f30c8dd7b2,Dental,dental,single,A
+ac920278-1568-4a55-a4f2-114832edb868,Surgery,clinical,single,A
+ac97880a-0862-45cf-bed5-a2000a93343c,ENT,clinical,single,C
+acc7b73e-20f6-40c7-b831-d8b45a8f38fb,Pediatrics,clinical,multi,D
+aceab90d-6cc0-4cac-82d4-8fcda05ea933,Dental,dental,single,D
+acfc14d7-1051-4939-9631-c1910b58c295,Pathology,para-clinical,single,C
+ad06ae5e-77fc-42e4-b2cc-b33069ad0d9d,Medicine,clinical,single,B
+ad195e5d-7f52-42cc-a183-b05e3181d0ab,Medicine,clinical,single,B
+ad3f328f-72a0-4539-be89-1c9b6cce07f6,Medicine,clinical,single,C
+ad581666-9c58-4d4a-a9df-8c4743715a53,Biochemistry,pre-clinical,single,C
+ad5ec8c2-dd73-4a3e-8904-8675c689bca2,Biochemistry,pre-clinical,single,C
+ad7de085-c01b-48bf-a1fe-fc7a33dab3d2,Medicine,clinical,single,A
+ade05b67-b4f5-433b-8433-d74e009763cd,Gynaecology & Obstetrics,clinical,single,A
+ae05f0f4-de2f-43c0-9233-6ba28a77c8d3,Pediatrics,clinical,single,D
+ae07edee-fc24-489b-8c84-b89c77378ed8,Medicine,clinical,single,A
+ae166e0e-586c-42ab-9438-dd02125e35c0,Forensic Medicine,para-clinical,single,D
+ae3aa91a-4bfb-42a5-b8f6-7f8217e18fb0,Social & Preventive Medicine,para-clinical,single,B
+ae4e70ec-f2cc-4afa-b122-cdb5a4eede13,Gynaecology & Obstetrics,clinical,single,A
+ae5183a1-f2a6-4071-8cab-611ccc927599,Medicine,clinical,multi,C
+ae860b65-53a5-4547-b627-494174e15c3c,Medicine,clinical,multi,A
+ae962062-af3e-4fcb-a952-a71b7a3c726d,Dental,dental,single,D
+ae97bd1c-7138-4c9f-abf6-52375abcd6f4,Dental,dental,single,A
+aedc1587-ff44-45d7-ac9c-abf3f90c6a1a,ENT,clinical,multi,B
+af27a86f-cda7-4eb1-a1f3-fef11b9a25cf,Pathology,para-clinical,single,A
+af344b7b-30b7-4663-a02c-0605fb54c801,Pathology,para-clinical,single,C
+af6401c6-7949-4167-bf84-e862561da258,Anatomy,pre-clinical,multi,A
+af64e0dd-f66f-496a-8b0d-13daf729cf5f,Pharmacology,para-clinical,single,C
+af82f88f-21e6-4877-a69a-e4a476697bed,Dental,dental,single,A
+af87accb-34b2-42de-be48-16e94bbf22ab,Biochemistry,pre-clinical,single,C
+af9a1805-2fda-43e1-9c73-64731258f12c,Social & Preventive Medicine,para-clinical,multi,B
+afa06daa-f47f-4e6a-92b4-c8da542e9aff,Biochemistry,pre-clinical,single,D
+afa56a9e-0043-49c0-b1e3-36bbdf3c9571,Ophthalmology,clinical,single,A
+afb560a9-453f-43f9-b0d8-8e54519d46a6,Anatomy,pre-clinical,single,A
+aff4bd90-ab90-45b7-8ef7-2b02c25da7ad,Dental,dental,single,B
+b0060b73-4e6b-4537-a556-c1fb94a65c4a,Ophthalmology,clinical,single,D
+b014b3da-9774-4d31-8af9-115a04590625,Pathology,para-clinical,multi,B
+b02a0880-4fc7-46d1-83a9-d86a8f1f077c,Gynaecology & Obstetrics,clinical,single,D
+b02a2fb8-3cd5-4043-88fa-ab4ad3092efe,Dental,dental,single,C
+b046407a-84fe-432c-8df8-32545b94d5dd,Dental,dental,single,A
+b0551251-13ff-4dba-b185-e8b5c850d656,Surgery,clinical,multi,B
+b057a579-865e-4b5d-bd32-c859e19078c6,Anatomy,pre-clinical,single,B
+b0710c52-911e-4db7-9f74-5f92160b0eb3,Surgery,clinical,multi,A
+b082bda7-8ae6-439e-8971-5f34af8624e3,Physiology,pre-clinical,single,B
+b0a05a95-cb2d-4ec4-9e19-c25742e18221,Pediatrics,clinical,single,D
+b0b23ecd-6076-476c-935b-a6384c8474ff,Pharmacology,para-clinical,single,D
+b0b54bca-bd14-47e5-ac75-b6fa6469ff65,Dental,dental,single,B
+b0b7042b-be4c-42ad-8507-897cb8e6efd6,Anatomy,pre-clinical,single,D
+b0c6997a-bf16-4f7c-8c44-7a3504e0131b,Gynaecology & Obstetrics,clinical,multi,A
+b0d25fa2-56a0-4b68-aaaf-0bc455e055be,Social & Preventive Medicine,para-clinical,single,B
+b0d97337-7157-40c6-984d-87e24959fa80,Social & Preventive Medicine,para-clinical,single,B
+b0db4fac-bf20-4a54-8efa-0ff926e03a9b,Surgery,clinical,single,B
+b0ed6bc7-e3ee-4e1b-abf2-b0fecb47c96c,Physiology,pre-clinical,single,B
+b0f0bfb3-53a8-48a4-9f71-7f77aec4cf7a,Pharmacology,para-clinical,multi,A
+b0f5d8eb-eda4-48a2-ad59-d158d8132c16,Gynaecology & Obstetrics,clinical,single,A
+b12749bc-ed37-4f12-9d45-029e1a0916b0,Dental,dental,single,A
+b16d89a9-51bf-4317-9363-2f8a6629d68f,Dental,dental,single,A
+b1918d90-61c1-47d3-894e-63bd85822d98,Physiology,pre-clinical,multi,C
+b192b045-d178-4bbf-8796-3c26dae548f3,ENT,clinical,single,B
+b1cc4ab0-a82c-437a-88c2-00953f3618ff,Medicine,clinical,single,A
+b1cd5c0a-0f81-40eb-88e6-06d69054daae,Pathology,para-clinical,single,B
+b21a38b8-c966-425a-a140-9ff775745931,Dental,dental,multi,A
+b22457e3-c620-4a3d-bde1-0aa6e6c185a7,Psychiatry,clinical,single,C
+b28a6de3-cbe2-44a2-b75c-607baefacc05,Anaesthesia,clinical,multi,D
+b2f1f56c-5575-4db8-b63d-8f588b686083,Dental,dental,single,C
+b2fbf8f3-4379-40fe-83ac-c1deb1b5c045,Surgery,clinical,single,D
+b304b0be-c800-43e4-be04-739bd0cc47fd,Surgery,clinical,single,A
+b3163789-82b3-4054-aabe-3a2b90aa7a98,Anatomy,pre-clinical,single,A
+b317f77b-62b2-4ad9-a520-3bdbe0c37f47,Forensic Medicine,para-clinical,multi,B
+b31e3c42-29b5-4773-aec7-c8e8c7c9e444,Dental,dental,single,A
+b32d6655-6939-4b8d-b7da-e7274a017cfd,Pathology,para-clinical,multi,A
+b391576c-4c7d-4dc5-92cf-9ebca3b2068b,Surgery,clinical,multi,B
+b3aa72de-f85c-407f-892b-9dae7d953417,Pharmacology,para-clinical,single,B
+b3b61552-3fc0-45ce-82af-2b0e1077add5,Surgery,clinical,single,B
+b3c00c97-b6ca-4475-95e2-42343c8959cc,Social & Preventive Medicine,para-clinical,multi,A
+b3c55a62-5e13-402f-a6d4-6d8feb954d95,Dental,dental,single,A
+b3eb29e7-c094-4225-8379-8e4341a621a6,Medicine,clinical,single,D
+b3f12eb4-3ba5-4b60-b3fe-38c163ee5d18,Pediatrics,clinical,single,A
+b3f14ba9-4e1c-444a-a072-8066fbf2481b,Dental,dental,multi,A
+b3f181b1-dcd4-44d6-a008-628ed7b39cdc,Medicine,clinical,multi,A
+b3fbb3fa-16e3-4275-920b-aa7f7d8ef831,Anatomy,pre-clinical,single,A
+b444b8b8-faf7-4a56-be73-c880ad2f2c8f,Dental,dental,multi,B
+b44f29db-6223-45ed-b3e9-57e7d148c63f,Dental,dental,multi,B
+b467f831-a659-457d-9132-1f205935bee8,Gynaecology & Obstetrics,clinical,single,A
+b4723de5-5313-495c-b366-464e4e5cd145,Dental,dental,single,A
+b482ac20-7d0a-46a2-a5b6-8833ca5adbae,Dental,dental,single,A
+b4bc58aa-2cda-4903-9111-bb1517f8513b,Pathology,para-clinical,single,B
+b4c3fa06-01fe-4c3c-8521-25299a221d43,Physiology,pre-clinical,single,D
+b4d9ead1-e3c7-446d-b49b-7e4dcbdada18,Physiology,pre-clinical,single,C
+b4eb3c97-408a-4f77-84df-620c3a02ebae,Dental,dental,single,D
+b5177811-b859-4340-9094-b587f8b10f7b,Dental,dental,single,A
+b5245692-7504-44d2-8cf9-af7148c567dc,Anatomy,pre-clinical,single,D
+b55d9ee8-ae0e-4a10-a2a5-f8553f94abec,Pathology,para-clinical,single,A
+b55fd5c5-4bb5-41d9-b78f-0932ac3854e6,Social & Preventive Medicine,para-clinical,multi,A
+b59153cb-ea66-4755-aec9-b66fe42f55f7,Radiology,clinical,multi,D
+b5968e3b-6da9-4030-b91e-3a3571596419,Medicine,clinical,multi,A
+b5aac757-6fb7-48f0-8179-21ffde466c0d,Gynaecology & Obstetrics,clinical,single,D
+b5d6f664-7734-48e9-8a58-0966937fe271,Anatomy,pre-clinical,single,A
+b613ede7-ef92-42f9-873b-aa04c229373e,Dental,dental,single,D
+b63d8163-5256-417b-8736-bc123eea66b1,Pathology,para-clinical,single,D
+b64edf88-505f-4eed-a95c-0bb506eaddf1,Dental,dental,single,C
+b65ef6a8-7a2f-4538-926c-4bc0c0640313,Social & Preventive Medicine,para-clinical,multi,D
+b661d40b-bff0-4b37-995e-287d554d9292,Dental,dental,single,A
+b6662113-6b69-40b4-934f-2f69c1c760d6,Dental,dental,single,A
+b6833505-da89-49aa-91a8-5fd27d7333fe,Pathology,para-clinical,multi,C
+b687604e-5145-4aa3-ba07-56c624e501ec,Physiology,pre-clinical,single,C
+b6960906-d735-47a0-b71b-aa8af6cd26b3,Medicine,clinical,multi,C
+b69b1f70-e671-41d6-9f11-a788d34498db,Biochemistry,pre-clinical,single,A
+b69ced59-82cc-43b7-b3b8-829f8ee8930b,Pathology,para-clinical,single,D
+b6b91d49-7a30-4a9a-91e6-b2f20341470c,Orthopaedics,clinical,single,A
+b7021f6a-0299-49df-a478-009fe45c5d92,Dental,dental,single,A
+b70b70d6-0d72-41b3-bc8b-405f0e83fa03,Surgery,clinical,single,A
+b71747a9-b89b-45b2-a54f-04765341177b,Pharmacology,para-clinical,single,D
+b7507844-7679-49f9-a915-6a242af404d9,Dental,dental,single,A
+b771df48-ce3a-4e58-9dc8-54a42ee0e025,Social & Preventive Medicine,para-clinical,multi,C
+b78e3c97-dc54-4c08-9b4e-b38187a48cf8,Pathology,para-clinical,single,A
+b7a4a79f-e53f-42d8-bba2-3bef01840d17,Dental,dental,single,C
+b7b14d8f-2501-431e-afcd-e8b43dfb39f1,Gynaecology & Obstetrics,clinical,multi,A
+b7b22c3c-d5fb-4be7-8da8-6e2df03be23a,Pathology,para-clinical,single,B
+b7dd1d97-3338-4b13-98f3-1b6c61c805b2,Medicine,clinical,multi,A
+b81486a0-3a2d-447b-b740-7d086488d10c,Dental,dental,single,A
+b84028e6-34ae-44f6-9deb-10d9122d592f,Dental,dental,single,C
+b8488adf-b96a-44e1-a681-3ed4a22ec5e6,Dental,dental,single,C
+b84e818e-f4e5-4cf9-a6a6-4e13640d3fcf,Dental,dental,single,A
+b8621196-05ba-414e-a112-0b48be3fcd7c,Pharmacology,para-clinical,single,C
+b8647a35-334f-4fda-a718-cd7f59d90d8d,Pathology,para-clinical,single,C
+b874e4a2-0b9e-4333-b9b0-70a44664022a,Biochemistry,pre-clinical,single,A
+b8a31186-4e61-46f8-bf04-c3e22f907418,Physiology,pre-clinical,single,C
+b8df6117-aaba-476a-b6b7-08ebee57de0e,Social & Preventive Medicine,para-clinical,multi,B
+b8e2e066-a036-4d14-8364-4e91a93812d5,Biochemistry,pre-clinical,single,B
+b8fad18b-75df-42b6-b06d-8902a10f6e16,Pediatrics,clinical,single,D
+b90144a7-74cd-40fc-9634-b3a00530cb0c,Anatomy,pre-clinical,multi,C
+b92c7401-27d9-4cc0-80f1-5e6369047365,Social & Preventive Medicine,para-clinical,single,A
+b92d77c7-0eeb-411f-952f-ffb56e8f11fe,Gynaecology & Obstetrics,clinical,multi,C
+b934e553-46ba-4692-a9cc-cc1ae26e7d4f,Medicine,clinical,single,B
+b93a261f-e949-43f7-baab-ff96eaf4d530,Medicine,clinical,single,C
+b93d50ff-b9a6-4a82-adaa-4436036de0dd,Dental,dental,single,D
+b941a672-c231-45ad-a086-11c1726a8d09,Biochemistry,pre-clinical,single,B
+b9430ce6-2167-41f1-86a6-5d8c3e143d86,Pathology,para-clinical,single,B
+b944ada9-d776-4c2a-9180-3ae5f393f72d,Physiology,pre-clinical,multi,A
+b94ab925-4f2a-4e60-b42b-9f21acb848df,Pathology,para-clinical,single,C
+b9546516-2a4a-4179-a956-60d0387bf11f,Pathology,para-clinical,single,C
+b9558853-1ef8-40c5-93a0-4514d251569f,Surgery,clinical,single,D
+b98c9b26-1cf3-4d2f-80e5-ba589c91b94f,Pediatrics,clinical,single,A
+b9bcd2d8-268e-44fa-b162-9473d60055d9,Dental,dental,single,A
+b9cbbe45-fa4a-4a54-b4f3-143039171071,Ophthalmology,clinical,single,D
+b9d0ecb7-910b-4740-a744-5e7fa0780a3e,Physiology,pre-clinical,single,C
+b9e53e10-851b-41bd-b2e3-0ddc302ffd99,ENT,clinical,single,B
+ba0534c9-3275-481d-8130-62a393d57b2a,Anatomy,pre-clinical,single,D
+ba3c920c-6281-42ca-8f2e-45a3dfdc5c3e,Dental,dental,single,A
+ba3d2acf-22c5-416f-9d73-63d879a0a03c,Microbiology,para-clinical,multi,A
+ba4749e2-e5f5-4a98-8663-2b703e280c6c,Surgery,clinical,single,A
+ba54a2e5-0beb-4a2b-a1ec-f34e58a5e679,Social & Preventive Medicine,para-clinical,single,B
+ba74314a-2adf-4b6a-8c74-2c8c7f5b641f,Medicine,clinical,multi,B
+baacab5b-7e28-4b0d-b78e-73253e5c7dde,Orthopaedics,clinical,single,C
+baba5fba-6965-463e-af76-ad1192248260,Surgery,clinical,single,D
+babb3528-da02-4ffa-b15f-4a678c902be2,Medicine,clinical,multi,C
+bad6110e-a565-49ea-b3fb-a22adb83e53c,Pathology,para-clinical,single,C
+bb0813aa-65ec-4eb5-8101-76df41f138e5,Pathology,para-clinical,single,B
+bb46d4ce-440a-4cea-ab6f-75ce99cdd3aa,Pharmacology,para-clinical,multi,D
+bb4fff0d-9fcd-43d1-8f46-b3ca1ce58cd2,Pathology,para-clinical,multi,C
+bb51425d-0636-48c5-89ca-4358036b933b,Dental,dental,single,B
+bb58a829-673d-42e3-bd68-b4b9c0a56b80,Dental,dental,single,A
+bba8abed-d437-429f-bb4d-fd224fc9ead8,Dental,dental,multi,A
+bbb707fd-232e-4ce3-bd6a-bb261bd05701,Pediatrics,clinical,single,D
+bbb8ca0b-54ed-4f08-a87d-8eef087e37f1,Social & Preventive Medicine,para-clinical,single,D
+bbc08675-2e06-4229-aecc-74dbf064a4bd,Medicine,clinical,multi,B
+bbc11393-3dfe-49f8-a57d-2ab6e0e8e46f,Dental,dental,single,C
+bbd0ab20-0dce-48f8-ba8f-288d205feb3c,Pediatrics,clinical,multi,A
+bbe12324-c347-478e-b5bb-9a39e8969571,Dental,dental,single,C
+bbe40477-5e91-4c33-8623-9de8d296cdfe,Dental,dental,single,C
+bbf80ddc-3f79-48db-ad1e-5e6d0322704a,Pediatrics,clinical,single,C
+bc041127-1659-41db-909f-71bc5514bc5c,Biochemistry,pre-clinical,single,B
+bc46c956-a37d-4804-91ac-fa804db85897,Gynaecology & Obstetrics,clinical,single,D
+bc474c2e-6cf4-4df9-b484-3ecada4dd30d,Physiology,pre-clinical,multi,B
+bc4f5387-b4e2-4c9f-9372-d2578aa9848d,Microbiology,para-clinical,multi,D
+bc6e7601-e544-4e20-ab7c-ad493a4aa325,Pediatrics,clinical,single,A
+bc7fdabc-0c33-4e85-befe-0015ca601164,Physiology,pre-clinical,single,D
+bc8e9ed4-81fd-4c8e-9381-ae6c4d193066,Gynaecology & Obstetrics,clinical,multi,D
+bcc3680a-8167-4c75-ba0c-b7c94cb440b6,Social & Preventive Medicine,para-clinical,multi,B
+bccac3f6-359f-4795-93a7-1b32d014bce0,Pathology,para-clinical,single,B
+bcda201c-3107-4751-8888-741d21455124,Dental,dental,multi,D
+bcdd9b91-5c85-4e9c-bce4-9d92cc3d810b,Dental,dental,single,A
+bd0ed5fa-d212-4dfc-bba3-9706fe6a228d,Pathology,para-clinical,single,A
+bd1e4b62-2aed-4eb5-98cf-1b3573fed966,Pathology,para-clinical,single,C
+bd1f87b7-50d6-4060-a9a3-f281c15a1898,Dental,dental,single,A
+bd279945-7401-4ea3-9f54-bcda518ecc9c,Pediatrics,clinical,multi,C
+bd5b9ca9-7065-4c91-8a54-26c8d3a34501,Biochemistry,pre-clinical,single,C
+bd9727ab-e559-41ba-9006-304697e2c9b7,Dental,dental,single,C
+bdb5ddab-b229-4775-a698-62d03c559af1,Dental,dental,single,B
+bdc34663-b39a-47bb-b034-7f804e437c09,Psychiatry,clinical,single,A
+bdc7d080-b3a4-4edb-acc4-08a35d181e75,Dental,dental,single,A
+bdf95c69-99f7-4884-b014-53ec47ef3130,Biochemistry,pre-clinical,single,C
+be07e8f6-e306-4b6c-b36e-6ec18e0043e5,Skin,clinical,multi,B
+be168ef1-fee0-4f80-9c60-6259e78b56b9,Physiology,pre-clinical,single,B
+be215652-7a51-4c13-89f7-c5e747c322c7,Dental,dental,single,C
+be27a690-a4c2-41e8-bc61-70ccc70dcea5,Microbiology,para-clinical,multi,C
+be284b52-a2f5-4b28-8d48-f1101176661f,Medicine,clinical,multi,D
+be37c099-2519-4ebc-a1ff-54ee572c7efe,Dental,dental,single,A
+be3afdad-0f5b-4443-8293-746222d73844,Surgery,clinical,single,A
+be5656ab-bce8-4905-827d-45d9e99a9e1c,Dental,dental,single,C
+be5bc61e-a128-4e46-988a-610c3baa4ba9,Dental,dental,multi,B
+be5f1787-76b2-4782-be44-2c31745ea4c5,Anatomy,pre-clinical,single,D
+be9a2669-d3a5-41a7-9b1b-608757751254,Pathology,para-clinical,single,B
+bebb654f-88d5-4a1f-a9fb-dd65b42beeca,Dental,dental,single,D
+bec8dd0c-aafe-44be-af2a-d55055476931,Surgery,clinical,single,A
+bed477a6-5416-4f65-9859-e454fa02adbc,Social & Preventive Medicine,para-clinical,multi,A
+bee09bc5-3c41-4d41-8da8-a307dfd4228e,Dental,dental,single,D
+bf0eabec-95a0-46e1-a9b7-dae6c29dadde,Pediatrics,clinical,multi,B
+bf1695d4-b341-49a2-9144-aa52d346c645,Microbiology,para-clinical,single,B
+bf2d2cdb-071d-482b-86ce-4fb1098a1dae,Anatomy,pre-clinical,multi,A
+bf338178-cb15-4239-bf94-f6cfcb38d61f,Pediatrics,clinical,single,A
+bf5ce756-8fbf-432d-aaa2-e8b26afe711b,Dental,dental,single,B
+bf67324d-93dd-41a4-919b-313088e3a495,Surgery,clinical,multi,C
+bf77a9c9-3c08-43fc-8159-8f8509238024,Pathology,para-clinical,single,B
+bf8d5b76-bda5-4221-95ef-d536c00c24ee,Pediatrics,clinical,single,B
+bf96e90e-8e47-4660-93c7-bd01ec8735fb,Social & Preventive Medicine,para-clinical,single,A
+bfc8d03e-6a47-44af-8883-a2786a23da19,Pharmacology,para-clinical,single,B
+bfcc4291-d666-4a3c-81ed-1b958e3a7b13,Dental,dental,multi,D
+bfe1f29e-4880-4b0b-bc9e-c9b96f580f47,Dental,dental,single,C
+c0204a2d-5c44-448e-8e25-b5185ba64152,Pathology,para-clinical,multi,B
+c02f03a6-ff92-4236-9883-f9e7bf1e02df,Ophthalmology,clinical,multi,B
+c03c5c4d-5433-4515-a343-12c7f0ea1e07,Radiology,clinical,single,D
+c04418b3-8abb-4cb3-bd56-d5c2fd9adc70,Radiology,clinical,single,B
+c0548093-a9d1-4cbf-82e1-e04613825ddf,Dental,dental,single,A
+c061f6c7-13f9-4de3-8121-282c9adfcf2b,Anatomy,pre-clinical,single,A
+c06d48a3-baba-4dfd-8144-39234497be00,Social & Preventive Medicine,para-clinical,multi,B
+c0a989ca-6fdf-4c72-9407-44ef61bfceee,Gynaecology & Obstetrics,clinical,single,C
+c0b2a85f-6080-4082-bcdf-8653195da895,Dental,dental,single,A
+c0b79a36-0b9f-4aa3-b3ac-4435c4a92fe3,Dental,dental,single,B
+c0bb09db-0721-44e8-85a9-9adefcf98f25,Anatomy,pre-clinical,single,A
+c0bb2d77-4a90-410c-a7c3-2398f59e3b81,Surgery,clinical,multi,C
+c0cdb15d-036d-47c7-9acd-6264c7946937,Dental,dental,multi,D
+c0ed32bb-dbf2-4184-91f0-ee93c27f119f,Physiology,pre-clinical,single,A
+c1069842-8261-4a97-b1bb-5faeaacc6435,Pharmacology,para-clinical,multi,C
+c138ad82-08de-476f-b7cc-037bb25ef376,Dental,dental,single,A
+c1677f58-425d-4434-87be-810ee5433f9c,Dental,dental,multi,C
+c16a9d6e-5e30-4209-94b1-1f9e8444c9c9,Dental,dental,single,B
+c1730172-912a-4744-ad47-3034848202c7,Pathology,para-clinical,single,D
+c18807a9-ccf8-40f5-8b11-9e2c8b789c3e,Gynaecology & Obstetrics,clinical,single,B
+c1905ae5-b13b-4f01-8797-d1eb7043d461,Surgery,clinical,single,D
+c195d683-b268-4ae5-b96d-b50d870a2128,Medicine,clinical,single,C
+c196913e-1147-43ad-a9f5-69199b85b03e,Radiology,clinical,single,C
+c1aa8a36-280b-4195-b6eb-7f5b581ded0d,Dental,dental,single,B
+c1ad828e-687d-4f0b-b014-9b0b5555548e,Dental,dental,multi,D
+c1de4352-f68b-4953-a451-778c7f8b88b0,Pathology,para-clinical,single,A
+c22f03e2-d4ca-4d27-a7ca-fbd3386a6530,Dental,dental,single,B
+c2542b42-64dc-4d68-a53b-92567fba08d1,Dental,dental,single,B
+c254e7c1-e9d0-4cfc-8a9f-2a69b48961d4,Dental,dental,multi,C
+c25d4907-49a0-4104-83d2-df515cdcf676,Surgery,clinical,single,B
+c273445f-2dc5-452f-94b4-ce6e37b4496d,Pharmacology,para-clinical,multi,C
+c27b2629-91ce-4214-820f-486a0f7d8add,Dental,dental,multi,A
+c27e7c0b-7d26-4ca7-b537-c44b71114d55,Forensic Medicine,para-clinical,single,C
+c29d1c1e-6e29-44f7-8057-35ff7101d0df,Pathology,para-clinical,single,A
+c2ab77ef-9fba-47cd-9f6e-cd4e2404f3f0,Dental,dental,single,C
+c2b29a6c-e501-4532-97ad-62934778db2a,Dental,dental,multi,C
+c2b7295b-41e0-4f43-8c7b-aba487b0f4a5,Gynaecology & Obstetrics,clinical,multi,C
+c2b92bd3-f89c-429e-be8d-25d2d6c5806e,Biochemistry,pre-clinical,single,B
+c2c17a3d-3302-481b-8550-6985d54126c7,Pediatrics,clinical,single,A
+c2cd4a53-f3d9-453e-a2ac-136bbdd4b585,Pharmacology,para-clinical,multi,B
+c2cf6fda-d767-48e5-acbe-c663d376240b,Medicine,clinical,single,D
+c2f14586-a3c9-42c3-8b6a-d287acf43802,Dental,dental,single,B
+c30d00e9-dc5c-43fd-9514-b0dd23249546,Medicine,clinical,single,C
+c31b85f2-e3c3-4122-a330-2d5452dfb836,Dental,dental,single,A
+c32b760b-1412-41f9-9542-45885fa19cee,Dental,dental,single,C
+c33df06b-8aff-47ea-ae1a-0109cfceec53,Anatomy,pre-clinical,multi,A
+c348e60a-061c-4b3d-9192-f54aebed9f8c,Forensic Medicine,para-clinical,multi,C
+c34c9996-5391-4655-9249-948fe2cb0d2b,Gynaecology & Obstetrics,clinical,single,A
+c35aba8a-eb2e-44e5-8383-5b92cce06d2c,Pharmacology,para-clinical,single,C
+c392ae6f-bcce-4129-9357-c99cf10dbafa,Medicine,clinical,multi,B
+c3a007df-7c45-4ef1-a1b9-9814f4045ad2,Dental,dental,single,B
+c3b4d610-571b-4e86-be27-d41b8b2efc65,Pharmacology,para-clinical,single,C
+c3f2d738-cddc-4bd2-b9e7-e8a41969d42d,Dental,dental,single,A
+c4169d37-8378-47f0-a9e6-6ae62b6046fd,Pharmacology,para-clinical,single,A
+c41e6817-ab7a-4208-aa4b-d89da0668ac9,Medicine,clinical,single,C
+c434a6cb-2867-4c28-a032-a0fc2bba700a,Pathology,para-clinical,multi,C
+c4974a2c-e10b-435c-853c-e2845ea034f5,Surgery,clinical,multi,C
+c4bcd30a-daa7-4da1-9316-83c2cbb64532,Physiology,pre-clinical,single,C
+c4c1684b-c60c-47ae-a4d1-ad6c1c633be3,Dental,dental,single,B
+c4c72573-bba7-4544-8e80-7bf4fe8d0f2d,ENT,clinical,multi,C
+c4caf8e5-f647-49b9-8e91-b5f18d3c24e5,Dental,dental,single,B
+c4dcbe78-cfc2-4499-a2f1-73e18d4e8cab,Surgery,clinical,single,C
+c5040490-158b-4b0c-9d6d-5c9db9e5935d,Pathology,para-clinical,single,A
+c50595f4-3310-4c33-840e-2e06dbf4ea50,Dental,dental,single,C
+c52f3d8b-9255-4eb2-a6b8-dffc3d149662,Pathology,para-clinical,single,A
+c54dfaa1-6f96-4b0a-8b63-bfbbbbbb3a3c,Pathology,para-clinical,single,B
+c57fffae-d994-4330-aece-6019507ac1c0,Pathology,para-clinical,single,B
+c5b472d1-468e-437e-97fc-9b1c2411af53,Dental,dental,single,A
+c5bc52bf-c316-48d2-9c03-ed4ac17338ab,Gynaecology & Obstetrics,clinical,single,B
+c5ca31d6-b2b8-4ff5-b2ee-637e216bbec0,Pathology,para-clinical,single,A
+c5cb18f5-77e4-443a-820e-5c5759aa5439,Pediatrics,clinical,multi,B
+c5d41fc0-2e6a-4348-848e-5dabfa570178,Gynaecology & Obstetrics,clinical,multi,C
+c5e9dc1a-58ce-4be0-81bc-cb909c312257,Pathology,para-clinical,single,A
+c605ec0d-1c44-4ac9-a57d-df54ba52bb0e,Gynaecology & Obstetrics,clinical,multi,A
+c638cfdd-4eb0-49ad-8580-fe9ba51118ef,Surgery,clinical,single,C
+c6513329-2d6b-4919-9b30-3b5ae5977f52,Pharmacology,para-clinical,multi,B
+c67981e0-4b43-491d-b690-a58a5d46fc7f,Dental,dental,single,A
+c685b3d6-fb2e-4ca5-9fb2-a5b217cff79b,Pathology,para-clinical,single,D
+c68dea51-2e4e-4276-89b2-30b2337be400,Dental,dental,single,A
+c6a12e46-d354-43bf-9230-6fe2fb96feab,Surgery,clinical,multi,C
+c6da06a8-62d4-49b1-9bce-e4584bbadc62,Pediatrics,clinical,single,A
+c6f28135-76b7-4762-bd13-839b1592e3d3,Anatomy,pre-clinical,multi,D
+c6f3ec1d-e3d8-4677-a31d-8a6450e9e5de,Medicine,clinical,single,A
+c6f6754f-21ac-49d0-b8cd-8bf25049d813,Orthopaedics,clinical,single,B
+c70d078e-2a95-4779-b8d5-6050a5b58394,Pharmacology,para-clinical,single,C
+c740e921-43fe-426e-848b-1d918f8424a7,Dental,dental,single,A
+c7c6b68a-31a2-4598-8adb-f8fb86083bdf,Pharmacology,para-clinical,multi,D
+c7ca32ca-6eb7-4d57-b2b5-9ddbd6d14d89,Dental,dental,single,A
+c7d3b43e-bcf6-4d61-bca9-552c07da0d6f,Pediatrics,clinical,multi,D
+c7dddaf3-1c36-425d-8208-07125d469486,Anatomy,pre-clinical,single,A
+c7f81422-57d3-4a31-ae96-83ca3f999334,Ophthalmology,clinical,single,B
+c8061a66-f213-4e01-8496-819313264e2d,Dental,dental,single,C
+c81737c5-c5eb-4b37-94c9-492808675a80,Dental,dental,multi,C
+c836b9a4-0181-424c-a961-88278c54eceb,Dental,dental,multi,D
+c87fcef2-1b7d-44e2-85c0-618b956f675e,Medicine,clinical,multi,C
+c8c58b43-3a44-4e38-a6b3-245af1dcf2ab,Pharmacology,para-clinical,multi,B
+c8d2885b-1529-4575-abcd-b8afdfb64512,Skin,clinical,single,C
+c8f62b0d-908c-494c-9ccf-90297f3647a6,Pharmacology,para-clinical,single,B
+c8f8d5ab-7894-42c8-99fd-87a0d20a7307,Dental,dental,single,C
+c953149a-a76d-47a2-8d08-35614f87217a,Medicine,clinical,single,D
+c9aa8c5b-b009-4c7e-a8d4-05cf46db9282,Anaesthesia,clinical,single,D
+c9b1f63c-3d20-4494-a936-268e426d0c73,Dental,dental,single,A
+c9b3f6a9-ec49-4339-a06d-f7cf29e46c2d,Dental,dental,multi,A
+c9c266bf-134a-477c-a88a-02f41cb10f46,Surgery,clinical,multi,D
+c9cba9dd-2aa1-4cb0-b01e-18bc141940c3,Dental,dental,single,A
+ca0d1703-5a38-474d-bb6b-d6f69f7a7db6,Ophthalmology,clinical,single,B
+ca191087-1d29-41a5-bf8b-0bae2acebae3,Surgery,clinical,single,A
+ca32e45e-0aa2-4340-beb5-8069626c445e,Dental,dental,single,C
+ca34b209-b2de-4643-b1a6-a2e8b7c3e356,Radiology,clinical,single,B
+ca49d5c3-9678-4b4f-b10d-4021802c636d,Microbiology,para-clinical,multi,A
+ca4a3fbe-1441-4f97-84d8-568aa04c4fa8,Biochemistry,pre-clinical,multi,A
+ca59647e-62f5-4b2e-a0fd-e85f05af60c4,Gynaecology & Obstetrics,clinical,single,B
+ca791c44-cb0a-4d17-b6bb-11b32ccb3fbe,Surgery,clinical,multi,B
+cab5a741-ed81-4223-8028-27cfb4433122,Dental,dental,multi,D
+cabc161c-6c39-4421-8e7a-7ff15d425117,Anatomy,pre-clinical,single,C
+cac444fd-aa7a-4b1d-9940-826b0a6af137,Dental,dental,single,A
+caec1fed-b5cf-4aa1-98bd-0c0806992f06,Physiology,pre-clinical,single,A
+cafc0a38-bb29-4271-a180-95433a85392c,Pharmacology,para-clinical,single,A
+cb022556-5a47-402a-b52c-725b6c314e83,Pharmacology,para-clinical,single,C
+cb22bfd6-e7d0-4944-8677-45b1a3d35c21,Microbiology,para-clinical,multi,B
+cb562414-2015-43ec-88f7-78a52605b511,Pharmacology,para-clinical,single,D
+cb6588a7-e4ef-4670-b6aa-7eae297fb443,Gynaecology & Obstetrics,clinical,single,C
+cb67fe1b-fdf5-4478-b16b-7c0fdf4be59b,Dental,dental,single,A
+cb8ad6b2-009b-443e-9237-85b46e3a87a5,Surgery,clinical,single,D
+cb8ea9a3-b993-4d69-a1e2-aa031b0bdb11,Dental,dental,single,A
+cba8ecbe-b35e-4974-bb5b-5a109d0b160d,Biochemistry,pre-clinical,multi,D
+cbe3d8a4-b91d-45f7-b04f-238825eec503,Anatomy,pre-clinical,single,B
+cbed1f88-337c-4896-b58b-daa523d9baf0,Pharmacology,para-clinical,multi,D
+cc0d09f8-564d-4fe5-8b22-4b7d3e4ed586,Ophthalmology,clinical,single,D
+cc1da36a-147f-4b74-9015-b7640ebb7ead,Medicine,clinical,single,D
+cc64f500-28ff-4757-9bef-65e53ea5685f,Medicine,clinical,multi,B
+cc65668e-675f-4422-a28f-96df292dc630,Skin,clinical,multi,D
+cc760ada-b0cd-4eb9-9273-2e25c1852a54,Pathology,para-clinical,single,B
+cc879c0d-5bf0-407c-bbb6-a0a1332e04e1,Surgery,clinical,multi,D
+cc9a8448-c6e4-4a67-b2b5-153205840089,Surgery,clinical,multi,D
+ccaa5421-7958-40bb-ac48-a08641e7e13c,Surgery,clinical,single,A
+ccca9015-2ce5-40cf-bed4-187f9428d984,Orthopaedics,clinical,single,C
+ccf42c4f-0647-43d9-a5e5-0620d871de97,Pharmacology,para-clinical,multi,B
+cd0df6a2-1e8f-41e9-8304-1b8742ea993d,Medicine,clinical,single,B
+cd0edc92-8fb3-4f97-b0ce-d74446009179,Forensic Medicine,para-clinical,multi,A
+cd1492ba-bd0d-40cd-bf55-cf385b2d2782,Gynaecology & Obstetrics,clinical,single,D
+cd26e28e-1b7b-4873-8031-d69f1b75a277,Pediatrics,clinical,multi,A
+cd385d3e-f948-4dbf-bccb-3e67436a580b,Pathology,para-clinical,single,B
+cd810094-0eba-482e-b598-78e7470bd340,Pediatrics,clinical,multi,A
+cda050a3-e395-412f-8291-6159a9b67cb4,Dental,dental,single,C
+cda9b8dd-1c5b-4b7d-b08c-8e959ab72415,Gynaecology & Obstetrics,clinical,multi,B
+cdde9a2f-73a4-4fc8-81e5-c6b3768ae717,Dental,dental,single,C
+ce05eb3a-dc89-4e3c-bc3d-859a9922e9f0,Radiology,clinical,single,C
+ce105c22-1b50-4921-8dc6-da85a4000133,Surgery,clinical,multi,D
+ce25cfa6-0524-4cfc-889b-a17312f2642b,Pharmacology,para-clinical,single,A
+ce3daa75-37fc-41ba-b0ea-80182c3f9e5b,Surgery,clinical,multi,A
+ce41e98c-3f43-4c6a-9dbb-74c77dc10584,Anatomy,pre-clinical,single,B
+ce496f69-f41a-4589-9da2-c8bdb4a87226,Dental,dental,multi,B
+ce4bf55c-99a1-41a9-9107-cdab91e7e11b,Dental,dental,single,B
+ce7d3beb-17f5-416a-9584-6fdf807f4d99,Skin,clinical,multi,D
+ceaefd37-4bad-48ef-a750-ff288990c99d,Anatomy,pre-clinical,single,C
+ced0e6e7-048a-467e-aa7e-e10def9ebb5e,Microbiology,para-clinical,single,B
+ced932ec-06de-41fd-96f4-4efd3746eb21,Pathology,para-clinical,single,D
+cef58dc3-f340-4f76-909d-8f9fb4866e29,Orthopaedics,clinical,single,B
+cf03b2b0-0dda-490a-b811-145c4b30f113,Dental,dental,single,C
+cf3f103b-e4d8-4f34-86aa-b69f3b31fe55,Biochemistry,pre-clinical,single,C
+cf442471-776c-434b-8186-a07315839c06,Dental,dental,single,A
+cf45037e-e487-43c9-aac6-203387a25b55,Dental,dental,multi,A
+cf86437d-6450-4196-9f54-8f69c84e89ba,Dental,dental,single,C
+cf8e8909-c78e-4f68-b79b-ba07123468bf,Dental,dental,single,B
+cf8f9c7e-0fd4-4d09-8638-0b61f05a55a1,Pediatrics,clinical,single,A
+cf9116f0-d344-4b8d-b010-050ac77a8dd1,Gynaecology & Obstetrics,clinical,single,A
+cf9b1f6c-4594-4cc8-94bb-3b1c10be80f9,Dental,dental,single,A
+cfa28a58-dd1f-4852-b34f-d150a9fd9011,Forensic Medicine,para-clinical,multi,D
+cfc6ba19-4de9-43a1-9b88-38fb85f56ac5,Dental,dental,multi,C
+cfff846f-f37f-4866-9a45-7f903b5e80fe,Pediatrics,clinical,single,A
+d006aa96-3d16-47be-9bdf-f70ea2827b66,Dental,dental,multi,D
+d015dc8c-7306-41b3-9db5-60973de1697c,Anatomy,pre-clinical,single,B
+d052235a-dcdc-46e0-89e5-992eed6dc580,Medicine,clinical,multi,B
+d061fd99-52bd-470b-a2c6-09b66b66cc8b,Dental,dental,single,D
+d0697a02-3e59-40a9-a2e4-8fae8ebf5e9b,Medicine,clinical,multi,C
+d0b07125-fc73-4874-9663-29e54ed5413a,Pediatrics,clinical,multi,C
+d0b610ce-0221-413d-8d59-aca1b5a1a254,Pathology,para-clinical,single,A
+d0bb44e4-6d29-4b19-8046-c47c28b48bc5,Dental,dental,single,A
+d0de8433-05e9-4391-ad03-5b228436ccd5,Biochemistry,pre-clinical,single,C
+d0e62648-4f9f-497a-be1a-a6ee1295704c,Dental,dental,single,B
+d1172f42-7798-412a-9097-fce4ccea0db1,Pathology,para-clinical,single,B
+d13f2a21-04e2-4c68-9f60-d02262a7ab55,Anatomy,pre-clinical,multi,A
+d17b270d-86c3-4b7d-ad1b-d1175e0b406a,Gynaecology & Obstetrics,clinical,single,A
+d181cc7f-0491-4d80-9e53-81c1a87619eb,Medicine,clinical,multi,A
+d18484d7-55a9-4be3-9ba6-59cdd44d1bdf,Dental,dental,multi,B
+d1872344-cb7a-4782-820e-6ea25a23ac9a,Gynaecology & Obstetrics,clinical,single,B
+d190d5c8-74f3-46fa-afd1-4ff1f830f1c2,Medicine,clinical,multi,D
+d1ba41d0-9b08-4fd4-a4fa-22315c0e8ceb,Surgery,clinical,multi,A
+d1bdce43-2f6d-47ee-9957-2bff4b27d2ce,Gynaecology & Obstetrics,clinical,single,D
+d1d3d999-2032-48cf-87c7-5bcd25acb18b,Pharmacology,para-clinical,multi,B
+d1ef23c9-e756-4ae2-a91c-992fa658c4c3,ENT,clinical,single,A
+d239a8a4-bc54-453e-805f-068d00381a1b,Anatomy,pre-clinical,multi,D
+d26dbe83-6baf-4be0-bbcc-13285d6e6079,Surgery,clinical,single,B
+d29bcd44-fb81-4521-8d9d-9f2e0bfd9a87,Surgery,clinical,single,B
+d2a908d2-59df-4591-9a9c-1212a0ce7347,Forensic Medicine,para-clinical,single,C
+d2aaf9d3-3ec9-450c-94cd-7df423fe49e8,Gynaecology & Obstetrics,clinical,multi,D
+d2b006ba-21fa-4ec8-bcda-760d55e8b326,Dental,dental,single,A
+d2b086eb-138b-4104-b30c-7e54f00b0d1c,Dental,dental,single,B
+d2b3831a-7ab7-4586-96ed-54d88b39d5f5,Pharmacology,para-clinical,multi,B
+d2da473a-f6b7-4c15-a5e2-5a4b4bd1cc8f,Pathology,para-clinical,multi,C
+d2f3fa53-c024-4179-bf34-169fd7b99fc9,Pathology,para-clinical,single,D
+d30810ac-71e2-4a3b-be2f-f8b29b0f1055,Surgery,clinical,multi,D
+d321d320-c06f-4d18-9aa2-dae718851dfd,Dental,dental,single,C
+d3298813-ec9f-4fb0-8f6d-be5d39543480,Dental,dental,single,C
+d3610034-9a33-48ef-ac6e-5fb36e22f076,Pediatrics,clinical,single,C
+d3629a0f-c519-46c6-bb27-a33adc0ac0fc,Dental,dental,single,B
+d3709637-27e6-4481-9617-103d7ef63048,Pediatrics,clinical,multi,C
+d384e3c5-1ec0-4c7d-b7c2-ec9fd223f3e3,Dental,dental,multi,A
+d3b541c9-d300-4ced-9a2c-c64eaa672ff0,Pediatrics,clinical,single,B
+d3bf387c-5f9e-4786-a300-ddf2c843b194,Dental,dental,single,A
+d3d896df-5856-43da-9baa-4f4ddaefde74,Pharmacology,para-clinical,single,A
+d4208506-5d94-4956-8af6-8dd7c471ae8b,Medicine,clinical,single,C
+d4549997-d19b-48eb-bd9a-aa3c29c82dec,Pathology,para-clinical,multi,D
+d462a540-afc7-4f6a-a396-daddb1b5c3ef,Dental,dental,single,D
+d49f81a6-24c9-40e0-952f-8ff63eb6947d,Dental,dental,single,D
+d4a07671-8036-4d23-9aed-b13b7e8b99b5,Surgery,clinical,multi,C
+d4c25e5f-165a-4a64-a006-77ecc0ff93b6,Dental,dental,multi,C
+d4c4bf0d-08ef-47e6-b8e2-e530082fa63a,Ophthalmology,clinical,single,D
+d4e13d7b-8ca9-447e-b93d-e8b86afd017a,Dental,dental,single,C
+d4f6fc8c-f415-4619-9831-8da71140bbac,Dental,dental,single,B
+d5000ccc-0147-494e-a835-4104cf75bfb9,Surgery,clinical,single,B
+d50419e1-2a30-4eee-bc64-d8ed11d958cb,Pediatrics,clinical,single,C
+d54441de-71d8-45b6-9a0a-b394581af745,Pediatrics,clinical,multi,C
+d58a8e4e-0f5e-42bb-8b24-75a882eacfa2,Ophthalmology,clinical,single,A
+d5a0c042-97e7-47a6-b4aa-e3900f02c511,Dental,dental,multi,B
+d5b9b2b3-09f3-41b8-89a1-232e7c61b806,Dental,dental,single,A
+d5d4cd74-e0f0-4e39-bc84-cc7551c627bd,Medicine,clinical,single,D
+d5fc68b9-e8d6-4ddf-8581-03e75a01fdea,Pediatrics,clinical,multi,D
+d6094ebe-a5b0-49fe-8443-6d9eeabff0fb,Pathology,para-clinical,single,C
+d60d9642-e4b5-4c01-b004-4422e0fb084e,Surgery,clinical,single,D
+d66af6e8-2849-4a0d-a98c-a3a0942bbce3,Pediatrics,clinical,multi,D
+d67604c2-e273-417d-9c60-e10508104102,Dental,dental,multi,D
+d6a26b98-72cd-4b9a-9f77-6bf6941d07ec,Medicine,clinical,multi,C
+d6a8de08-5a4c-404b-8622-217e17e5751b,Medicine,clinical,single,B
+d6e82b03-66cb-479a-950a-3f75ab8e99d6,Pediatrics,clinical,multi,B
+d70bc405-92bf-4118-8ea8-70b2ee771de7,Physiology,pre-clinical,multi,B
+d73fd51d-04c8-44c3-a4af-6b1cf3c3d88c,Pharmacology,para-clinical,single,B
+d75dc767-c74f-4b3d-a2bd-f5e6c082e497,Orthopaedics,clinical,single,C
+d77c2d88-dbf2-4ea8-b291-013567c11326,Dental,dental,single,B
+d78f3997-44bd-4b80-acd5-ac1b36c33cf2,Dental,dental,single,B
+d79a6a3c-0b37-4f9f-aeb9-483298fdb4e2,Dental,dental,single,C
+d7f6905a-377d-4fa0-a5a5-d7f5c8d8ac4f,Radiology,clinical,single,A
+d810c51c-b15e-40e7-9d7c-2eff29038877,Anatomy,pre-clinical,single,D
+d8458f0b-fe46-465b-9f9d-85ff2379f6e1,Dental,dental,single,B
+d84a0b3e-1f4c-4c23-a0a1-811a66c6bdbd,Surgery,clinical,single,B
+d89b269b-52d2-4f8a-b9b3-9e5727a05aea,Pediatrics,clinical,single,C
+d8a284c5-175a-4439-8ef2-5ff24b41f3cc,Microbiology,para-clinical,single,B
+d8ae56a0-ea28-4047-9387-b0d1cf376fc4,Medicine,clinical,single,D
+d8b1befc-377a-4e40-aef2-3bca58710670,ENT,clinical,multi,B
+d8b70d4b-8a90-4739-b18a-33c1d42b9708,Social & Preventive Medicine,para-clinical,multi,A
+d8c8d387-cac9-4633-b85c-9fd5f0aa2dd2,Surgery,clinical,single,C
+d8d4dc47-e669-4f12-a089-b1a362fc0c51,Dental,dental,single,A
+d8e3d7c2-cf2f-4dad-a3ad-50352f228de4,Dental,dental,multi,C
+d8f1b1c9-0dee-4d4b-9ab1-d0380a4e2502,Dental,dental,single,B
+d947e9b8-6731-4b40-bbf5-9417c24dda50,Physiology,pre-clinical,single,B
+d958d68a-5fb2-4e85-bbb3-fda0acb43676,Dental,dental,single,D
+d96e31f1-b13f-4127-bc59-7e3147a02ab7,Dental,dental,multi,B
+d9801e88-03ce-46a5-87fe-fa3d8b61fadf,Pharmacology,para-clinical,single,C
+d98f10a4-8b10-44bd-8160-ec5719d2f4c1,Physiology,pre-clinical,single,B
+d9a72083-4c81-425f-b551-6ecc6a63d5b5,Pathology,para-clinical,single,C
+d9a9d98d-f893-44af-8829-7f52e96b8689,Dental,dental,single,D
+d9c876f6-673e-4ef8-8b2b-ec8a5d6c9d63,Surgery,clinical,multi,B
+d9f1b19f-12f5-467d-a831-ba3d9020d230,Gynaecology & Obstetrics,clinical,single,A
+da131385-8cb4-4fbe-8f90-8ae12467eadd,Social & Preventive Medicine,para-clinical,single,A
+da143133-e8d3-44d6-a66d-607ed0bcf458,Pathology,para-clinical,single,D
+da2078b0-6ce5-4ba3-82f2-7b145665be2b,ENT,clinical,multi,A
+da529e73-61fe-4b52-81b1-8686b6a62ffd,Ophthalmology,clinical,single,C
+da70d380-7647-4452-8dbb-ade1663b6d5b,Physiology,pre-clinical,single,D
+da743fb8-1db4-4fee-9e20-351d78dc60c9,Pediatrics,clinical,single,A
+da79693f-973b-4bcf-8b42-3f5f8ccf46f1,Dental,dental,single,C
+da7efe1f-026d-45b7-8c81-dcd812fd5b70,Biochemistry,pre-clinical,single,D
+da80560b-dc14-4a57-ba81-cee414172692,Dental,dental,multi,C
+da85e1d0-fb34-41b9-85a8-b21192940c58,Anatomy,pre-clinical,single,C
+da870fc7-dc2a-4585-8059-bf3bc5d323a7,Dental,dental,multi,C
+da87ee9b-12fc-4091-809b-0c2bb31a6307,Dental,dental,single,C
+da90c329-6f04-4f98-a593-097e7688c042,Surgery,clinical,single,D
+da9ed7ba-2935-4d4c-a9f5-2f4205c1eb00,Biochemistry,pre-clinical,single,B
+dabfee93-2e1b-4e6c-bff6-03c025bd986f,Pathology,para-clinical,single,D
+dac44c4d-224b-489e-a7f7-72879f6c4c70,Dental,dental,single,C
+dac67e00-7708-4533-a6da-38c259fe8403,Orthopaedics,clinical,single,D
+daddcf25-312b-4f87-a88a-e2c2985d8502,Gynaecology & Obstetrics,clinical,single,D
+db180b6d-8b4e-487e-a47d-7c554c8dad2e,Dental,dental,single,C
+db2562a5-ebac-4c80-a00f-81fe10073c96,Pathology,para-clinical,single,A
+db26ae0d-84ba-41a5-be53-94723de58182,Gynaecology & Obstetrics,clinical,multi,C
+db415125-a13c-4e21-80fe-b3034ad74f44,Dental,dental,multi,C
+db465e84-d92a-49f2-a5f9-3c0c771aa507,Microbiology,para-clinical,single,B
+db481d43-eaa9-45e9-8e23-4416d4894eb4,Medicine,clinical,single,B
+db529a12-e737-4028-ab55-43f4e97fa109,Medicine,clinical,single,D
+dbd24ee5-8032-4316-9330-fe831f819c40,Radiology,clinical,single,A
+dbd53f8c-f995-46d5-93fc-350207f988ec,Medicine,clinical,single,C
+dbd6efef-b527-48fe-86f3-2f0f6b861718,Dental,dental,single,D
+dbf438a0-20c0-4eb7-a94a-f337ffabf5af,Microbiology,para-clinical,multi,B
+dc020962-d8a1-4790-b268-c6dadb000137,Pediatrics,clinical,multi,B
+dc1b8f32-3a71-4533-9e99-896ba280e5cf,Medicine,clinical,single,B
+dc248bc1-20c6-4aca-a7db-3642df59fe8a,Pathology,para-clinical,single,B
+dc3b4878-5fcb-4cd0-b31d-594a5320655a,Pharmacology,para-clinical,single,B
+dc4743ee-bf49-4474-a05e-b8363f4089e6,Dental,dental,single,A
+dc531f41-5306-431e-b925-b56c77261c5b,Dental,dental,single,D
+dc8d9432-3981-45b5-b559-6cfaccb013f4,Dental,dental,multi,C
+dc8f8f08-ca45-4ad5-ad3f-278eb9e2bd49,Dental,dental,single,A
+dc918205-fb3a-42a9-805e-ec2c3e1c7352,Surgery,clinical,single,C
+dc918d5f-2451-47cb-9b33-25b5eb96cab0,Anatomy,pre-clinical,single,A
+dc99feed-a4eb-42de-84bb-f86f4f1812ac,Dental,dental,single,A
+dcbeb089-e4f1-4a0b-8216-83dd42c7ec6d,Dental,dental,multi,A
+dcda3f1a-0ff7-411e-9a61-fa2b6cb8f3c3,Social & Preventive Medicine,para-clinical,single,D
+dcded707-a751-431c-bba8-9b04446cc735,Physiology,pre-clinical,single,C
+dce755d7-6fd9-4ec6-b136-74ead349da24,Dental,dental,single,D
+dcf755f4-a047-4777-b656-544752fb83d7,Surgery,clinical,single,B
+dd09ae12-8526-4766-bb41-af82b17c706f,Surgery,clinical,single,A
+dd531b88-f112-40c4-beef-e736469cdd91,Anatomy,pre-clinical,multi,C
+dd6f308c-9900-47f6-b41b-978022bb7700,Pediatrics,clinical,multi,B
+dd835fff-6a22-4d99-8d97-6d3524548997,Dental,dental,single,C
+dd8ed71b-5a18-4683-a64f-6187c82c94ed,Social & Preventive Medicine,para-clinical,single,D
+dda876e4-c6ba-4136-bf0c-cc5dac90a7a4,Surgery,clinical,single,A
+ddbbe993-0717-40b7-8f55-a75d4de40a81,Pediatrics,clinical,multi,A
+ddce2d66-dfaa-4e23-99be-8bec0fa85bbd,Dental,dental,single,A
+ddd74ca8-115f-444b-a754-28567fb618b1,Pediatrics,clinical,single,B
+dde225f7-adf4-41e8-afe5-f12ab7801578,Radiology,clinical,single,C
+ddf70117-84c0-4fe8-a4f4-143205abf2c9,Radiology,clinical,single,A
+ddfb969f-c3fb-4038-ab8d-aac072f365bb,Dental,dental,single,B
+de06c967-1c49-42ad-a5bb-ddaf1f0a9e59,Pharmacology,para-clinical,single,B
+de09d388-bd4e-42a9-ac6b-ee2d95f822e2,Pediatrics,clinical,multi,B
+de1065e8-37ba-4b6b-a05d-f967fdf76f58,Microbiology,para-clinical,multi,A
+de4374af-70ba-41e4-b46a-5159e73a690e,Dental,dental,single,D
+de58aa91-9cd1-419b-b56b-978ced5335f9,Biochemistry,pre-clinical,multi,D
+dea59f76-e4ae-491a-a2e7-62563ab83040,Medicine,clinical,single,C
+deb040bd-9d07-444c-bae9-ae2b1c309ea5,Biochemistry,pre-clinical,multi,A
+dee8c0a8-bcc0-4f67-815f-4a7b1c0963bc,Dental,dental,multi,D
+def993c5-605f-48c5-afb4-01a6f29fcc73,Pathology,para-clinical,single,D
+defe1c85-63fe-4a16-ba10-b3749975818a,Anatomy,pre-clinical,single,A
+df2ef092-eea9-4d62-8fec-e708d7b1dcf1,Medicine,clinical,multi,A
+df4548bb-09a0-4e3c-bb29-843a92365e59,Dental,dental,single,D
+df7841aa-3651-4339-bcb8-c725cb6cc2eb,Dental,dental,single,D
+df8ae3bc-aef6-48d0-8033-d715cfe36b3d,Microbiology,para-clinical,single,B
+dfb6dc4a-a4ac-4270-8bf2-807e6efead3a,Gynaecology & Obstetrics,clinical,single,B
+dfd6bf3b-b4c4-48c9-87aa-4532fa309157,Medicine,clinical,single,D
+dfdb6250-ea23-4154-b381-ff16ea720fb8,Physiology,pre-clinical,single,B
+dfe219a6-198c-476c-9d38-195856bc9b00,Dental,dental,single,B
+dff05507-4258-4cee-97a0-0327dd30b57f,Medicine,clinical,single,C
+e0120b3c-b9c7-4167-a9e7-b07b767d14d3,Gynaecology & Obstetrics,clinical,single,B
+e039fc9c-d96d-44e0-9933-b4c4d87bed58,Surgery,clinical,single,C
+e03a6d53-0c8b-4bf7-9710-c19083bcb018,Pathology,para-clinical,single,A
+e05a465a-5c90-4c80-afda-56d0e6070792,Dental,dental,multi,A
+e068fa99-4331-4dbd-b6f8-ae387f5bae10,Microbiology,para-clinical,single,D
+e0952660-983f-4990-a8c6-d6b6bc19aca3,Dental,dental,single,A
+e0c3fa32-b170-46e4-a748-9965e38ca3a9,Dental,dental,single,C
+e0d991de-46ba-4a28-9f2d-788c2e1f9af5,Dental,dental,single,B
+e0ea5246-43ba-48c4-a316-7e93709f39ae,Surgery,clinical,single,D
+e0f9e4af-3c3f-49d3-a19a-f8b884951de6,Anaesthesia,clinical,single,D
+e12d833f-2b7c-44e6-b395-70341c49eb5a,Social & Preventive Medicine,para-clinical,multi,C
+e1463062-cae7-4994-8ab7-8ccaf975cdc6,Pharmacology,para-clinical,single,B
+e15bd12a-6b91-40be-a531-eef51948125d,Radiology,clinical,single,A
+e16742f8-aa56-4a27-9d8d-b7643e5f27c5,Pediatrics,clinical,multi,C
+e17d01d1-5fff-4b7c-b54f-c607da6a8a64,Dental,dental,single,A
+e192d2c5-03ce-4e51-a043-89a27a3144ce,Anatomy,pre-clinical,multi,D
+e1e575e9-3c85-4c16-86ad-29f6ea41c627,Pharmacology,para-clinical,single,C
+e1eb342e-fe1e-49b1-a9d7-f8400b419aa6,Dental,dental,multi,A
+e21be124-85de-4313-bc26-ff82218fce73,Dental,dental,single,A
+e226f4d8-7809-47e1-bc8c-9fcde2c6010d,Pathology,para-clinical,multi,C
+e22738ff-f770-4eed-a79e-19f5156b9ff7,Pharmacology,para-clinical,single,A
+e261b9d5-6417-4f0e-968d-91fb3dab67e8,Dental,dental,single,A
+e262d5f1-129a-4aa9-9c08-5b875b97ebb6,Physiology,pre-clinical,single,B
+e2784a8a-04af-4ced-8bf8-e6c496245df2,Pharmacology,para-clinical,single,B
+e2883c94-00e1-42ef-b2c6-c1e3e9011038,Anatomy,pre-clinical,multi,D
+e28c04ac-2003-4fa1-8b5c-7f36776cfa8a,Surgery,clinical,multi,D
+e2ae0a47-f237-4f8f-9dff-5395798420e1,Surgery,clinical,single,A
+e2d6c3f1-935e-44e1-a701-8b3ec2447ff7,Gynaecology & Obstetrics,clinical,multi,D
+e2dd93d8-8047-4e9a-9389-e2b1781f8a35,Surgery,clinical,single,B
+e2f38ab5-2ae2-495b-81a6-6973e7f5c793,Dental,dental,multi,C
+e2f9aeea-209b-421d-b69a-30930176b3cb,Surgery,clinical,multi,A
+e321f1c5-710f-47d9-9632-b2a45152ea9d,Surgery,clinical,single,A
+e33bb7f2-0c6f-4a5f-ae9d-ad515eae02c5,Dental,dental,multi,D
+e33fee37-ca36-4d99-887d-2349c1beb5c1,Ophthalmology,clinical,single,D
+e342fc89-9875-4188-9009-b9065fdf5b9c,Dental,dental,single,B
+e34449dd-8f30-4260-8771-5d70d578a83c,Gynaecology & Obstetrics,clinical,multi,A
+e367bed7-6413-438a-94c7-bf4a3d7b4f4b,Medicine,clinical,multi,A
+e3782486-d6bf-4ef2-8830-5cdfdcacb020,Radiology,clinical,single,C
+e37f2652-5ce3-4373-88b7-e78460690f57,Medicine,clinical,multi,C
+e38402c3-69bf-40a8-90c4-09277ca352eb,Dental,dental,single,D
+e3840b78-8e45-4c14-83da-2a1ed7178d7e,Dental,dental,single,C
+e3b61d23-b64b-4b3e-86a8-5b0c08cfd375,Medicine,clinical,single,A
+e3c9cee9-73c5-4a89-8633-7ddcdc6adde9,Pathology,para-clinical,multi,A
+e3d7bd81-ad55-4017-8c33-b8fecae9dab2,Microbiology,para-clinical,single,A
+e4281c68-9e8b-4802-9c1d-edf0de6c7195,Pathology,para-clinical,single,D
+e4377e93-c827-4b44-80ed-4faaed4ba750,Dental,dental,multi,A
+e4443b0c-20d3-464c-800b-b1ffe606f65d,Medicine,clinical,single,A
+e448b7f6-af8c-4683-8b76-ec282a126797,Pediatrics,clinical,multi,C
+e45de5c9-41f3-4aed-a77a-9a1cc3ee63db,Gynaecology & Obstetrics,clinical,single,B
+e45de692-f95a-4443-8eda-0fbe5b2626a9,Anatomy,pre-clinical,single,B
+e45edfb9-2b6f-4ffb-9d2e-82ee6504cba5,Anatomy,pre-clinical,single,D
+e4610f09-b587-47c8-99ff-c8967f481322,Dental,dental,single,B
+e46fcce2-0a8b-4d37-9e84-ac6f7c227480,Dental,dental,multi,A
+e4749151-5d65-4cf3-b663-67e75d1da084,Microbiology,para-clinical,multi,D
+e48eccc3-3935-4cdc-90a7-4aebfaa3e76e,Forensic Medicine,para-clinical,multi,A
+e4927cf9-d5c2-4d7e-ab5b-7429e206275e,Microbiology,para-clinical,multi,C
+e4d56110-a077-483b-a4c3-8f6665e999c3,Pediatrics,clinical,single,C
+e4e4f249-397f-4edb-b3c2-ff0220ef3092,Pediatrics,clinical,single,B
+e4ec572a-e21c-4cf9-96ad-1a750336f1c9,Pathology,para-clinical,single,D
+e4f88c41-94bc-4c7e-ab06-3838045c7fab,Pharmacology,para-clinical,single,C
+e50e85d8-896e-4500-a39a-8633831bcdfe,Pathology,para-clinical,multi,A
+e536d0d8-52e5-4881-b33e-23907a9a3034,Radiology,clinical,single,C
+e55a3e73-a1dc-4355-90f1-34d9f717a6ee,Surgery,clinical,multi,D
+e5738b76-f11a-4599-9a5d-479116b993c1,Pharmacology,para-clinical,single,B
+e59188f6-856a-4300-a2fa-176a8a1b030a,Medicine,clinical,single,D
+e59d484d-0bf8-4440-9a83-29c6521a2d6d,Physiology,pre-clinical,single,D
+e5e1f694-5bce-4ea7-8d47-b629076533e1,Gynaecology & Obstetrics,clinical,single,C
+e5e8e766-7a60-497c-80f9-842c60f4e1a4,Gynaecology & Obstetrics,clinical,single,A
+e60f51ab-3827-4ddd-9649-a6d601b9682c,Anatomy,pre-clinical,single,A
+e62b12e5-0a92-44d3-95b0-33bbf59bd891,Biochemistry,pre-clinical,single,D
+e6478418-d6bb-47d3-b31c-a19b3a149a6c,Pediatrics,clinical,multi,C
+e64ec07c-6504-4850-a780-307ca9bb1a5e,Pathology,para-clinical,multi,A
+e665f692-489d-449b-b692-dbbf55dd018e,Pathology,para-clinical,single,D
+e6972a14-563b-47df-b6f4-ceb004b37b95,Dental,dental,multi,A
+e69b4af9-37f2-4406-b962-bf7ebe20bc01,Surgery,clinical,multi,A
+e6ba5355-f5fe-4095-9b21-1bf140122c8f,Pediatrics,clinical,multi,A
+e6f8340c-044a-4f5a-b6a1-690661d47a22,Dental,dental,single,B
+e70b5eab-a54e-49a7-a8ca-0d226e856a54,Dental,dental,single,D
+e7173db8-8f12-46b3-a2e8-86eaa2574855,Medicine,clinical,single,B
+e71cfa3d-6587-429f-8fa8-24cdd6e686d1,Dental,dental,multi,B
+e7278113-c555-4128-a8df-cbd10ca7833f,Pharmacology,para-clinical,single,C
+e737ad44-e48a-4f53-8077-79b181818e5f,Physiology,pre-clinical,single,D
+e742171b-eafc-4b8c-95e0-024b36b166b4,Dental,dental,single,B
+e750cd52-447e-4ae7-9948-156375e177bb,Radiology,clinical,multi,A
+e76e4afb-db7c-4a0e-99bd-1be821e11adf,Dental,dental,single,A
+e7b48941-5b2f-44c8-b52d-174c1ef47eec,Dental,dental,multi,A
+e7c38fa0-1301-44a8-a1b2-825d59afb25a,Dental,dental,multi,D
+e7c84e8c-d3a6-4bb4-bc34-ad35687338b2,Pharmacology,para-clinical,single,B
+e7f023ea-2147-47d3-9f2a-61fb60a900be,Pharmacology,para-clinical,single,A
+e7fa6148-7a14-4133-a1d3-c443b970c349,Dental,dental,single,C
+e803c024-5cd2-48f7-a3d1-c72f5e1563a6,Physiology,pre-clinical,single,C
+e8109ada-ec65-4e42-ad7f-588f47d7c8d8,Dental,dental,single,B
+e81f9080-63a6-4b59-88a1-28ed69c13055,Physiology,pre-clinical,multi,D
+e845e625-845e-4d02-ab3f-e00f2284d62e,Anatomy,pre-clinical,single,A
+e85a3e86-3c85-4691-ba5e-81189bae3d3d,Dental,dental,single,A
+e85ab3af-b295-4750-853a-9fb9389bf2bb,Dental,dental,multi,B
+e872c1fb-0521-4b18-bfbb-b60544b78a99,Gynaecology & Obstetrics,clinical,multi,D
+e881fcb0-a4f2-45ed-97cf-c53045f98e30,Pharmacology,para-clinical,single,B
+e8882628-fb44-4a22-942e-30277fda53b1,Pathology,para-clinical,single,D
+e8aa61af-a6f5-49ed-a221-93765caf901f,Pathology,para-clinical,single,C
+e8b18049-9725-4ab5-89ad-2799af470822,Surgery,clinical,single,A
+e8b34af9-6a4b-42cf-90ce-fb46a23db79d,Pediatrics,clinical,single,C
+e8de9b5f-8d91-4770-b700-0a4ac5dd29e2,Microbiology,para-clinical,single,A
+e8e4c8af-c2cb-4b44-8865-ff068bdbd6b5,Dental,dental,multi,A
+e8e87fbd-58db-4141-a400-a8043e303add,Pathology,para-clinical,multi,B
+e93ff140-f550-4b5d-a589-aec6b7392142,Medicine,clinical,single,B
+e9474805-33d3-4db9-a0dd-a7171bd262a6,Dental,dental,multi,D
+e974e66a-b20d-4557-84df-bbb0af02f12a,Microbiology,para-clinical,single,B
+e995894b-0611-4ae2-ae1f-0d35025845ae,Pharmacology,para-clinical,single,A
+e99cd253-50f5-421d-a17b-eeb17ed1999c,Microbiology,para-clinical,multi,B
+e9b1a950-b8d0-4c61-8c49-97a7f246c212,Anatomy,pre-clinical,single,B
+e9b885b9-5bdf-47a6-8e6d-1a5cba796bf6,Biochemistry,pre-clinical,single,D
+e9be346c-4d68-4290-9ca4-5ea76f8d2280,Anatomy,pre-clinical,multi,B
+e9d9c003-7fb0-404f-aa20-bea77c101f75,Pediatrics,clinical,single,B
+e9f104f9-2231-4a49-b5a6-983ca6e08c49,Dental,dental,multi,B
+ea10b02c-4402-4a16-9bec-03cc31e8587d,Pharmacology,para-clinical,single,B
+ea356491-9065-46ad-b1d2-bfed7eb2d2ca,Physiology,pre-clinical,single,A
+ea373189-624d-4fb7-bb2b-2168c1e77d61,Biochemistry,pre-clinical,single,A
+ea3e96aa-ded0-4231-b244-17792b9d1674,Pathology,para-clinical,single,C
+ea496b07-bc2b-4d34-a2ca-5d16c07ad2bc,Surgery,clinical,multi,C
+ea52cf79-3622-4578-bbea-b66cb2833ca2,Dental,dental,single,B
+ea74c4e3-b77c-4f4b-93f5-446329dca730,Biochemistry,pre-clinical,single,B
+ea82ad9c-fb9b-43d8-b172-7c6e1593f19b,Dental,dental,single,D
+ea94ff5d-e9d2-4ee0-b761-a372ddae0227,Dental,dental,single,A
+eaa184bf-53c5-4755-bee8-a9153e587ff0,Ophthalmology,clinical,single,D
+eaa33fd8-64a3-47a0-b13c-2b49a1f0e37f,Ophthalmology,clinical,single,A
+eaa8c755-dc9b-4a75-ac66-4664ee83567a,Forensic Medicine,para-clinical,multi,B
+eaae5960-af00-46cd-8bf6-2b238919fb76,Gynaecology & Obstetrics,clinical,single,A
+eab9d801-7f73-4ea9-92e9-2c7077db5e14,Dental,dental,multi,B
+eabcc7ad-f64c-4f79-8b3a-987e57863144,Gynaecology & Obstetrics,clinical,multi,B
+eacfff8d-51f4-440b-b560-43c3a7240da5,Anatomy,pre-clinical,single,A
+eae21df0-06e3-49cb-a1f0-1ac41966e11a,Dental,dental,single,B
+eb01af3c-48a4-484b-a376-1074eb7450e2,Physiology,pre-clinical,single,A
+eb2cf703-b3b6-492b-b8db-9ed90e16beea,Pharmacology,para-clinical,single,C
+eb41d147-19ed-4497-906a-8997f8979545,Anatomy,pre-clinical,single,A
+eb49deaf-5611-4a19-8ad5-0cca73608043,Gynaecology & Obstetrics,clinical,single,B
+eb722516-1a0b-49e3-8b45-912b365d0ea9,Dental,dental,multi,A
+eb9e9551-a8a7-47a4-8531-2633fbb69a52,Dental,dental,single,A
+ebb422b3-9745-4b38-8192-4557d6bcf595,Surgery,clinical,single,D
+ebc97f5c-aba4-4d9b-9051-b6177ee1a94d,Physiology,pre-clinical,single,D
+ebd1b3d6-5161-432c-86a2-532c2ce66765,Social & Preventive Medicine,para-clinical,multi,D
+ebf3275d-4106-4b36-8d92-7d28f52f3576,Surgery,clinical,single,A
+ec05b29c-97f8-4ae5-afe3-f51a00f9fa6f,Microbiology,para-clinical,multi,B
+ec14d880-a203-4453-8e5f-33e65efe9547,Biochemistry,pre-clinical,single,A
+ec1866a1-00c2-425a-8886-ff7321defbd9,ENT,clinical,single,B
+ec25740a-5cbb-4b80-9d07-332c2734f5a7,Dental,dental,multi,B
+ec39111c-8207-4aed-8e4c-e81e104c3f79,Dental,dental,single,C
+ec54fbf2-f596-4d2a-a9cd-1cf104d7893a,Pathology,para-clinical,single,C
+ec6114a9-5426-4d90-bdde-2511889a20ec,Radiology,clinical,single,C
+ec80b06d-855f-41f7-82cf-8aa8d8ec9571,Physiology,pre-clinical,single,C
+ec8aaefa-2e2d-4d4a-a84e-8f9d95918c25,Gynaecology & Obstetrics,clinical,multi,B
+ec9282d1-e1af-4be7-87b7-439159e3c16c,Dental,dental,single,A
+ecc4eaa4-4fcd-4c62-9c73-2a047b98cdc5,Dental,dental,single,C
+ecdd79d8-53c3-4d56-ad8f-695b9122d0e4,Medicine,clinical,multi,D
+ed111e74-8d76-4f2f-ac59-56e7ddc2be88,Surgery,clinical,single,B
+ed147f28-b004-4a01-8231-386f2551ee05,Dental,dental,multi,C
+ed4c848b-b400-4d78-9c27-417bb44cced3,Dental,dental,multi,A
+ed5e1979-1d14-4bcb-a2b1-8fa0f334b982,Surgery,clinical,single,C
+ed77cc3a-5c98-4008-a816-32b1bcfca99b,Dental,dental,single,B
+ed8f7e06-e5bb-4a64-aafa-97c1e56fc1fd,Biochemistry,pre-clinical,single,B
+eda38a61-8191-470a-a712-84502a7ef918,Dental,dental,single,C
+edae0dbf-89f3-424a-bede-c62bcf4f1950,Pathology,para-clinical,single,C
+edb0ef61-a009-4fe9-811e-5b9d6ea40435,Dental,dental,single,B
+edbdb125-7a27-4740-9e03-b379ae34773d,Medicine,clinical,single,D
+edcb831f-c060-498e-a756-c2047eb19c15,Medicine,clinical,single,B
+edcef8a8-1547-4d77-87a2-e556b6e60665,Anatomy,pre-clinical,single,B
+edd2f617-40bb-4a40-9598-059172c2618f,Pharmacology,para-clinical,single,B
+edd8ad29-2dd6-4e4b-8494-0f6af658444d,Surgery,clinical,single,C
+eddd8435-1826-40ba-97d9-83a73e23a5f3,Pharmacology,para-clinical,single,A
+ee25e128-1656-4e30-b7a0-1a3487104989,Dental,dental,single,C
+ee3171ee-b65b-477b-9a73-ea8316b648aa,Pediatrics,clinical,multi,A
+ee31cc18-91fd-4582-a3e8-5311e85521b3,Pathology,para-clinical,single,D
+ee343e97-60cc-402d-8c90-c92e8f168813,Gynaecology & Obstetrics,clinical,single,B
+ee350111-02ad-4142-8dc2-0be524836a16,Dental,dental,single,A
+ee3ac036-6513-4b0a-a7f3-6b158504e9bd,Dental,dental,single,D
+ee5093ed-0f38-4c1f-a70a-13548b8779f7,Surgery,clinical,multi,A
+ee55a9bc-62bb-4952-957a-1902ff5b4376,Medicine,clinical,single,C
+ee5e4f25-9cee-48ea-b4aa-b631162d4543,Pathology,para-clinical,single,C
+ee615bdf-30fc-4478-9571-f6694c0a5e21,Dental,dental,multi,D
+ee9f14bb-4e5e-4e39-99aa-ba63533bf4b2,Microbiology,para-clinical,multi,B
+eea22c1f-7847-43c5-89be-6123accc8846,Microbiology,para-clinical,multi,B
+eea47061-62d2-40bd-a772-8b8d8dfb431d,Social & Preventive Medicine,para-clinical,single,B
+eed5fad1-cadf-4372-b81e-1cbd51b198ac,Dental,dental,multi,D
+eee44fc5-ad97-4eaa-9720-02f6096eece5,Surgery,clinical,single,D
+eefac77e-06d7-4999-885a-69ee26a26e91,Dental,dental,single,B
+ef077628-a770-4538-9639-2162ba1fcdcf,Dental,dental,multi,A
+ef09a789-e189-42dc-a0fb-70da2c5ca170,Dental,dental,single,D
+ef1fe490-ef5b-40a4-8aae-062d5976bd90,Social & Preventive Medicine,para-clinical,single,A
+ef300ffa-be04-4c72-b18c-8e584ad89b20,Pathology,para-clinical,single,B
+ef35d544-203c-4f85-bfe7-a04f8bae3e96,Radiology,clinical,single,C
+ef382bac-08a7-4b34-a5dc-e9eee5dc3cd7,Pharmacology,para-clinical,single,C
+ef3c0dca-5a44-4569-ba14-14ed9fd9a5a5,Biochemistry,pre-clinical,single,B
+ef51fbf9-549d-456a-9286-181a7f6143cd,Physiology,pre-clinical,multi,A
+ef5de730-b6d4-4cb2-8f3e-ca1ac76f021c,Surgery,clinical,single,A
+ef893ac0-92b0-4689-984d-7eade2d8cf53,Dental,dental,single,B
+ef9a0bee-7dbf-44e3-bc03-908430db2007,Radiology,clinical,single,A
+efa0e92a-b11b-4c1c-a97d-8b4409430caa,Dental,dental,single,B
+efbacdd9-1c25-4697-8ad9-377c7a8105b8,Forensic Medicine,para-clinical,single,A
+efc03688-d97e-4d32-b963-944494fab200,Dental,dental,multi,D
+f00b5f5a-9a4e-4003-ad33-12ede354b4d9,Pathology,para-clinical,single,D
+f010ab15-2d53-4002-a0d8-308dc27650c5,Surgery,clinical,multi,A
+f01216e6-e97c-4f6f-8301-c1a37072acc5,Surgery,clinical,single,D
+f0542af7-19d5-4e21-9e75-1a44f6103407,Dental,dental,single,D
+f06f787a-ac63-41ec-b508-2b6d9848264d,Pathology,para-clinical,single,C
+f07a7a11-ae84-4843-a8a2-9f77447fb954,Pharmacology,para-clinical,single,A
+f0ae92d9-8a7e-478e-bcdf-3546a9cd3b7b,Anatomy,pre-clinical,single,B
+f0d305f8-9c80-4091-bf91-9121f03ef067,Dental,dental,single,A
+f0e43051-15d7-4c2a-ba6e-daa8a5e30c11,Pathology,para-clinical,single,A
+f0e91618-fb9d-4218-9c54-3cf1ef81a6fe,Biochemistry,pre-clinical,multi,D
+f128aaa7-d0df-4339-8682-8172862d2da5,Gynaecology & Obstetrics,clinical,single,D
+f1457bfc-13d3-40bb-9ad9-c6ec7f6c00dd,Anatomy,pre-clinical,single,B
+f1586168-b5a9-4b50-acf4-f0575cfb10ea,Medicine,clinical,multi,D
+f170a504-a8b2-4de8-9fe9-6a700e40d8c3,Pathology,para-clinical,single,B
+f184a533-98b4-43ad-b1f5-70edc6704d9e,Dental,dental,single,A
+f186d21a-67e0-4532-bb17-a3b4ac7ccbd2,Dental,dental,multi,B
+f19f48e2-8706-4f8b-bca5-66c3000f7b27,Psychiatry,clinical,multi,D
+f1b944e7-35c7-4ae3-aea7-3cd1d32e5249,Biochemistry,pre-clinical,single,C
+f1f62761-750a-4d61-ae39-13f4c4e131d5,Anatomy,pre-clinical,single,C
+f1f7b5b5-1446-4c3b-b863-6f933689cb95,Gynaecology & Obstetrics,clinical,multi,B
+f20f293f-58fc-4b88-ba1d-d37764178ff4,Medicine,clinical,single,B
+f213cf1e-b5d6-4a25-8027-f1e39514ff20,Surgery,clinical,single,B
+f229b847-b096-4925-ba33-f2a0427cea4d,Physiology,pre-clinical,single,C
+f231bced-c88c-469e-a5e7-0442efe932a1,Gynaecology & Obstetrics,clinical,multi,D
+f23569ea-da84-4e74-aa14-69c64f04424d,Microbiology,para-clinical,multi,D
+f23d2f9b-0dd0-49b4-88de-b7b8570ee171,Pathology,para-clinical,single,B
+f247366c-a835-43f6-91ee-95fdd28a834c,Surgery,clinical,multi,C
+f282ac31-8ff6-4a2b-b1d3-f2ce16552888,Dental,dental,multi,A
+f2c94aa9-36ec-4b01-9a6c-11624e14ffed,Dental,dental,multi,A
+f2ed694c-991d-40e5-a191-25c076168ea6,Microbiology,para-clinical,multi,D
+f2f90872-25be-4295-9e2c-26f8310a2100,Pediatrics,clinical,single,C
+f326a14c-b8d1-43e8-bfca-a8cfe77d3b9f,Dental,dental,single,A
+f361defb-1a36-496f-b195-9dcb6bb31ea5,Psychiatry,clinical,multi,A
+f37b26c3-1be2-4ebd-8a21-a44172a0b092,Pathology,para-clinical,single,B
+f3a56182-648b-4ca9-9e60-6ef497b1b54f,Dental,dental,single,A
+f3b10e99-fb84-459f-8947-e90618a9e6c8,Pathology,para-clinical,multi,A
+f3d65283-cf60-4fd3-a23a-804ca33bc8e9,Physiology,pre-clinical,multi,D
+f3e76c88-e70d-4d84-9f61-6d93ef188950,Pediatrics,clinical,multi,D
+f3eb76db-cf8e-4272-b6ce-02684ad5a7b2,Pharmacology,para-clinical,single,A
+f3f3ad74-951f-4907-913d-f5c6c6c2dd2a,Pathology,para-clinical,single,D
+f3f48369-3b19-470a-bdaa-a5d8fa4d8afa,Gynaecology & Obstetrics,clinical,single,B
+f3fac8a7-d3e8-4d02-b4eb-4ac18da8e7c0,Orthopaedics,clinical,single,A
+f40c0c62-826b-4dee-831d-2dcd9eacedf4,Dental,dental,single,A
+f447a6cc-d72e-4d0b-8330-ffc5c840394f,Pharmacology,para-clinical,single,C
+f447d416-8b56-4a22-a6bc-9b3467fc4b1d,Dental,dental,multi,C
+f453239e-7a50-4fcc-a6c3-a30bab8a7bbc,Biochemistry,pre-clinical,multi,C
+f4640853-99a7-40e8-837c-70e300ae8773,Dental,dental,multi,A
+f4665cfe-6dc5-47c6-88f2-e890fc86cb7c,Dental,dental,single,B
+f4adbaa0-775b-4ef4-89e6-5f8b8290d6d9,Pediatrics,clinical,single,B
+f4affb3a-0fce-423d-aaac-027d30259334,Dental,dental,single,D
+f4b8bacb-390e-4efa-9e65-f7f1bfe8b32b,Medicine,clinical,multi,B
+f4c75eb8-18d8-41bd-81fa-6a03e4519193,Physiology,pre-clinical,single,A
+f4d51744-50f2-42e9-8ec7-5b0e7e55d31e,Medicine,clinical,single,C
+f4e1dbce-eb9d-441c-9e1a-6f81ae207faf,Dental,dental,single,A
+f4ea9cd2-e0a7-41e2-ab75-fe54a8bee24e,Dental,dental,single,B
+f4f1be65-d615-4550-b159-a85d27b8b518,Dental,dental,single,B
+f51955a7-38a2-41d5-8124-a372b3d2c787,Dental,dental,multi,B
+f578a648-c098-4b5b-af14-2cfb956c3779,Dental,dental,multi,A
+f57bea78-7373-4f7e-b8fc-0c338a5b1fef,Dental,dental,single,B
+f5b89559-4ce3-4dd5-b950-5624eb6f4ca8,Gynaecology & Obstetrics,clinical,single,A
+f5f3cd4b-3180-4f0e-b585-d681407b89d0,Social & Preventive Medicine,para-clinical,single,C
+f603675d-c697-4895-bbda-c782cdadbd6f,Medicine,clinical,multi,B
+f60cbc85-478b-4734-ac8d-4ec9b707f84b,Surgery,clinical,multi,C
+f61e8ed7-4156-466d-a4eb-57ae2dedb0c8,Dental,dental,single,D
+f6445d02-67c1-458d-8983-debf90b50ebc,Physiology,pre-clinical,single,A
+f6629c78-7a28-4abb-a0ff-98789fbe04da,Physiology,pre-clinical,single,A
+f66b5dd7-1cf3-4817-83f4-df774ff0885a,Dental,dental,multi,B
+f681a332-bcb8-4fdf-98da-ca4e560f00d2,Social & Preventive Medicine,para-clinical,multi,C
+f6bb3faa-6ccb-4838-a2d9-1ae2f2d63e7d,Skin,clinical,single,A
+f6bd6944-8c47-4037-8871-10855371a4c2,Radiology,clinical,single,D
+f6c37d84-4658-45dd-b75d-741f6f1bcff2,Physiology,pre-clinical,single,D
+f6c4ff25-9770-4650-88f6-82b6b83d7e31,Dental,dental,single,C
+f6cf71c5-7ca4-43a2-893a-f459548c5132,Dental,dental,single,B
+f6e3d46a-cc26-4eea-a659-5d1fa1c3b784,Surgery,clinical,single,A
+f6ea9a5e-e308-4cda-908c-4b34fcc35206,Dental,dental,multi,A
+f6f50542-f6b4-4fa8-b073-d12597eb52f9,Pathology,para-clinical,single,B
+f70b9c50-597e-40e1-94ea-ecf1ddc146aa,Pediatrics,clinical,single,A
+f719334e-ac98-46bf-8b44-89f71994e233,Dental,dental,multi,A
+f7440f57-de36-4bf3-9fd7-f2b6048a472a,Physiology,pre-clinical,single,B
+f7469b1f-dda2-476a-9b27-312a080e0c8a,Microbiology,para-clinical,single,D
+f7a14264-3ccd-4354-b975-2a82ee0150e3,Dental,dental,multi,A
+f7aaa747-4b20-4034-b4dd-3aa8b964327a,Pathology,para-clinical,single,A
+f7c7aa89-a69c-495e-8db6-f39c604165d8,Radiology,clinical,single,B
+f7d9f997-d9d6-40e0-a921-49bb343f8b52,Surgery,clinical,single,B
+f7da806e-72c7-4e47-9a89-46abf9f8fae6,Medicine,clinical,single,A
+f7f15a3e-0141-4a1e-8090-ce25c2fabcea,Dental,dental,single,B
+f80230e3-6a41-4a2d-81a0-86cacead9dcf,Ophthalmology,clinical,single,A
+f816598f-ed46-457e-aefe-c2dab3c36251,Gynaecology & Obstetrics,clinical,multi,A
+f8254ff6-37fa-4669-a994-f922cd33d123,Dental,dental,single,A
+f841125e-342d-4ad5-9138-4acd357f08c6,Radiology,clinical,single,B
+f8420128-0bd2-4a3e-b54f-d99fd7eb7070,Pharmacology,para-clinical,single,A
+f84f7b85-5106-4170-a49c-de1d0bc8bc7c,Dental,dental,multi,C
+f860085a-f00e-4031-9d00-0bb4879c3023,Surgery,clinical,multi,B
+f87f2d68-4192-4a90-9df8-16057f7edbf3,Gynaecology & Obstetrics,clinical,single,D
+f8844c8c-594b-417e-81a5-e46ebe4b65d8,Gynaecology & Obstetrics,clinical,single,A
+f8a5b0e2-b529-4ad4-b55d-f6e5fc4708e1,Social & Preventive Medicine,para-clinical,single,B
+f8c7a8c6-351b-4ffe-b108-dc3363837624,Social & Preventive Medicine,para-clinical,single,B
+f8d6c4a7-2037-44be-bbf6-8a1ea4b0de54,Microbiology,para-clinical,single,C
+f8dab76a-a9f8-408d-ad30-fd8a5d1b74ab,Physiology,pre-clinical,multi,B
+f8f510ef-4928-4806-ba2a-f984e29463c8,Social & Preventive Medicine,para-clinical,single,C
+f90856e7-a924-43b9-9e08-89b95508c61f,Dental,dental,single,B
+f91736e8-259c-4655-a68c-453dd490a7b7,Forensic Medicine,para-clinical,single,A
+f955fff3-f4ec-41be-a119-a43e2024120e,Anatomy,pre-clinical,multi,C
+f9739409-2790-47a9-80b7-98c70f0bcc16,Pediatrics,clinical,single,B
+f979bdd9-437e-4469-9f00-ee6177716204,Anatomy,pre-clinical,single,C
+f990288f-3d8a-48a3-a4bf-ea3e1a20bf96,Physiology,pre-clinical,single,C
+f9b6bce4-d7b0-4828-8574-8bbabd89fdad,Surgery,clinical,multi,D
+f9b91625-8627-40e9-ae62-e7085acb8f3a,Dental,dental,multi,D
+f9bb7193-94ef-47e5-abf3-095faf372aea,Pathology,para-clinical,single,C
+f9bbeea9-85b5-48b9-ad6b-ed9466581c8a,Dental,dental,multi,A
+f9be858f-ef2f-475e-9c82-ced530a1a623,Gynaecology & Obstetrics,clinical,single,B
+f9c97abd-33dd-4262-b287-42f7bd033097,Dental,dental,single,D
+f9d91919-027f-4873-9eae-833e671bcd87,Dental,dental,single,C
+f9ff6912-3b5d-4f69-bd71-598dc46cd041,Medicine,clinical,single,A
+fa2a0cb0-f5b4-4353-9c23-b256c3e73e71,Dental,dental,multi,A
+fa304b14-4fa8-415b-8fba-3e670529cc8a,Gynaecology & Obstetrics,clinical,single,A
+fa343a34-381b-416b-ab19-bdafd40ad25d,Dental,dental,single,D
+fa39f24e-b6bf-43e6-8c00-8b1b5caf8c90,Surgery,clinical,multi,A
+fa5def89-71cb-4aba-9c23-af07401b10b0,Pathology,para-clinical,multi,C
+fa73f211-d8c8-4926-910b-d8a1f5444208,Pediatrics,clinical,multi,A
+fa8d86dc-9efc-454c-8b47-beccf53b41e3,Dental,dental,multi,C
+fab914c7-2813-4300-bddb-e6815e4e6597,Surgery,clinical,single,C
+fac1c57f-f361-406f-a09e-007278ccec16,Dental,dental,single,C
+faca646b-50ec-405f-ab5a-db965ea8a6c6,Pharmacology,para-clinical,single,A
+fad11cf2-c2ab-487b-b8bf-ad6d3b2b1713,Radiology,clinical,single,D
+fadfba88-9355-4a6c-9c99-f689dcf6f3a2,Dental,dental,single,B
+faf1c5f2-3ab2-492c-b58b-1dd81fd5a6d7,Medicine,clinical,multi,D
+faf4af2f-9fe4-4062-9bdb-e21778b5cccd,Gynaecology & Obstetrics,clinical,single,D
+fb136952-1310-4610-aff7-95e8b923ffd9,Surgery,clinical,single,B
+fb23720d-b21a-4c23-803c-99dc0bba7f37,Gynaecology & Obstetrics,clinical,single,A
+fb493e7d-519b-4534-940f-cc3fb93f4b6b,Biochemistry,pre-clinical,single,C
+fb4ea4bd-0f5f-40fa-b377-d0ae72b374a1,Dental,dental,single,C
+fb79561d-8beb-4a31-aaa5-9350e20b0caa,Anaesthesia,clinical,multi,A
+fb834019-2bb9-4944-a0a0-0121cc6156fb,Dental,dental,single,A
+fb8c4e20-6d34-461e-8e14-45fcd8c662e4,Pharmacology,para-clinical,single,D
+fb9d4717-0a12-4fdf-bad8-0fe7bd66e722,Dental,dental,single,A
+fbaace6c-2dbd-458f-a1b6-8e831e7811fa,Pharmacology,para-clinical,multi,C
+fbd3b828-a75a-47d5-bee7-3068e78b2e6f,Pharmacology,para-clinical,single,B
+fbeaf59e-0828-4af8-8b1b-024f50e88857,Dental,dental,single,C
+fc14ffd0-c656-43ae-85a4-369a07cb8465,Dental,dental,single,A
+fc3d5863-8850-4136-8bf9-8f7bb80ca2cb,Pharmacology,para-clinical,multi,D
+fc64fd3a-e114-404f-af63-dfaada2cdbf6,Anatomy,pre-clinical,single,B
+fc83df2a-e58c-4bb9-b4e8-d20541d3f9c4,Social & Preventive Medicine,para-clinical,single,D
+fca6dd3f-4e3a-49fe-a893-e4c69ee343b3,Dental,dental,single,A
+fcb698be-6cbb-47ac-81e0-f40be2a42583,Dental,dental,multi,B
+fcbb415d-5122-4a17-8042-196d3e5add29,Surgery,clinical,single,D
+fcf2426c-5371-4141-b4ba-5a941e305824,Medicine,clinical,single,C
+fd03f7de-6c4a-4244-97c6-12829919c1ed,ENT,clinical,single,B
+fd188bc0-c100-44ae-bd1e-ef51e94e6425,Dental,dental,multi,C
+fd1abff0-73fe-49da-b311-3184d0c0e54d,Medicine,clinical,multi,C
+fd2aca85-4353-4ac2-9eac-0a043f681685,Anatomy,pre-clinical,single,C
+fd315adc-df4b-4a81-895b-6f093eeb71b2,Pediatrics,clinical,single,B
+fd3bbbaf-a413-4866-ad96-64850d580f15,Dental,dental,multi,D
+fd5e72b2-ff85-4ad8-8457-50ae63f377db,Pathology,para-clinical,multi,A
+fd711e43-2e62-409e-89fc-4ac2a9a2d5d9,Gynaecology & Obstetrics,clinical,single,B
+fd9e328b-1ae3-4c92-9477-c193279778a8,Anatomy,pre-clinical,single,D
+fda4a6bd-3eb5-4641-88da-513b72c1d320,Surgery,clinical,single,D
+fdc00e53-994d-4102-af10-187b5df06242,Surgery,clinical,multi,D
+fdcb0022-449b-48e5-93b5-d9cd1813ed7b,Dental,dental,single,D
+fddbb54c-e463-437d-8bd6-f48e23002637,Surgery,clinical,multi,B
+fe12f221-b75a-4418-b14d-642a0d3b8289,Dental,dental,single,C
+fe1ce20a-009c-45a2-8279-bff1d2e4abcf,Social & Preventive Medicine,para-clinical,single,B
+fe1e7fd7-eab7-4ce9-a865-8c02fb21022b,Dental,dental,single,B
+fe3802ce-0adf-40e0-a69b-1c70aec9fe94,Pediatrics,clinical,single,C
+fe55c8c7-c6ba-4882-a3c0-15171d62e603,Pharmacology,para-clinical,single,C
+fe5ec2bf-ad45-4b77-9a7e-9fc2a67d9527,Dental,dental,single,A
+fec70b32-0c72-4266-908e-bd4900b01b31,Pathology,para-clinical,single,B
+fee8e15d-e052-4604-a6d6-612b6d8206a1,Biochemistry,pre-clinical,multi,B
+fef5262b-beee-4456-aef1-aa0f161733ea,Physiology,pre-clinical,single,B
+fef86c9b-de3e-4ccb-964a-8961f4f4de1f,Dental,dental,multi,C
+ff410d96-12d4-43ba-8b24-7bfbd8ad360c,Biochemistry,pre-clinical,single,A
+ff4a2857-8eaf-46c6-be36-0ba13bdd3534,Dental,dental,multi,D
+ff7fb7f6-d85e-44f5-af84-9dc2d140b067,Medicine,clinical,multi,B
+ffd36d27-2c76-4434-ab87-dadd41f0a432,Dental,dental,single,A
+ffd6dc42-8f32-4997-8d0f-b7a0639e02df,Anatomy,pre-clinical,multi,C
+fff1837f-cb64-4f0a-9832-6d611b8e9f28,Social & Preventive Medicine,para-clinical,single,C
+fffb00bf-d5e6-4975-9299-12beacacb8ad,Pediatrics,clinical,single,B
