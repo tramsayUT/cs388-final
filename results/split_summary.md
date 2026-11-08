@@ -36,8 +36,8 @@
 | Ophthalmology | 14 | 1.4 | 41 | 1.4 |
 | ENT | 13 | 1.3 | 38 | 1.3 |
 | Anaesthesia | 9 | 0.9 | 24 | 0.8 |
-| Orthopaedics | 5 | 0.5 | 13 | 0.4 |
 | Skin | 4 | 0.4 | 13 | 0.4 |
+| Orthopaedics | 5 | 0.5 | 13 | 0.4 |
 | Psychiatry | 4 | 0.4 | 12 | 0.4 |
 
 ## Correct answer letter
