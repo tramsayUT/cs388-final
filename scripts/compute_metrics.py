@@ -59,6 +59,22 @@ COVERAGE_TARGETS: tuple[float, ...] = (0.5, 0.8)
 METHODS: tuple[str, ...] = ("tp_raw", "tp_raw_ts", "tp_corr", "tp_corr_ts", "vb", "vb_platt", "sa", "sa_platt")
 CI_METRICS: tuple[str, ...] = ("accuracy", "ece", "auroc", "brier")
 
+# Paired comparisons on the test split: (metric, method A, method B). Difference is A - B.
+PAIRED_COMPARISONS: tuple[tuple[str, str, str], ...] = (
+    ("ece", "tp_raw", "tp_raw_ts"),
+    ("ece", "tp_raw", "tp_corr"),
+    ("ece", "tp_raw_ts", "tp_corr_ts"),
+    ("ece", "vb", "sa"),
+    ("ece", "tp_raw_ts", "vb_platt"),
+    ("ece", "tp_raw_ts", "sa_platt"),
+    ("auroc", "sa", "vb"),
+    ("auroc", "sa", "tp_raw"),
+    ("auroc", "sa", "tp_corr"),
+    ("auroc", "tp_raw", "vb"),
+    ("accuracy", "tp_corr", "tp_raw"),
+    ("accuracy", "vb", "tp_raw"),
+)
+
 
 # ---------------------------------------------------------------- loading
 
@@ -330,6 +346,8 @@ def point_metrics(confidence: np.ndarray, correct: np.ndarray) -> dict[str, floa
         "accuracy": float(correct.mean()),
         "mean_confidence": float(confidence.mean()),
         "ece": ece_equal_width(confidence, correct),
+        "ece_10": ece_equal_width(confidence, correct, 10),
+        "ece_20": ece_equal_width(confidence, correct, 20),
         "ece_mass10": ece_equal_mass(confidence, correct),
         "rms_ce": rms_calibration_error(confidence, correct),
         "brier": float(np.mean((confidence - correct) ** 2)),
@@ -397,6 +415,95 @@ def metrics_table(tables: dict[str, pd.DataFrame], group_col: str | None, with_c
                 row.update(bootstrap_ci(conf, corr, rng))
             rows.append(row)
     return pd.DataFrame(rows)
+
+
+def metric_value(metric: str, confidence: np.ndarray, correct: np.ndarray) -> float:
+    """Compute one headline metric.
+
+    Args:
+        metric: "ece", "auroc", "accuracy", or "brier".
+        confidence: Confidences.
+        correct: 0/1 correctness.
+
+    Returns:
+        Metric value.
+
+    Raises:
+        ValueError: For an unknown metric name.
+    """
+    if metric == "ece":
+        return ece_equal_width(confidence, correct)
+    if metric == "auroc":
+        return safe_auroc(confidence, correct)
+    if metric == "accuracy":
+        return float(correct.mean())
+    if metric == "brier":
+        return float(np.mean((confidence - correct) ** 2))
+    raise ValueError(f"Unknown metric: {metric}")
+
+
+def paired_bootstrap(tables: dict[str, pd.DataFrame]) -> pd.DataFrame:
+    """Paired bootstrap tests for headline differences between methods.
+
+    Both methods are scored on the same resampled questions (matched by ID),
+    so the test accounts for their correlation. The two-sided p-value is
+    twice the smaller tail share of bootstrap differences at or beyond zero.
+
+    Args:
+        tables: Method name -> prediction table.
+
+    Returns:
+        DataFrame with one row per comparison: difference (A - B), 95% CI, p.
+    """
+    rng = np.random.default_rng(BOOTSTRAP_SEED)
+    rows = []
+    for metric, method_a, method_b in PAIRED_COMPARISONS:
+        merged = tables[method_a][["id", "confidence", "correct"]].merge(
+            tables[method_b][["id", "confidence", "correct"]], on="id", suffixes=("_a", "_b"))
+        conf_a, corr_a = merged["confidence_a"].to_numpy(), merged["correct_a"].to_numpy()
+        conf_b, corr_b = merged["confidence_b"].to_numpy(), merged["correct_b"].to_numpy()
+        observed = metric_value(metric, conf_a, corr_a) - metric_value(metric, conf_b, corr_b)
+        n = len(merged)
+        diffs = np.empty(BOOTSTRAP_SAMPLES)
+        for i in range(BOOTSTRAP_SAMPLES):
+            idx = rng.integers(0, n, n)
+            diffs[i] = metric_value(metric, conf_a[idx], corr_a[idx]) - metric_value(metric, conf_b[idx], corr_b[idx])
+        lo, hi = np.nanpercentile(diffs, [2.5, 97.5])
+        p_value = min(1.0, 2 * min(np.nanmean(diffs <= 0), np.nanmean(diffs >= 0)))
+        rows.append({"metric": metric, "method_a": method_a, "method_b": method_b, "n": n,
+                     "diff_a_minus_b": observed, "ci_lo": lo, "ci_hi": hi, "p_value": p_value})
+    return pd.DataFrame(rows)
+
+
+def method_disagreement(tables: dict[str, pd.DataFrame], test: pd.DataFrame) -> tuple[pd.DataFrame, float]:
+    """Compare token-probability and sampling-agreement confidence on the same answers.
+
+    Both signals score the raw token-probability answer. Each question is
+    labeled high or low on each signal (at or above that signal's median
+    calibrated confidence), and accuracy is reported for each of the four cells.
+
+    Args:
+        tables: Method name -> prediction table.
+        test: Test-split results (for verbalized/token answer agreement).
+
+    Returns:
+        Tuple of (2x2 cell table, share of questions where the verbalized
+        answer matches the raw token-probability answer).
+    """
+    merged = tables["tp_raw_ts"][["id", "confidence", "correct"]].merge(
+        tables["sa_platt"][["id", "confidence"]], on="id", suffixes=("_tp", "_sa"))
+    tp_high = merged["confidence_tp"] >= merged["confidence_tp"].median()
+    sa_high = merged["confidence_sa"] >= merged["confidence_sa"].median()
+    rows = []
+    for tp_label, tp_mask in (("high", tp_high), ("low", ~tp_high)):
+        for sa_label, sa_mask in (("high", sa_high), ("low", ~sa_high)):
+            cell = merged[tp_mask & sa_mask]
+            rows.append({"token_prob": tp_label, "sampling_agreement": sa_label, "n": len(cell),
+                         "share_pct": 100 * len(cell) / len(merged),
+                         "accuracy_pct": 100 * cell["correct"].mean() if len(cell) else np.nan})
+    both = test.dropna(subset=["vb_answer", "tp_raw_answer"])
+    answer_agreement = float((both["vb_answer"] == both["tp_raw_answer"]).mean())
+    return pd.DataFrame(rows), answer_agreement
 
 
 def reliability_bins(tables: dict[str, pd.DataFrame]) -> pd.DataFrame:
@@ -514,7 +621,8 @@ def frame_to_markdown(frame: pd.DataFrame) -> str:
     return "\n".join([header, divider, *body])
 
 
-def write_summary(tag: str, main: pd.DataFrame, stage: pd.DataFrame, bias: pd.DataFrame, params: dict) -> str:
+def write_summary(tag: str, main: pd.DataFrame, stage: pd.DataFrame, bias: pd.DataFrame, params: dict,
+                  paired: pd.DataFrame, disagreement: pd.DataFrame, answer_agreement: float) -> str:
     """Build the Markdown summary.
 
     Args:
@@ -523,6 +631,9 @@ def write_summary(tag: str, main: pd.DataFrame, stage: pd.DataFrame, bias: pd.Da
         stage: Per-stage metrics.
         bias: Letter-bias statistics.
         params: Fitted calibration parameters.
+        paired: Paired bootstrap comparisons.
+        disagreement: Token-probability vs. sampling-agreement 2x2 table.
+        answer_agreement: Share of verbalized answers matching token-probability answers.
 
     Returns:
         Markdown string.
@@ -542,6 +653,16 @@ def write_summary(tag: str, main: pd.DataFrame, stage: pd.DataFrame, bias: pd.Da
         + f" | {r.chi2:.1f} (p={r.chi2_p:.2g}) |"
         for _, r in bias.iterrows()
     ]
+    bins_rows = [f"| {r.method} | {100 * r.ece_10:.1f} | {100 * r.ece:.1f} | {100 * r.ece_20:.1f} | "
+                 f"{100 * r.ece_mass10:.1f} | {100 * r.rms_ce:.1f} |" for _, r in main.iterrows()]
+    paired_rows = []
+    for _, r in paired.iterrows():
+        scale, digits = (100, 1) if r.metric in ("ece", "accuracy") else (1, 3)
+        paired_rows.append(f"| {r.metric} | {r.method_a} - {r.method_b} | {scale * r.diff_a_minus_b:+.{digits}f} | "
+                           f"[{scale * r.ci_lo:+.{digits}f}, {scale * r.ci_hi:+.{digits}f}] | "
+                           f"{'<0.001' if r.p_value == 0 else f'{r.p_value:.3g}'} |")
+    disagreement_rows = [f"| {r.token_prob} | {r.sampling_agreement} | {r.n} | {r.share_pct:.1f} | {r.accuracy_pct:.1f} |"
+                         for _, r in disagreement.iterrows()]
     return "\n\n".join([
         f"# Calibration metrics: {tag} (test split)",
         f"- Test questions: {params['test_n_total']}; per-method n reflects parse failures dropped",
@@ -555,6 +676,14 @@ def write_summary(tag: str, main: pd.DataFrame, stage: pd.DataFrame, bias: pd.Da
         "## AUROC by training stage\n\n" + frame_to_markdown(auroc_pivot),
         "## Letter bias (token probability)\n\n| Answer | RStd (pts) | Chosen A/B/C/D % | Chi-square vs gold |\n"
         "|---|---|---|---|\n" + "\n".join(bias_rows),
+        "## ECE % sensitivity to binning\n\n| Method | 10 bins | 15 bins | 20 bins | 10 equal-mass | RMS (equal-mass) |\n"
+        "|---|---|---|---|---|---|\n" + "\n".join(bins_rows),
+        "## Paired bootstrap tests (A - B; ECE and accuracy in % points)\n\n"
+        "| Metric | Comparison | Difference | 95% CI | p |\n|---|---|---|---|---|\n" + "\n".join(paired_rows),
+        "## Token probability vs. sampling agreement (calibrated; split at each median)\n\n"
+        "| Token prob. | Sampling agr. | n | % of questions | Accuracy % |\n|---|---|---|---|---|\n"
+        + "\n".join(disagreement_rows)
+        + f"\n\nVerbalized answer matches the raw token-probability answer on {100 * answer_agreement:.1f}% of questions.",
     ])
 
 
@@ -579,6 +708,8 @@ def main() -> int:
     stage_metrics = metrics_table(tables, "stage", with_ci=True)
     subject_metrics = metrics_table(tables, "subject_name", with_ci=False, min_n=MIN_SUBJECT_TEST_N)
     bias = letter_bias(test)
+    paired = paired_bootstrap(tables)
+    disagreement, answer_agreement = method_disagreement(tables, test)
 
     METRICS_DIR.mkdir(parents=True, exist_ok=True)
     prefix = METRICS_DIR / args.tag
@@ -588,9 +719,12 @@ def main() -> int:
     reliability_bins(tables).to_csv(f"{prefix}_reliability.csv", index=False)
     coverage_curves(tables).to_csv(f"{prefix}_coverage.csv", index=False)
     bias.to_csv(f"{prefix}_letter_bias.csv", index=False)
+    paired.to_csv(f"{prefix}_paired_tests.csv", index=False)
+    disagreement.to_csv(f"{prefix}_disagreement.csv", index=False)
     Path(f"{prefix}_params.json").write_text(json.dumps(params, indent=2))
 
-    summary = write_summary(args.tag, main_metrics, stage_metrics, bias, params)
+    summary = write_summary(args.tag, main_metrics, stage_metrics, bias, params, paired, disagreement,
+                            answer_agreement)
     Path(f"{prefix}_summary.md").write_text(summary + "\n")
     print(summary)
     logger.info("Wrote metrics to %s", METRICS_DIR)
