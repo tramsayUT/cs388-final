@@ -187,7 +187,7 @@ def stage_figure(data: dict[str, pd.DataFrame], tag: str) -> None:
             sub = stage[stage["method"] == family].set_index("group").reindex(list(STAGES))
             x = np.arange(len(STAGES)) + offset
             y = scale * sub[metric]
-            err = np.vstack([y - scale * sub[f"{metric}_lo"], scale * sub[f"{metric}_hi"] - y])
+            err = np.clip(np.vstack([y - scale * sub[f"{metric}_lo"], scale * sub[f"{metric}_hi"] - y]), 0, None)
             ax.errorbar(x, y, yerr=err, fmt="o", color=color, markersize=6, capsize=0, elinewidth=1.5,
                         label=LABELS[family])
         ax.set_xticks(range(len(STAGES)))

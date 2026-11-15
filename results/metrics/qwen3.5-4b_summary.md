@@ -47,3 +47,44 @@
 |---|---|---|---|
 | tp_raw | 5.3 | 22.4 / 30.5 / 23.4 / 23.7 | 104.7 (p=1.5e-22) |
 | tp_corr | 1.7 | 30.9 / 26.0 / 22.4 / 20.6 | 0.2 (p=0.98) |
+
+## ECE % sensitivity to binning
+
+| Method | 10 bins | 15 bins | 20 bins | 10 equal-mass | RMS (equal-mass) |
+|---|---|---|---|---|---|
+| tp_raw | 12.7 | 12.7 | 12.7 | 12.7 | 13.8 |
+| tp_raw_ts | 2.5 | 2.6 | 2.7 | 2.6 | 3.3 |
+| tp_corr | 4.8 | 4.8 | 4.9 | 5.2 | 5.4 |
+| tp_corr_ts | 2.5 | 2.6 | 2.9 | 3.0 | 3.6 |
+| vb | 35.8 | 35.8 | 35.8 | 35.8 | 36.1 |
+| vb_platt | 1.6 | 2.0 | 1.6 | 2.4 | 2.9 |
+| sa | 12.9 | 12.9 | 12.9 | 13.0 | 13.6 |
+| sa_platt | 3.8 | 4.1 | 4.2 | 4.4 | 5.9 |
+
+## Paired bootstrap tests (A - B; ECE and accuracy in % points)
+
+| Metric | Comparison | Difference | 95% CI | p |
+|---|---|---|---|---|
+| ece | tp_raw - tp_raw_ts | +10.1 | [+7.5, +11.5] | <0.001 |
+| ece | tp_raw - tp_corr | +8.0 | [+6.0, +9.0] | <0.001 |
+| ece | tp_raw_ts - tp_corr_ts | +0.0 | [-1.8, +1.5] | 0.798 |
+| ece | vb - sa | +22.9 | [+21.2, +24.5] | <0.001 |
+| ece | tp_raw_ts - vb_platt | +0.6 | [-0.5, +2.9] | 0.218 |
+| ece | tp_raw_ts - sa_platt | -1.5 | [-2.8, +0.5] | 0.166 |
+| auroc | sa - vb | +0.251 | [+0.227, +0.275] | <0.001 |
+| auroc | sa - tp_raw | +0.060 | [+0.045, +0.075] | <0.001 |
+| auroc | sa - tp_corr | +0.063 | [+0.043, +0.080] | <0.001 |
+| auroc | tp_raw - vb | +0.191 | [+0.168, +0.214] | <0.001 |
+| accuracy | tp_corr - tp_raw | +3.4 | [+2.0, +4.8] | <0.001 |
+| accuracy | vb - tp_raw | +2.3 | [+0.8, +3.7] | 0.002 |
+
+## Token probability vs. sampling agreement (calibrated; split at each median)
+
+| Token prob. | Sampling agr. | n | % of questions | Accuracy % |
+|---|---|---|---|---|
+| high | high | 1199 | 41.2 | 87.2 |
+| high | low | 256 | 8.8 | 39.8 |
+| low | high | 406 | 14.0 | 68.0 |
+| low | low | 1048 | 36.0 | 28.1 |
+
+Verbalized answer matches the raw token-probability answer on 78.6% of questions.

@@ -119,7 +119,7 @@ def comparison_figure(small: str, large: str) -> None:
                                      (axes[2], "auroc", "AUROC (higher = better)", 1)):
         for frame, tag, color, offset in ((main_small, small, SMALL_COLOR, -0.15), (main_large, large, LARGE_COLOR, 0.15)):
             value = scale * frame[metric]
-            err = np.vstack([value - scale * frame[f"{metric}_lo"], scale * frame[f"{metric}_hi"] - value])
+            err = np.clip(np.vstack([value - scale * frame[f"{metric}_lo"], scale * frame[f"{metric}_hi"] - value]), 0, None)
             ax.errorbar(value, y + offset, xerr=err, fmt="o", color=color, markersize=6, capsize=0,
                         elinewidth=1.5, label=tag)
         ax.set_xlabel(label)
