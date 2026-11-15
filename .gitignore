@@ -26,3 +26,13 @@ data/raw/
 # OS
 .DS_Store
 Thumbs.db
+
+# LaTeX build files
+*.aux
+*.log
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.out

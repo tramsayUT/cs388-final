@@ -1,0 +1,97 @@
+% CS388 Final Project report: skeleton.
+% Template: NeurIPS 2026 (neurips_2026.sty from the official ZIP, in this folder).
+% Option "preprint": shows the author name, no line numbers, footer reads "Preprint."
+% (The default anonymizes the author and adds line numbers; "final" needs a track
+% option and would print "40th Conference on NeurIPS" in the footer, which a
+% course project should not claim.)
+% Page budget (course rule, overrides the template's 9): 6-8 pages excluding references.
+% Target lengths are in comments.
+
+\documentclass{article}
+\usepackage[preprint]{neurips_2026}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true, linkcolor=black, citecolor=blue!60!black, urlcolor=blue!60!black}
+\usepackage{url}
+\usepackage{booktabs}
+\usepackage{amsfonts,amsmath}
+\usepackage{nicefrac}
+\usepackage{microtype}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\graphicspath{{../figures/}}
+
+\title{When Can a Medical QA Model's Confidence Be Trusted?\\
+Comparing Token-Probability, Verbalized, and Sampling-Based Calibration on MedMCQA}
+
+\author{Troy Ramsay \\ The University of Texas at Austin \\ \texttt{tramsay@utexas.edu}}
+
+\begin{document}
+\maketitle
+
+\begin{center}
+  \textbf{Video:} \url{https://youtu.be/REPLACE-ME}
+\end{center}
+
+\begin{abstract}
+% ~150-200 words. Problem, track, what was compared, 3 headline numbers, takeaway.
+TODO
+\end{abstract}
+
+\section{Introduction}
+% ~0.75 page.
+% - Motivation: confidence is only useful if it means what it says; medical QA raises the stakes.
+% - State the track explicitly: "This project falls under the Uncertainty and Calibration track."
+% - Research questions (Q1 methods, Q2 fixes, Q3 scale, Q4 where it breaks, Q5 selective answering).
+% - Contributions (bullet list); note the H2 result that contradicts prior work.
+TODO
+
+\section{Related Work}
+% ~0.75 page. Guo et al. 2017; Desai & Durrett 2020; Kadavath et al. 2022;
+% Xiong et al. 2024; Tian et al. 2023; Zheng et al. 2024; Wang et al. 2023;
+% Kamath et al. 2020; Nixon et al. 2019; Pal et al. 2022 (MedMCQA).
+TODO
+
+\section{Method}
+% ~1 page.
+% - Definition of confidence: probability that the selected answer letter is correct.
+% - Three estimators: token probability (A-D renormalized), verbalized (0-100), sampling agreement (k=10, T=0.7, anchored on greedy answer).
+% - Letter-bias correction: mean over 4 cyclic option rotations.
+% - Post-hoc calibration: temperature scaling (token prob.), Platt scaling (verbalized, sampling), fit on calibration split.
+% - Metrics: ECE (15 equal-width bins; primary), AUROC, Brier, selective AUC, accuracy at coverage; paired bootstrap.
+TODO
+
+\section{Experimental Setup}
+% ~1 page.
+% - MedMCQA validation (4,183) -> exclusions (244 cross-referencing, 28 image-dependent, 2 Unknown) -> 3,909.
+% - Stratified split by subject: 1,000 calibration / 2,909 test, seed 388 (reproduced exactly on a fresh machine).
+% - Models: Qwen3.5-4B and Qwen3.5-27B, bf16, vLLM, thinking mode off, zero-shot.
+% - Compute: single A40 (4B) and A100 80GB (27B).
+% - Hypotheses H1-H7 (could be a compact table).
+TODO
+
+\section{Results}
+% ~2 pages: main table (both models), reliability figure, coverage figure, letter-bias figure, model comparison.
+TODO
+
+\section{Analysis}
+% ~1.5 pages: by training stage (dental), error categories, method disagreement, hypothesis-by-hypothesis.
+TODO
+
+\section{Limitations}
+% ~0.5 page: contamination; MedMCQA label noise and digitization artifacts; pattern-based image filter;
+% one model family; multiple choice and zero-shot only; ECE upward bias; associations, not causes.
+TODO
+
+\section{Conclusion}
+% ~0.25 page.
+TODO
+
+% Uncomment once refs.bib exists and the text has \citep{...} commands
+% (BibTeX stops with an error when there are no citations yet).
+% \bibliographystyle{plainnat}
+% \bibliography{refs}
+
+\end{document}
