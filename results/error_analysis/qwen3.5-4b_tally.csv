@@ -1,0 +1,72 @@
+section,item,group,count
+categories,correct,sa_high_tp_low,9
+categories,key_error,sa_high_tp_low,1
+categories,knowledge_gap,sa_high_tp_low,0
+categories,near_miss,sa_high_tp_low,0
+categories,artifact,sa_high_tp_low,0
+categories,other,sa_high_tp_low,0
+categories,correct,tp_high_sa_low,3
+categories,key_error,tp_high_sa_low,0
+categories,knowledge_gap,tp_high_sa_low,5
+categories,near_miss,tp_high_sa_low,2
+categories,artifact,tp_high_sa_low,0
+categories,other,tp_high_sa_low,0
+categories,correct,bias_flip,3
+categories,key_error,bias_flip,0
+categories,knowledge_gap,bias_flip,3
+categories,near_miss,bias_flip,1
+categories,artifact,bias_flip,1
+categories,other,bias_flip,2
+categories,correct,Total,15
+categories,key_error,Total,1
+categories,knowledge_gap,Total,8
+categories,near_miss,Total,3
+categories,artifact,Total,1
+categories,other,Total,2
+tags,Negation question,sa_high_tp_low,6
+tags,Garbled dataset text,sa_high_tp_low,4
+tags,Letter bias,sa_high_tp_low,0
+tags,"Flawed reasoning, right answer",sa_high_tp_low,1
+tags,Key questionable,sa_high_tp_low,1
+tags,Disagreeing sample was right,sa_high_tp_low,0
+tags,Two plausible options,sa_high_tp_low,0
+tags,Negation question,tp_high_sa_low,1
+tags,Garbled dataset text,tp_high_sa_low,2
+tags,Letter bias,tp_high_sa_low,0
+tags,"Flawed reasoning, right answer",tp_high_sa_low,0
+tags,Key questionable,tp_high_sa_low,0
+tags,Disagreeing sample was right,tp_high_sa_low,3
+tags,Two plausible options,tp_high_sa_low,1
+tags,Negation question,bias_flip,2
+tags,Garbled dataset text,bias_flip,1
+tags,Letter bias,bias_flip,2
+tags,"Flawed reasoning, right answer",bias_flip,0
+tags,Key questionable,bias_flip,1
+tags,Disagreeing sample was right,bias_flip,2
+tags,Two plausible options,bias_flip,0
+tags,Negation question,Total,9
+tags,Garbled dataset text,Total,7
+tags,Letter bias,Total,2
+tags,"Flawed reasoning, right answer",Total,1
+tags,Key questionable,Total,2
+tags,Disagreeing sample was right,Total,5
+tags,Two plausible options,Total,1
+accuracy,Raw answer correct,sa_high_tp_low,9
+accuracy,Raw answer correct,tp_high_sa_low,3
+accuracy,Raw answer correct,bias_flip,3
+accuracy,Raw answer correct,Total,15
+flips,fixed,A,0
+flips,broke,A,0
+flips,both wrong,A,2
+flips,fixed,B,3
+flips,broke,B,2
+flips,both wrong,B,0
+flips,fixed,C,1
+flips,broke,C,0
+flips,both wrong,C,0
+flips,fixed,D,0
+flips,broke,D,1
+flips,both wrong,D,1
+flips,fixed,Total,4
+flips,broke,Total,3
+flips,both wrong,Total,3
