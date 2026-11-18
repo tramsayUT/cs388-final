@@ -89,9 +89,10 @@ TODO
 % ~0.25 page.
 TODO
 
-% Uncomment once refs.bib exists and the text has \citep{...} commands
-% (BibTeX stops with an error when there are no citations yet).
-% \bibliographystyle{plainnat}
-% \bibliography{refs}
+% \nocite{*} lists every refs.bib entry until the text cites them; remove it
+% once all seven papers are cited in the text.
+\nocite{*}
+\bibliographystyle{plainnat}
+\bibliography{refs}
 
 \end{document}
